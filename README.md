@@ -1,5 +1,35 @@
-# soccer-betting-public-live-recorder-daily-update
+# 足球投注公开记录
 
-Repository reset on **2026-10-28 19:38:11**.
+> 🇬🇧 [English version](README_EN.md) | An English version is available.
 
-Daily records will be populated automatically by the collector.
+一个用数据做投注的足球开发者。本仓库是我每天投注信号与已结算赛果的公开记录，
+每一场比赛都能追溯到原始邮件，Git 提交历史保证记录不可篡改。
+
+> 最后更新：**2026-10-28 20:10:46**
+
+## 📊 累计统计
+
+| 指标 | 数值 |
+|---|---|
+| 总投注场次 | 1 |
+| 已结算 | 0 |
+| 红单（赢+赢半） | 0 |
+| 黑单（输+输半） | 0 |
+| 走水 | 0 |
+| 胜率 | 0.0% |
+| 总投入 | 0.00 |
+| 总盈亏 | +0.00 |
+| ROI | +0.00% |
+
+## 📅 每日记录
+
+| 日期 | 场次 | 已结算 | 盈亏 | 详情 |
+|---|---|---|---|---|
+| 2026-10-27 | 1 | 0 | +0.00 | [中文](daily/2026-10-27/report.md) · [EN](daily/2026-10-27/report_EN.md) |
+
+## 🔒 公信力说明
+
+- 每场比赛保留原始信号行与赛果行（`daily/*/bets.json`、`daily/*/results.json` 的 `raw_line` 字段）
+- 所有数据由私有脚本自动从邮箱同步，人工不干预
+- Git 提交历史提供不可篡改的时间戳
+- 投注本金固定 **100 元/场**，盈亏按 (`odds-1`) 计算；赢半 +50×(odds-1)，输半 -50
