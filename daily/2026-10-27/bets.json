@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-27",
+  "count": 1,
+  "signals": [
+    {
+      "match_key": "2026-10-27|阿甲|巴拉卡斯|里奥夸托|away|-0.25",
+      "league": "阿甲",
+      "home": "巴拉卡斯",
+      "away": "里奥夸托",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 1.89,
+      "kickoff_estimated": "2026-10-27 23:15:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_91249351B0667FD83C64F5A9E38F83EBE608@qq.com>",
+      "bet_recv_time": "2026-10-27 23:19:41",
+      "raw_line": "阿甲 | 巴拉卡斯 vs 里奥夸托 | 赔率 1.89 | 上半场 · 客队 | 盘口 -0.25"
+    }
+  ]
+}
