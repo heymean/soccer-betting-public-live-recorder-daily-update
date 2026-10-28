@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-10-28 20:25:00",
+    "last_update": "2026-10-29 01:06:12",
     "default_stake": null,
-    "total_bets": 2,
+    "total_bets": 3,
     "total_settled": 0,
     "total_stake": 0.0,
     "total_profit": 0.0,
@@ -48,6 +48,25 @@
         "msg_id": "<tencent_25B0EB7FD43C6BF5C5E36983A8E638936208@qq.com>",
         "recv_time": "2026-10-28 20:20:51",
         "raw_line": "亚冠乙 | 军用电信 vs 首尔FC | 赔率 2.00 | 全场 · 双方进球（BTTS）"
+      },
+      "result": null
+    },
+    "2026-10-29|德国杯|帕德博恩|斯图加特|away|0.50": {
+      "match_key": "2026-10-29|德国杯|帕德博恩|斯图加特|away|0.50",
+      "match_date": "2026-10-29",
+      "league": "德国杯",
+      "home": "帕德博恩",
+      "away": "斯图加特",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.5,
+      "odds": 1.89,
+      "kickoff_time": "2026-10-29 01:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_256CC25F118F4F7DF538C7A08D79CEA43406@qq.com>",
+        "recv_time": "2026-10-29 01:05:20",
+        "raw_line": "德国杯 | 帕德博恩 vs 斯图加特 | 赔率 1.89 | 上半场 · 客队 | 盘口 +0.5"
       },
       "result": null
     }
