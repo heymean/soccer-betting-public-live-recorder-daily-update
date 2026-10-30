@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "count": 4,
+  "count": 5,
   "signals": [
     {
       "match_key": "2026-10-31|德乙|比勒费尔德|不伦瑞克|home|-0.25",
@@ -61,6 +61,21 @@
       "bet_msg_id": "<tencent_6B7DE9F8DCE0A639E0E40DACD09F3DCF7906@qq.com>",
       "bet_recv_time": "2026-10-31 02:32:00",
       "raw_line": "罗甲 | 布加勒斯特快速 vs 奇克塞雷达 | 赔率 1.95 | 全场 · 双方进球（BTTS）"
+    },
+    {
+      "match_key": "2026-10-31|德甲|埃尔沃斯堡|美因茨|away|0.25",
+      "league": "德甲",
+      "home": "埃尔沃斯堡",
+      "away": "美因茨",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 1.98,
+      "kickoff_estimated": "2026-10-31 03:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_EDE30883DEE6769337B04A7F4D3C02F56108@qq.com>",
+      "bet_recv_time": "2026-10-31 03:31:51",
+      "raw_line": "德甲 | 埃尔沃斯堡 vs 美因茨 | 赔率 1.98 | 上半场 · 客队 | 盘口 +0.25"
     }
   ]
 }
