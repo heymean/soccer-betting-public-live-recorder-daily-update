@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-10-31 01:35:01",
+    "last_update": "2026-10-31 02:05:01",
     "default_stake": null,
-    "total_bets": 7,
+    "total_bets": 9,
     "total_settled": 0,
     "total_stake": 0.0,
     "total_profit": 0.0,
@@ -143,6 +143,44 @@
         "msg_id": "<tencent_1D4B0643CDC126036089FE9E7834EA5BC709@qq.com>",
         "recv_time": "2026-10-31 01:32:08",
         "raw_line": "德乙 | 比勒费尔德 vs 不伦瑞克 | 赔率 2.03 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "2026-10-31|挪超|博德闪耀|维京|home|-0.50": {
+      "match_key": "2026-10-31|挪超|博德闪耀|维京|home|-0.50",
+      "match_date": "2026-10-31",
+      "league": "挪超",
+      "home": "博德闪耀",
+      "away": "维京",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.5,
+      "odds": 1.81,
+      "kickoff_time": "2026-10-31 02:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_E173DC4945588CBF001EE27AE571BC412F07@qq.com>",
+        "recv_time": "2026-10-31 02:02:35",
+        "raw_line": "挪超 | 博德闪耀 vs 维京 | 赔率 1.81 | 上半场 · 主队 | 盘口 -0.5"
+      },
+      "result": null
+    },
+    "2026-10-31|法甲|勒阿弗尔|巴黎圣日尔曼|away|0.75": {
+      "match_key": "2026-10-31|法甲|勒阿弗尔|巴黎圣日尔曼|away|0.75",
+      "match_date": "2026-10-31",
+      "league": "法甲",
+      "home": "勒阿弗尔",
+      "away": "巴黎圣日尔曼",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.75,
+      "odds": 1.97,
+      "kickoff_time": "2026-10-31 02:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_E173DC4945588CBF001EE27AE571BC412F07@qq.com>",
+        "recv_time": "2026-10-31 02:02:35",
+        "raw_line": "法甲 | 勒阿弗尔 vs 巴黎圣日尔曼 | 赔率 1.97 | 上半场 · 客队 | 盘口 +0.75"
       },
       "result": null
     }
