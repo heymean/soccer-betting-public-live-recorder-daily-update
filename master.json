@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-10-31 02:05:01",
+    "last_update": "2026-10-31 02:35:01",
     "default_stake": null,
-    "total_bets": 9,
+    "total_bets": 10,
     "total_settled": 0,
     "total_stake": 0.0,
     "total_profit": 0.0,
@@ -181,6 +181,25 @@
         "msg_id": "<tencent_E173DC4945588CBF001EE27AE571BC412F07@qq.com>",
         "recv_time": "2026-10-31 02:02:35",
         "raw_line": "法甲 | 勒阿弗尔 vs 巴黎圣日尔曼 | 赔率 1.97 | 上半场 · 客队 | 盘口 +0.75"
+      },
+      "result": null
+    },
+    "2026-10-31|罗甲|布加勒斯特快速|奇克塞雷达|btts|0.00": {
+      "match_key": "2026-10-31|罗甲|布加勒斯特快速|奇克塞雷达|btts|0.00",
+      "match_date": "2026-10-31",
+      "league": "罗甲",
+      "home": "布加勒斯特快速",
+      "away": "奇克塞雷达",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.95,
+      "kickoff_time": "2026-10-31 02:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_6B7DE9F8DCE0A639E0E40DACD09F3DCF7906@qq.com>",
+        "recv_time": "2026-10-31 02:32:00",
+        "raw_line": "罗甲 | 布加勒斯特快速 vs 奇克塞雷达 | 赔率 1.95 | 全场 · 双方进球（BTTS）"
       },
       "result": null
     }
