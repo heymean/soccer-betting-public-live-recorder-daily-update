@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-10-31 20:35:02",
+    "last_update": "2026-10-31 22:05:02",
     "default_stake": null,
-    "total_bets": 13,
+    "total_bets": 14,
     "total_settled": 0,
     "total_stake": 0.0,
     "total_profit": 0.0,
@@ -257,6 +257,25 @@
         "msg_id": "<tencent_8C4FC70F0787CCF92755607FFEA67830EA09@qq.com>",
         "recv_time": "2026-10-31 20:31:44",
         "raw_line": "英冠 | 诺维奇 vs 沃特福德 | 赔率 1.78 | 上半场 · 客队 | 盘口 -0.5"
+      },
+      "result": null
+    },
+    "2026-10-31|意甲|博洛尼亚|蒙扎|home|-0.25": {
+      "match_key": "2026-10-31|意甲|博洛尼亚|蒙扎|home|-0.25",
+      "match_date": "2026-10-31",
+      "league": "意甲",
+      "home": "博洛尼亚",
+      "away": "蒙扎",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.76,
+      "kickoff_time": "2026-10-31 22:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_0139CCE41E2CFA5F064F607DED38D0209F06@qq.com>",
+        "recv_time": "2026-10-31 22:01:48",
+        "raw_line": "意甲 | 博洛尼亚 vs 蒙扎 | 赔率 1.76 | 上半场 · 主队 | 盘口 -0.25"
       },
       "result": null
     }
