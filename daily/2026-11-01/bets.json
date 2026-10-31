@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-01",
+  "count": 1,
+  "signals": [
+    {
+      "match_key": "2026-11-01|意甲|乌迪内斯|罗马|away|0.50",
+      "league": "意甲",
+      "home": "乌迪内斯",
+      "away": "罗马",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.5,
+      "odds": 2.02,
+      "kickoff_estimated": "2026-11-01 01:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_80CCA1273760E3FF4A78B0EB59C70107F109@qq.com>",
+      "bet_recv_time": "2026-11-01 01:02:12",
+      "raw_line": "意甲 | 乌迪内斯 vs 罗马 | 赔率 2.02 | 上半场 · 客队 | 盘口 +0.5"
+    }
+  ]
+}

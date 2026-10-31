@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-10-31 23:35:02",
+    "last_update": "2026-11-01 01:05:02",
     "default_stake": null,
-    "total_bets": 18,
+    "total_bets": 19,
     "total_settled": 0,
     "total_stake": 0.0,
     "total_profit": 0.0,
@@ -352,6 +352,25 @@
         "msg_id": "<tencent_583CF0F591E35483A8E65693A5B0477F9508@qq.com>",
         "recv_time": "2026-10-31 23:31:43",
         "raw_line": "荷甲 | 费耶诺德 vs 福图纳锡塔德 | 赔率 1.75 | 全场 · 双方进球（BTTS）"
+      },
+      "result": null
+    },
+    "2026-11-01|意甲|乌迪内斯|罗马|away|0.50": {
+      "match_key": "2026-11-01|意甲|乌迪内斯|罗马|away|0.50",
+      "match_date": "2026-11-01",
+      "league": "意甲",
+      "home": "乌迪内斯",
+      "away": "罗马",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.5,
+      "odds": 2.02,
+      "kickoff_time": "2026-11-01 01:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_80CCA1273760E3FF4A78B0EB59C70107F109@qq.com>",
+        "recv_time": "2026-11-01 01:02:12",
+        "raw_line": "意甲 | 乌迪内斯 vs 罗马 | 赔率 2.02 | 上半场 · 客队 | 盘口 +0.5"
       },
       "result": null
     }
