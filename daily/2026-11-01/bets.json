@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "count": 6,
+  "count": 8,
   "signals": [
     {
       "match_key": "2026-11-01|意甲|乌迪内斯|罗马|away|0.50",
@@ -91,6 +91,36 @@
       "bet_msg_id": "<tencent_9A3E639C63F0D69C6A521196EB0F9147AB05@qq.com>",
       "bet_recv_time": "2026-11-01 03:02:05",
       "raw_line": "美职 | 圣路易斯城 vs 圣迭戈FC | 赔率 1.95 | 上半场 · 主队 | 盘口 -0.5"
+    },
+    {
+      "match_key": "2026-11-01|法甲|特鲁瓦|勒芒|away|0.00",
+      "league": "法甲",
+      "home": "特鲁瓦",
+      "away": "勒芒",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.0,
+      "odds": 2.2,
+      "kickoff_estimated": "2026-11-01 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_D867A73E61BC6CB0D1DC7A7219B6E70F9F05@qq.com>",
+      "bet_recv_time": "2026-11-01 03:47:04",
+      "raw_line": "法甲 | 特鲁瓦 vs 勒芒 | 赔率 2.20 | 上半场 · 客队 | 盘口 0"
+    },
+    {
+      "match_key": "2026-11-01|意甲|AC米兰|国际米兰|away|0.25",
+      "league": "意甲",
+      "home": "AC米兰",
+      "away": "国际米兰",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 2.04,
+      "kickoff_estimated": "2026-11-01 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_D867A73E61BC6CB0D1DC7A7219B6E70F9F05@qq.com>",
+      "bet_recv_time": "2026-11-01 03:47:04",
+      "raw_line": "意甲 | AC米兰 vs 国际米兰 | 赔率 2.04 | 上半场 · 客队 | 盘口 +0.25"
     }
   ]
 }
