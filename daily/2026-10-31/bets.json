@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "count": 6,
+  "count": 7,
   "signals": [
     {
       "match_key": "2026-10-31|德乙|比勒费尔德|不伦瑞克|home|-0.25",
@@ -91,6 +91,21 @@
       "bet_msg_id": "<tencent_0EA30F6E98434E62C396FC85F138D6AB8E0A@qq.com>",
       "bet_recv_time": "2026-10-31 07:01:58",
       "raw_line": "巴甲 | 科林蒂安 vs 米拉索尔 | 赔率 1.98 | 上半场 · 主队 | 盘口 -0.25"
+    },
+    {
+      "match_key": "2026-10-31|英冠|诺维奇|沃特福德|away|-0.50",
+      "league": "英冠",
+      "home": "诺维奇",
+      "away": "沃特福德",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.5,
+      "odds": 1.78,
+      "kickoff_estimated": "2026-10-31 20:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_8C4FC70F0787CCF92755607FFEA67830EA09@qq.com>",
+      "bet_recv_time": "2026-10-31 20:31:44",
+      "raw_line": "英冠 | 诺维奇 vs 沃特福德 | 赔率 1.78 | 上半场 · 客队 | 盘口 -0.5"
     }
   ]
 }
