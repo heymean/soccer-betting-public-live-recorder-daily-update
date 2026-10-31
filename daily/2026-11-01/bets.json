@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "count": 9,
+  "count": 10,
   "signals": [
     {
       "match_key": "2026-11-01|意甲|乌迪内斯|罗马|away|0.50",
@@ -136,6 +136,21 @@
       "bet_msg_id": "<tencent_FBD978E7A087F9FB642C6CC3DF17CF76BD06@qq.com>",
       "bet_recv_time": "2026-11-01 04:01:58",
       "raw_line": "荷甲 | 阿贾克斯 vs 阿尔克马尔 | 赔率 1.91 | 上半场 · 客队 | 盘口 -0.25"
+    },
+    {
+      "match_key": "2026-11-01|葡超|波尔图|埃斯托里尔|home|-1.00",
+      "league": "葡超",
+      "home": "波尔图",
+      "away": "埃斯托里尔",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -1.0,
+      "odds": 1.97,
+      "kickoff_estimated": "2026-11-01 04:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_6D8D930DF698234F92C092FD99F3B8D6C70A@qq.com>",
+      "bet_recv_time": "2026-11-01 04:31:41",
+      "raw_line": "葡超 | 波尔图 vs 埃斯托里尔 | 赔率 1.97 | 上半场 · 主队 | 盘口 -1"
     }
   ]
 }
