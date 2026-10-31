@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-10-31 22:05:02",
+    "last_update": "2026-10-31 22:35:02",
     "default_stake": null,
-    "total_bets": 14,
+    "total_bets": 17,
     "total_settled": 0,
     "total_stake": 0.0,
     "total_profit": 0.0,
@@ -276,6 +276,63 @@
         "msg_id": "<tencent_0139CCE41E2CFA5F064F607DED38D0209F06@qq.com>",
         "recv_time": "2026-10-31 22:01:48",
         "raw_line": "意甲 | 博洛尼亚 vs 蒙扎 | 赔率 1.76 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "2026-10-31|德甲|沙尔克04|莱比锡红牛|home|0.25": {
+      "match_key": "2026-10-31|德甲|沙尔克04|莱比锡红牛|home|0.25",
+      "match_date": "2026-10-31",
+      "league": "德甲",
+      "home": "沙尔克04",
+      "away": "莱比锡红牛",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": 0.25,
+      "odds": 1.9,
+      "kickoff_time": "2026-10-31 22:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_0CFFE302836BE6009374B0E97F163CDCF508@qq.com>",
+        "recv_time": "2026-10-31 22:32:28",
+        "raw_line": "德甲 | 沙尔克04 vs 莱比锡红牛 | 赔率 1.90 | 上半场 · 主队 | 盘口 +0.25"
+      },
+      "result": null
+    },
+    "2026-10-31|德甲|门兴格拉德巴赫|帕德博恩|home|-0.25": {
+      "match_key": "2026-10-31|德甲|门兴格拉德巴赫|帕德博恩|home|-0.25",
+      "match_date": "2026-10-31",
+      "league": "德甲",
+      "home": "门兴格拉德巴赫",
+      "away": "帕德博恩",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 2.12,
+      "kickoff_time": "2026-10-31 22:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_0CFFE302836BE6009374B0E97F163CDCF508@qq.com>",
+        "recv_time": "2026-10-31 22:32:28",
+        "raw_line": "德甲 | 门兴格拉德巴赫 vs 帕德博恩 | 赔率 2.12 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "2026-10-31|德甲|勒沃库森|斯图加特|away|-0.25": {
+      "match_key": "2026-10-31|德甲|勒沃库森|斯图加特|away|-0.25",
+      "match_date": "2026-10-31",
+      "league": "德甲",
+      "home": "勒沃库森",
+      "away": "斯图加特",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 2.0,
+      "kickoff_time": "2026-10-31 22:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_0CFFE302836BE6009374B0E97F163CDCF508@qq.com>",
+        "recv_time": "2026-10-31 22:32:28",
+        "raw_line": "德甲 | 勒沃库森 vs 斯图加特 | 赔率 2.00 | 上半场 · 客队 | 盘口 -0.25"
       },
       "result": null
     }
