@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "count": 11,
+  "count": 12,
   "signals": [
     {
       "match_key": "2026-10-31|德乙|比勒费尔德|不伦瑞克|home|-0.25",
@@ -166,6 +166,21 @@
       "bet_msg_id": "<tencent_0CFFE302836BE6009374B0E97F163CDCF508@qq.com>",
       "bet_recv_time": "2026-10-31 22:32:28",
       "raw_line": "德甲 | 勒沃库森 vs 斯图加特 | 赔率 2.00 | 上半场 · 客队 | 盘口 -0.25"
+    },
+    {
+      "match_key": "2026-10-31|荷甲|费耶诺德|福图纳锡塔德|btts|0.00",
+      "league": "荷甲",
+      "home": "费耶诺德",
+      "away": "福图纳锡塔德",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.75,
+      "kickoff_estimated": "2026-10-31 23:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_583CF0F591E35483A8E65693A5B0477F9508@qq.com>",
+      "bet_recv_time": "2026-10-31 23:31:43",
+      "raw_line": "荷甲 | 费耶诺德 vs 福图纳锡塔德 | 赔率 1.75 | 全场 · 双方进球（BTTS）"
     }
   ]
 }
