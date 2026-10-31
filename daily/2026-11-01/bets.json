@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "count": 8,
+  "count": 9,
   "signals": [
     {
       "match_key": "2026-11-01|意甲|乌迪内斯|罗马|away|0.50",
@@ -121,6 +121,21 @@
       "bet_msg_id": "<tencent_D867A73E61BC6CB0D1DC7A7219B6E70F9F05@qq.com>",
       "bet_recv_time": "2026-11-01 03:47:04",
       "raw_line": "意甲 | AC米兰 vs 国际米兰 | 赔率 2.04 | 上半场 · 客队 | 盘口 +0.25"
+    },
+    {
+      "match_key": "2026-11-01|荷甲|阿贾克斯|阿尔克马尔|away|-0.25",
+      "league": "荷甲",
+      "home": "阿贾克斯",
+      "away": "阿尔克马尔",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 1.91,
+      "kickoff_estimated": "2026-11-01 04:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_FBD978E7A087F9FB642C6CC3DF17CF76BD06@qq.com>",
+      "bet_recv_time": "2026-11-01 04:01:58",
+      "raw_line": "荷甲 | 阿贾克斯 vs 阿尔克马尔 | 赔率 1.91 | 上半场 · 客队 | 盘口 -0.25"
     }
   ]
 }
