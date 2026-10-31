@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "count": 4,
+  "count": 5,
   "signals": [
     {
       "match_key": "2026-11-01|意甲|乌迪内斯|罗马|away|0.50",
@@ -61,6 +61,21 @@
       "bet_msg_id": "<tencent_D5237FF53C8DF5CDE31183EDE6229377B008@qq.com>",
       "bet_recv_time": "2026-11-01 01:32:26",
       "raw_line": "德甲 | 拜仁慕尼黑 vs 多特蒙德 | 赔率 1.48 | 全场 · 双方进球（BTTS）"
+    },
+    {
+      "match_key": "2026-11-01|荷甲|PSV埃因霍温|威廉二世|home|-1.50",
+      "league": "荷甲",
+      "home": "PSV埃因霍温",
+      "away": "威廉二世",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -1.5,
+      "odds": 1.98,
+      "kickoff_estimated": "2026-11-01 01:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_3DDB075BCD9D26DB6087FE2C790AEB8FC609@qq.com>",
+      "bet_recv_time": "2026-11-01 01:47:06",
+      "raw_line": "荷甲 | PSV埃因霍温 vs 威廉二世 | 赔率 1.98 | 上半场 · 主队 | 盘口 -1.5"
     }
   ]
 }
