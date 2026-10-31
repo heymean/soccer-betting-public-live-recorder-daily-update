@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-01 01:05:02",
+    "last_update": "2026-11-01 01:35:02",
     "default_stake": null,
-    "total_bets": 19,
+    "total_bets": 22,
     "total_settled": 0,
     "total_stake": 0.0,
     "total_profit": 0.0,
@@ -371,6 +371,63 @@
         "msg_id": "<tencent_80CCA1273760E3FF4A78B0EB59C70107F109@qq.com>",
         "recv_time": "2026-11-01 01:02:12",
         "raw_line": "意甲 | 乌迪内斯 vs 罗马 | 赔率 2.02 | 上半场 · 客队 | 盘口 +0.5"
+      },
+      "result": null
+    },
+    "2026-11-01|英超|托特纳姆热刺|水晶宫|home|-0.50": {
+      "match_key": "2026-11-01|英超|托特纳姆热刺|水晶宫|home|-0.50",
+      "match_date": "2026-11-01",
+      "league": "英超",
+      "home": "托特纳姆热刺",
+      "away": "水晶宫",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.5,
+      "odds": 2.08,
+      "kickoff_time": "2026-11-01 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_D5237FF53C8DF5CDE31183EDE6229377B008@qq.com>",
+        "recv_time": "2026-11-01 01:32:26",
+        "raw_line": "英超 | 托特纳姆热刺 vs 水晶宫 | 赔率 2.08 | 上半场 · 主队 | 盘口 -0.5"
+      },
+      "result": null
+    },
+    "2026-11-01|西甲|皇家贝蒂斯|马拉加|home|-0.75": {
+      "match_key": "2026-11-01|西甲|皇家贝蒂斯|马拉加|home|-0.75",
+      "match_date": "2026-11-01",
+      "league": "西甲",
+      "home": "皇家贝蒂斯",
+      "away": "马拉加",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.75,
+      "odds": 1.99,
+      "kickoff_time": "2026-11-01 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_D5237FF53C8DF5CDE31183EDE6229377B008@qq.com>",
+        "recv_time": "2026-11-01 01:32:26",
+        "raw_line": "西甲 | 皇家贝蒂斯 vs 马拉加 | 赔率 1.99 | 上半场 · 主队 | 盘口 -0.75"
+      },
+      "result": null
+    },
+    "2026-11-01|德甲|拜仁慕尼黑|多特蒙德|btts|0.00": {
+      "match_key": "2026-11-01|德甲|拜仁慕尼黑|多特蒙德|btts|0.00",
+      "match_date": "2026-11-01",
+      "league": "德甲",
+      "home": "拜仁慕尼黑",
+      "away": "多特蒙德",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.48,
+      "kickoff_time": "2026-11-01 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_D5237FF53C8DF5CDE31183EDE6229377B008@qq.com>",
+        "recv_time": "2026-11-01 01:32:26",
+        "raw_line": "德甲 | 拜仁慕尼黑 vs 多特蒙德 | 赔率 1.48 | 全场 · 双方进球（BTTS）"
       },
       "result": null
     }
