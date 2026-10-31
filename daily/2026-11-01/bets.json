@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "count": 5,
+  "count": 6,
   "signals": [
     {
       "match_key": "2026-11-01|意甲|乌迪内斯|罗马|away|0.50",
@@ -76,6 +76,21 @@
       "bet_msg_id": "<tencent_3DDB075BCD9D26DB6087FE2C790AEB8FC609@qq.com>",
       "bet_recv_time": "2026-11-01 01:47:06",
       "raw_line": "荷甲 | PSV埃因霍温 vs 威廉二世 | 赔率 1.98 | 上半场 · 主队 | 盘口 -1.5"
+    },
+    {
+      "match_key": "2026-11-01|美职|圣路易斯城|圣迭戈FC|home|-0.50",
+      "league": "美职",
+      "home": "圣路易斯城",
+      "away": "圣迭戈FC",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.5,
+      "odds": 1.95,
+      "kickoff_estimated": "2026-11-01 03:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_9A3E639C63F0D69C6A521196EB0F9147AB05@qq.com>",
+      "bet_recv_time": "2026-11-01 03:02:05",
+      "raw_line": "美职 | 圣路易斯城 vs 圣迭戈FC | 赔率 1.95 | 上半场 · 主队 | 盘口 -0.5"
     }
   ]
 }
