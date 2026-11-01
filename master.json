@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-02 01:05:03",
+    "last_update": "2026-11-02 01:35:03",
     "default_stake": null,
-    "total_bets": 4,
+    "total_bets": 5,
     "total_settled": 0,
     "total_stake": 0.0,
     "total_profit": 0.0,
@@ -86,6 +86,25 @@
         "msg_id": "<tencent_ABD4AB8F6F0F469A6B4DAEC206FC51F1440A@qq.com>",
         "recv_time": "2026-11-02 01:01:58",
         "raw_line": "意甲 | 莱切 vs 热那亚 | 赔率 1.68 | 上半场 · 客队 | 盘口 0"
+      },
+      "result": null
+    },
+    "西甲|埃尔切|巴伦西亚|home": {
+      "match_key": "西甲|埃尔切|巴伦西亚|home",
+      "match_date": "2026-11-02",
+      "league": "西甲",
+      "home": "埃尔切",
+      "away": "巴伦西亚",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": 0.0,
+      "odds": 1.64,
+      "kickoff_time": "2026-11-02 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_7E413F7397C93858AB3F3E9E9B7A9B71F007@qq.com>",
+        "recv_time": "2026-11-02 01:31:42",
+        "raw_line": "西甲 | 埃尔切 vs 巴伦西亚 | 赔率 1.64 | 上半场 · 主队 | 盘口 0"
       },
       "result": null
     }
