@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_update": "2026-11-01 12:15:03",
+    "last_update": "2026-11-01 12:55:03",
     "default_stake": null,
     "total_bets": 28,
     "total_settled": 0,
@@ -599,6 +599,13 @@
     {
       "msg_id": "<tencent_D31AECD1DF100F7BFDDCF8C96083F9CFA406@qq.com>",
       "recv_time": "2026-11-01 12:12:01",
+      "period": null,
+      "settle_time": null,
+      "parsed_count": 0
+    },
+    {
+      "msg_id": "<tencent_C94F7F3DC338D7E09639EB640E6CE2DF1406@qq.com>",
+      "recv_time": "2026-11-01 12:38:41",
       "period": null,
       "settle_time": null,
       "parsed_count": 0
