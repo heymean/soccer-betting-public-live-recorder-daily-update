@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-01 23:25:04",
+    "last_update": "2026-11-02 00:35:03",
     "default_stake": null,
-    "total_bets": 2,
+    "total_bets": 3,
     "total_settled": 0,
     "total_stake": 0.0,
     "total_profit": 0.0,
@@ -48,6 +48,25 @@
         "msg_id": "<tencent_94C022FC65F010D5678F2F0E3A9B8F4D120A@qq.com>",
         "recv_time": "2026-11-01 23:16:57",
         "raw_line": "西甲 | 桑坦德竞技 vs 皇家马德里 | 赔率 1.99 | 上半场 · 客队 | 盘口 +1"
+      },
+      "result": null
+    },
+    "德甲|法兰克福|汉堡|home": {
+      "match_key": "德甲|法兰克福|汉堡|home",
+      "match_date": "2026-11-02",
+      "league": "德甲",
+      "home": "法兰克福",
+      "away": "汉堡",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.5,
+      "odds": 1.97,
+      "kickoff_time": "2026-11-02 00:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_A19B074D06C006FC11F1D4D5AB8F1F0D760A@qq.com>",
+        "recv_time": "2026-11-02 00:31:54",
+        "raw_line": "德甲 | 法兰克福 vs 汉堡 | 赔率 1.97 | 上半场 · 主队 | 盘口 -0.5"
       },
       "result": null
     }
