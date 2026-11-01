@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_update": "2026-11-01 11:05:03",
+    "last_update": "2026-11-01 12:15:03",
     "default_stake": null,
     "total_bets": 28,
     "total_settled": 0,
@@ -580,6 +580,27 @@
       "recv_time": "2026-11-01 11:00:29",
       "period": "过去 24 小时",
       "settle_time": "2026-11-01 11:00:28",
+      "parsed_count": 0
+    },
+    {
+      "msg_id": "<no-id-28@local>",
+      "recv_time": "2026-11-01 12:08:32",
+      "period": null,
+      "settle_time": null,
+      "parsed_count": 0
+    },
+    {
+      "msg_id": "<tencent_95A6BF3F9EB2FAA4F1EDC1467388C9225807@qq.com>",
+      "recv_time": "2026-11-01 12:09:20",
+      "period": null,
+      "settle_time": null,
+      "parsed_count": 0
+    },
+    {
+      "msg_id": "<tencent_D31AECD1DF100F7BFDDCF8C96083F9CFA406@qq.com>",
+      "recv_time": "2026-11-01 12:12:01",
+      "period": null,
+      "settle_time": null,
       "parsed_count": 0
     }
   ]
