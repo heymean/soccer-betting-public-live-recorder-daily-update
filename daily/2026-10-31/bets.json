@@ -3,7 +3,7 @@
   "count": 12,
   "signals": [
     {
-      "match_key": "2026-10-31|德乙|比勒费尔德|不伦瑞克|home|-0.25",
+      "match_key": "德乙|比勒费尔德|不伦瑞克|home",
       "league": "德乙",
       "home": "比勒费尔德",
       "away": "不伦瑞克",
@@ -12,13 +12,13 @@
       "handicap_main": -0.25,
       "odds": 2.03,
       "kickoff_estimated": "2026-10-31 01:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_1D4B0643CDC126036089FE9E7834EA5BC709@qq.com>",
       "bet_recv_time": "2026-10-31 01:32:08",
       "raw_line": "德乙 | 比勒费尔德 vs 不伦瑞克 | 赔率 2.03 | 上半场 · 主队 | 盘口 -0.25"
     },
     {
-      "match_key": "2026-10-31|挪超|博德闪耀|维京|home|-0.50",
+      "match_key": "挪超|博德闪耀|维京|home",
       "league": "挪超",
       "home": "博德闪耀",
       "away": "维京",
@@ -27,13 +27,13 @@
       "handicap_main": -0.5,
       "odds": 1.81,
       "kickoff_estimated": "2026-10-31 02:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_E173DC4945588CBF001EE27AE571BC412F07@qq.com>",
       "bet_recv_time": "2026-10-31 02:02:35",
       "raw_line": "挪超 | 博德闪耀 vs 维京 | 赔率 1.81 | 上半场 · 主队 | 盘口 -0.5"
     },
     {
-      "match_key": "2026-10-31|法甲|勒阿弗尔|巴黎圣日尔曼|away|0.75",
+      "match_key": "法甲|勒阿弗尔|巴黎圣日尔曼|away",
       "league": "法甲",
       "home": "勒阿弗尔",
       "away": "巴黎圣日尔曼",
@@ -42,13 +42,13 @@
       "handicap_main": 0.75,
       "odds": 1.97,
       "kickoff_estimated": "2026-10-31 02:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_E173DC4945588CBF001EE27AE571BC412F07@qq.com>",
       "bet_recv_time": "2026-10-31 02:02:35",
       "raw_line": "法甲 | 勒阿弗尔 vs 巴黎圣日尔曼 | 赔率 1.97 | 上半场 · 客队 | 盘口 +0.75"
     },
     {
-      "match_key": "2026-10-31|罗甲|布加勒斯特快速|奇克塞雷达|btts|0.00",
+      "match_key": "罗甲|布加勒斯特快速|奇克塞雷达|btts",
       "league": "罗甲",
       "home": "布加勒斯特快速",
       "away": "奇克塞雷达",
@@ -63,7 +63,7 @@
       "raw_line": "罗甲 | 布加勒斯特快速 vs 奇克塞雷达 | 赔率 1.95 | 全场 · 双方进球（BTTS）"
     },
     {
-      "match_key": "2026-10-31|德甲|埃尔沃斯堡|美因茨|away|0.25",
+      "match_key": "德甲|埃尔沃斯堡|美因茨|away",
       "league": "德甲",
       "home": "埃尔沃斯堡",
       "away": "美因茨",
@@ -72,13 +72,13 @@
       "handicap_main": 0.25,
       "odds": 1.98,
       "kickoff_estimated": "2026-10-31 03:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_EDE30883DEE6769337B04A7F4D3C02F56108@qq.com>",
       "bet_recv_time": "2026-10-31 03:31:51",
       "raw_line": "德甲 | 埃尔沃斯堡 vs 美因茨 | 赔率 1.98 | 上半场 · 客队 | 盘口 +0.25"
     },
     {
-      "match_key": "2026-10-31|巴甲|科林蒂安|米拉索尔|home|-0.25",
+      "match_key": "巴甲|科林蒂安|米拉索尔|home",
       "league": "巴甲",
       "home": "科林蒂安",
       "away": "米拉索尔",
@@ -87,13 +87,13 @@
       "handicap_main": -0.25,
       "odds": 1.98,
       "kickoff_estimated": "2026-10-31 07:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_0EA30F6E98434E62C396FC85F138D6AB8E0A@qq.com>",
       "bet_recv_time": "2026-10-31 07:01:58",
       "raw_line": "巴甲 | 科林蒂安 vs 米拉索尔 | 赔率 1.98 | 上半场 · 主队 | 盘口 -0.25"
     },
     {
-      "match_key": "2026-10-31|英冠|诺维奇|沃特福德|away|-0.50",
+      "match_key": "英冠|诺维奇|沃特福德|away",
       "league": "英冠",
       "home": "诺维奇",
       "away": "沃特福德",
@@ -102,13 +102,13 @@
       "handicap_main": -0.5,
       "odds": 1.78,
       "kickoff_estimated": "2026-10-31 20:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_8C4FC70F0787CCF92755607FFEA67830EA09@qq.com>",
       "bet_recv_time": "2026-10-31 20:31:44",
       "raw_line": "英冠 | 诺维奇 vs 沃特福德 | 赔率 1.78 | 上半场 · 客队 | 盘口 -0.5"
     },
     {
-      "match_key": "2026-10-31|意甲|博洛尼亚|蒙扎|home|-0.25",
+      "match_key": "意甲|博洛尼亚|蒙扎|home",
       "league": "意甲",
       "home": "博洛尼亚",
       "away": "蒙扎",
@@ -117,13 +117,13 @@
       "handicap_main": -0.25,
       "odds": 1.76,
       "kickoff_estimated": "2026-10-31 22:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_0139CCE41E2CFA5F064F607DED38D0209F06@qq.com>",
       "bet_recv_time": "2026-10-31 22:01:48",
       "raw_line": "意甲 | 博洛尼亚 vs 蒙扎 | 赔率 1.76 | 上半场 · 主队 | 盘口 -0.25"
     },
     {
-      "match_key": "2026-10-31|德甲|沙尔克04|莱比锡红牛|home|0.25",
+      "match_key": "德甲|沙尔克04|莱比锡红牛|home",
       "league": "德甲",
       "home": "沙尔克04",
       "away": "莱比锡红牛",
@@ -132,13 +132,13 @@
       "handicap_main": 0.25,
       "odds": 1.9,
       "kickoff_estimated": "2026-10-31 22:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_0CFFE302836BE6009374B0E97F163CDCF508@qq.com>",
       "bet_recv_time": "2026-10-31 22:32:28",
       "raw_line": "德甲 | 沙尔克04 vs 莱比锡红牛 | 赔率 1.90 | 上半场 · 主队 | 盘口 +0.25"
     },
     {
-      "match_key": "2026-10-31|德甲|门兴格拉德巴赫|帕德博恩|home|-0.25",
+      "match_key": "德甲|门兴格拉德巴赫|帕德博恩|home",
       "league": "德甲",
       "home": "门兴格拉德巴赫",
       "away": "帕德博恩",
@@ -147,13 +147,13 @@
       "handicap_main": -0.25,
       "odds": 2.12,
       "kickoff_estimated": "2026-10-31 22:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_0CFFE302836BE6009374B0E97F163CDCF508@qq.com>",
       "bet_recv_time": "2026-10-31 22:32:28",
       "raw_line": "德甲 | 门兴格拉德巴赫 vs 帕德博恩 | 赔率 2.12 | 上半场 · 主队 | 盘口 -0.25"
     },
     {
-      "match_key": "2026-10-31|德甲|勒沃库森|斯图加特|away|-0.25",
+      "match_key": "德甲|勒沃库森|斯图加特|away",
       "league": "德甲",
       "home": "勒沃库森",
       "away": "斯图加特",
@@ -162,13 +162,13 @@
       "handicap_main": -0.25,
       "odds": 2.0,
       "kickoff_estimated": "2026-10-31 22:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_0CFFE302836BE6009374B0E97F163CDCF508@qq.com>",
       "bet_recv_time": "2026-10-31 22:32:28",
       "raw_line": "德甲 | 勒沃库森 vs 斯图加特 | 赔率 2.00 | 上半场 · 客队 | 盘口 -0.25"
     },
     {
-      "match_key": "2026-10-31|荷甲|费耶诺德|福图纳锡塔德|btts|0.00",
+      "match_key": "荷甲|费耶诺德|福图纳锡塔德|btts",
       "league": "荷甲",
       "home": "费耶诺德",
       "away": "福图纳锡塔德",
@@ -177,7 +177,7 @@
       "handicap_main": 0.0,
       "odds": 1.75,
       "kickoff_estimated": "2026-10-31 23:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_583CF0F591E35483A8E65693A5B0477F9508@qq.com>",
       "bet_recv_time": "2026-10-31 23:31:43",
       "raw_line": "荷甲 | 费耶诺德 vs 福图纳锡塔德 | 赔率 1.75 | 全场 · 双方进球（BTTS）"
