@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **1** | Settled: **0**
+- Bets: **2** | Settled: **0**
 - Win: 0 | Lose: 0 | Push: 0
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
 
@@ -13,6 +13,7 @@
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-01 22:00 | 意甲 | 弗洛西诺内 vs 都灵 | 上半场·主队 -0.25 | 2.11 | - | - | Not settled | - |
+| 2026-11-01 23:15 | 西甲 | 桑坦德竞技 vs 皇家马德里 | 上半场·客队 +1.00 | 1.99 | - | - | Not settled | - |
 
 ---
 

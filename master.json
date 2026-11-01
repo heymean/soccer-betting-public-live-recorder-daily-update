@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-01 22:05:04",
+    "last_update": "2026-11-01 23:25:04",
     "default_stake": null,
-    "total_bets": 1,
+    "total_bets": 2,
     "total_settled": 0,
     "total_stake": 0.0,
     "total_profit": 0.0,
@@ -29,6 +29,25 @@
         "msg_id": "<tencent_C56CC51F2ECF49FDDF38E7A086B9D9241C06@qq.com>",
         "recv_time": "2026-11-01 22:01:51",
         "raw_line": "意甲 | 弗洛西诺内 vs 都灵 | 赔率 2.11 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "西甲|桑坦德竞技|皇家马德里|away": {
+      "match_key": "西甲|桑坦德竞技|皇家马德里|away",
+      "match_date": "2026-11-01",
+      "league": "西甲",
+      "home": "桑坦德竞技",
+      "away": "皇家马德里",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 1.0,
+      "odds": 1.99,
+      "kickoff_time": "2026-11-01 23:15:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_94C022FC65F010D5678F2F0E3A9B8F4D120A@qq.com>",
+        "recv_time": "2026-11-01 23:16:57",
+        "raw_line": "西甲 | 桑坦德竞技 vs 皇家马德里 | 赔率 1.99 | 上半场 · 客队 | 盘口 +1"
       },
       "result": null
     }
