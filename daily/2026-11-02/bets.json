@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "count": 1,
+  "count": 2,
   "signals": [
     {
       "match_key": "德甲|法兰克福|汉堡|home",
@@ -16,6 +16,21 @@
       "bet_msg_id": "<tencent_A19B074D06C006FC11F1D4D5AB8F1F0D760A@qq.com>",
       "bet_recv_time": "2026-11-02 00:31:54",
       "raw_line": "德甲 | 法兰克福 vs 汉堡 | 赔率 1.97 | 上半场 · 主队 | 盘口 -0.5"
+    },
+    {
+      "match_key": "意甲|莱切|热那亚|away",
+      "league": "意甲",
+      "home": "莱切",
+      "away": "热那亚",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.0,
+      "odds": 1.68,
+      "kickoff_estimated": "2026-11-02 01:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_ABD4AB8F6F0F469A6B4DAEC206FC51F1440A@qq.com>",
+      "bet_recv_time": "2026-11-02 01:01:58",
+      "raw_line": "意甲 | 莱切 vs 热那亚 | 赔率 1.68 | 上半场 · 客队 | 盘口 0"
     }
   ]
 }
