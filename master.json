@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_update": "2026-11-02 20:30:26",
+    "last_update": "2026-11-02 20:31:18",
     "default_stake": null,
     "total_bets": 37,
     "total_settled": 33,
@@ -1057,7 +1057,7 @@
       "period": "过去 24 小时",
       "settle_time": "2026-10-29 20:33:56",
       "parsed_count": 3,
-      "accepted_count": 1,
+      "accepted_count": 0,
       "dropped_orphans": 2
     },
     {
@@ -1066,7 +1066,7 @@
       "period": "过去 24 小时",
       "settle_time": "2026-10-30 11:00:05",
       "parsed_count": 4,
-      "accepted_count": 4,
+      "accepted_count": 0,
       "dropped_orphans": 0
     },
     {
@@ -1084,7 +1084,7 @@
       "period": null,
       "settle_time": "2026-11-01 12:09:19",
       "parsed_count": 14,
-      "accepted_count": 10,
+      "accepted_count": 5,
       "dropped_orphans": 4
     },
     {
@@ -1102,7 +1102,7 @@
       "period": "2026-10-31 11:00:00 ~ 2026-11-01 11:00:00（共 24 小时）",
       "settle_time": "2026-11-01 12:38:40",
       "parsed_count": 19,
-      "accepted_count": 16,
+      "accepted_count": 14,
       "dropped_orphans": 3
     },
     {
