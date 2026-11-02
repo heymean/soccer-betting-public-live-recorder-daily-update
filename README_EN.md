@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-03 01:25:04**
+> Last update: **2026-11-03 01:35:04**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 37 |
+| Total bets | 38 |
 | Settled | 33 |
 | Win (win + half win) | 16 |
 | Lose (lose + half lose) | 14 |
@@ -28,14 +28,15 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | 1 | 0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | 66.7% | +74.00 | +14.80% | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 | 2026-11-01 | 12 | 12 | 57.1% | +104.00 | +8.67% | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
-| 2026-10-31 | 12 | 11 | 50.0% | -45.50 | -4.14% | [EN](daily/2026-10-31/report_EN.md) · [中文](daily/2026-10-31/report.md) |
 
 ## 📅 Recent 30 Matches
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-03 01:30 | 意甲 | 萨索洛 vs 佛罗伦萨 | 上半场·客队 0 | 1.70 | - | - | Not settled | - |
 | 2026-11-02 04:00 | 西甲 | 毕尔巴鄂竞技 vs 皇家社会 | 上半场·主队 -0.25 | 2.06 | 2-1 | 2-1 | ✅ Win | +106.00 |
 | 2026-11-02 03:45 | 意甲 | 尤文图斯 vs 那不勒斯 | 上半场·客队 0 | 2.17 | 0-0 | 2-0 | ⚪ Push | +0.00 |
 | 2026-11-02 01:30 | 西甲 | 埃尔切 vs 巴伦西亚 | 上半场·主队 0 | 1.64 | 0-0 | 0-1 | ⚪ Push | +0.00 |
@@ -65,12 +66,12 @@ every update immutable through Git history.
 | 2026-10-31 02:00 | 挪超 | 博德闪耀 vs 维京 | 上半场·主队 -0.50 | 1.81 | 2-3 | 3-2 | ❌ Lose | -100.00 |
 | 2026-10-31 02:00 | 法甲 | 勒阿弗尔 vs 巴黎圣日尔曼 | 上半场·客队 +0.75 | 1.97 | 1-2 | 1-5 | 🟢 Half Win | +48.50 |
 | 2026-10-31 01:30 | 德乙 | 比勒费尔德 vs 不伦瑞克 | 上半场·主队 -0.25 | 2.03 | 2-0 | 3-1 | ✅ Win | +103.00 |
-| 2026-10-30 07:00 | 巴甲 | 瓦斯科达伽马 vs 弗拉门戈 | 上半场·客队 +0.25 | 1.86 | 1-2 | 1-4 | ✅ Win | +86.00 |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
+| 2026-11-03 | 1 | 0 | +0.00 | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | +74.00 | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 | 2026-11-01 | 12 | 12 | +104.00 | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
 | 2026-10-31 | 12 | 11 | -45.50 | [EN](daily/2026-10-31/report_EN.md) · [中文](daily/2026-10-31/report.md) |
