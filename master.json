@@ -1,16 +1,16 @@
 {
   "meta": {
-    "last_update": "2026-11-02 04:05:04",
+    "last_update": "2026-11-02 11:05:04",
     "default_stake": null,
     "total_bets": 7,
-    "total_settled": 0,
-    "total_stake": 0.0,
-    "total_profit": 0.0,
-    "roi": 0.0,
-    "win": 0,
-    "lose": 0,
-    "push": 0,
-    "win_rate": 0.0
+    "total_settled": 8,
+    "total_stake": 800.0,
+    "total_profit": 23.0,
+    "roi": 2.88,
+    "win": 3,
+    "lose": 3,
+    "push": 2,
+    "win_rate": 37.5
   },
   "matches": {
     "意甲|弗洛西诺内|都灵|home": {
@@ -24,13 +24,23 @@
       "handicap_main": -0.25,
       "odds": 2.11,
       "kickoff_time": "2026-11-01 22:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_C56CC51F2ECF49FDDF38E7A086B9D9241C06@qq.com>",
         "recv_time": "2026-11-01 22:01:51",
         "raw_line": "意甲 | 弗洛西诺内 vs 都灵 | 赔率 2.11 | 上半场 · 主队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
+        "recv_time": "2026-11-02 11:00:15",
+        "raw_line": "2026-11-01 22:00:00 | 意甲 | 弗洛西诺内 vs 都灵 | 主 | 赔率 2.11 | 半 0-0 全 2-0 | 🟡输半 | -50.00",
+        "ht_score": "0-0",
+        "ft_score": "2-0",
+        "settle": "half_lose",
+        "settle_cn": "🟡输半",
+        "stake": 100.0,
+        "profit": -50.0
+      }
     },
     "西甲|桑坦德竞技|皇家马德里|away": {
       "match_key": "西甲|桑坦德竞技|皇家马德里|away",
@@ -43,13 +53,23 @@
       "handicap_main": 1.0,
       "odds": 1.99,
       "kickoff_time": "2026-11-01 23:15:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_94C022FC65F010D5678F2F0E3A9B8F4D120A@qq.com>",
         "recv_time": "2026-11-01 23:16:57",
         "raw_line": "西甲 | 桑坦德竞技 vs 皇家马德里 | 赔率 1.99 | 上半场 · 客队 | 盘口 +1"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
+        "recv_time": "2026-11-02 11:00:15",
+        "raw_line": "2026-11-01 23:15:00 | 西甲 | 桑坦德竞技 vs 皇家马德里 | 客 | 赔率 1.99 | 半 0-3 全 0-3 | ✅赢 | +99.00",
+        "ht_score": "0-3",
+        "ft_score": "0-3",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 99.0
+      }
     },
     "德甲|法兰克福|汉堡|home": {
       "match_key": "德甲|法兰克福|汉堡|home",
@@ -62,13 +82,23 @@
       "handicap_main": -0.5,
       "odds": 1.97,
       "kickoff_time": "2026-11-02 00:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_A19B074D06C006FC11F1D4D5AB8F1F0D760A@qq.com>",
         "recv_time": "2026-11-02 00:31:54",
         "raw_line": "德甲 | 法兰克福 vs 汉堡 | 赔率 1.97 | 上半场 · 主队 | 盘口 -0.5"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
+        "recv_time": "2026-11-02 11:00:15",
+        "raw_line": "2026-11-02 00:30:00 | 德甲 | 法兰克福 vs 汉堡 | 主 | 赔率 1.97 | 半 0-2 全 3-1 | ❌输 | -100.00",
+        "ht_score": "0-2",
+        "ft_score": "3-1",
+        "settle": "lose",
+        "settle_cn": "❌输",
+        "stake": 100.0,
+        "profit": -100.0
+      }
     },
     "意甲|莱切|热那亚|away": {
       "match_key": "意甲|莱切|热那亚|away",
@@ -81,13 +111,23 @@
       "handicap_main": 0.0,
       "odds": 1.68,
       "kickoff_time": "2026-11-02 01:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_ABD4AB8F6F0F469A6B4DAEC206FC51F1440A@qq.com>",
         "recv_time": "2026-11-02 01:01:58",
         "raw_line": "意甲 | 莱切 vs 热那亚 | 赔率 1.68 | 上半场 · 客队 | 盘口 0"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
+        "recv_time": "2026-11-02 11:00:15",
+        "raw_line": "2026-11-02 01:00:00 | 意甲 | 莱切 vs 热那亚 | 客 | 赔率 1.68 | 半 1-2 全 1-2 | ✅赢 | +68.00",
+        "ht_score": "1-2",
+        "ft_score": "1-2",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 68.0
+      }
     },
     "西甲|埃尔切|巴伦西亚|home": {
       "match_key": "西甲|埃尔切|巴伦西亚|home",
@@ -100,13 +140,23 @@
       "handicap_main": 0.0,
       "odds": 1.64,
       "kickoff_time": "2026-11-02 01:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_7E413F7397C93858AB3F3E9E9B7A9B71F007@qq.com>",
         "recv_time": "2026-11-02 01:31:42",
         "raw_line": "西甲 | 埃尔切 vs 巴伦西亚 | 赔率 1.64 | 上半场 · 主队 | 盘口 0"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
+        "recv_time": "2026-11-02 11:00:15",
+        "raw_line": "2026-11-02 01:30:00 | 西甲 | 埃尔切 vs 巴伦西亚 | 主 | 赔率 1.64 | 半 0-0 全 0-1 | ⚪走水 | +0.00",
+        "ht_score": "0-0",
+        "ft_score": "0-1",
+        "settle": "push",
+        "settle_cn": "⚪走水",
+        "stake": 100.0,
+        "profit": 0.0
+      }
     },
     "意甲|尤文图斯|那不勒斯|away": {
       "match_key": "意甲|尤文图斯|那不勒斯|away",
@@ -119,13 +169,23 @@
       "handicap_main": 0.0,
       "odds": 2.17,
       "kickoff_time": "2026-11-02 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_B458C23F481E967A87F1ADC14A7397C90207@qq.com>",
         "recv_time": "2026-11-02 03:47:15",
         "raw_line": "意甲 | 尤文图斯 vs 那不勒斯 | 赔率 2.17 | 上半场 · 客队 | 盘口 0"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
+        "recv_time": "2026-11-02 11:00:15",
+        "raw_line": "2026-11-02 03:45:00 | 意甲 | 尤文图斯 vs 那不勒斯 | 客 | 赔率 2.17 | 半 0-0 全 2-0 | ⚪走水 | +0.00",
+        "ht_score": "0-0",
+        "ft_score": "2-0",
+        "settle": "push",
+        "settle_cn": "⚪走水",
+        "stake": 100.0,
+        "profit": 0.0
+      }
     },
     "西甲|毕尔巴鄂竞技|皇家社会|home": {
       "match_key": "西甲|毕尔巴鄂竞技|皇家社会|home",
@@ -138,14 +198,57 @@
       "handicap_main": -0.25,
       "odds": 2.06,
       "kickoff_time": "2026-11-02 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_25B0CA7FB43C35F5E5E36E8340E60F93A208@qq.com>",
         "recv_time": "2026-11-02 04:01:57",
         "raw_line": "西甲 | 毕尔巴鄂竞技 vs 皇家社会 | 赔率 2.06 | 上半场 · 主队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
+        "recv_time": "2026-11-02 11:00:15",
+        "raw_line": "2026-11-02 04:00:00 | 西甲 | 毕尔巴鄂竞技 vs 皇家社会 | 主 | 赔率 2.06 | 半 2-1 全 2-1 | ✅赢 | +106.00",
+        "ht_score": "2-1",
+        "ft_score": "2-1",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 106.0
+      }
+    },
+    "法甲|里昂|昂热|away": {
+      "match_key": "法甲|里昂|昂热|away",
+      "match_date": "2026-11-02",
+      "league": "法甲",
+      "home": "里昂",
+      "away": "昂热",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": null,
+      "odds": 1.92,
+      "kickoff_time": "2026-11-02 00:15:00",
+      "kickoff_source": "result",
+      "result": {
+        "msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
+        "recv_time": "2026-11-02 11:00:15",
+        "raw_line": "2026-11-02 00:15:00 | 法甲 | 里昂 vs 昂热 | 客 | 赔率 1.92 | 半 1-0 全 2-0 | ❌输 | -100.00",
+        "ht_score": "1-0",
+        "ft_score": "2-0",
+        "settle": "lose",
+        "settle_cn": "❌输",
+        "stake": 100.0,
+        "profit": -100.0
+      },
+      "orphan_result": true
     }
   },
-  "result_emails": []
+  "result_emails": [
+    {
+      "msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
+      "recv_time": "2026-11-02 11:00:15",
+      "period": "过去 24 小时",
+      "settle_time": "2026-11-02 11:00:14",
+      "parsed_count": 8
+    }
+  ]
 }

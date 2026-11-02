@@ -12,7 +12,7 @@
       "handicap_main": -0.25,
       "odds": 2.11,
       "kickoff_estimated": "2026-11-01 22:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_C56CC51F2ECF49FDDF38E7A086B9D9241C06@qq.com>",
       "bet_recv_time": "2026-11-01 22:01:51",
       "raw_line": "意甲 | 弗洛西诺内 vs 都灵 | 赔率 2.11 | 上半场 · 主队 | 盘口 -0.25"
@@ -27,7 +27,7 @@
       "handicap_main": 1.0,
       "odds": 1.99,
       "kickoff_estimated": "2026-11-01 23:15:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_94C022FC65F010D5678F2F0E3A9B8F4D120A@qq.com>",
       "bet_recv_time": "2026-11-01 23:16:57",
       "raw_line": "西甲 | 桑坦德竞技 vs 皇家马德里 | 赔率 1.99 | 上半场 · 客队 | 盘口 +1"
