@@ -6,7 +6,10 @@
 
 - Bets: **2** | Settled: **2**
 - Win: 1 | Lose: 1 | Push: 0
+- Win rate **66.7%**
 - Total stake **200.00** | P/L **+49.00** | ROI **+24.50%**
+
+> Win rate = (win + 0.5×half-win) / (win + 0.5×half-win + lose + 0.5×half-lose). Push excluded.
 
 ## Details
 

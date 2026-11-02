@@ -1,16 +1,19 @@
 {
   "meta": {
-    "last_update": "2026-11-02 11:05:04",
+    "last_update": "2026-11-02 20:16:21",
     "default_stake": null,
     "total_bets": 7,
-    "total_settled": 8,
-    "total_stake": 800.0,
-    "total_profit": 23.0,
-    "roi": 2.88,
+    "total_settled": 7,
+    "total_stake": 700.0,
+    "total_profit": 123.0,
+    "roi": 17.57,
     "win": 3,
-    "lose": 3,
+    "lose": 1,
     "push": 2,
-    "win_rate": 37.5
+    "win_rate": 66.7,
+    "orphan_results": 0,
+    "win_half": 0,
+    "lose_half": 1
   },
   "matches": {
     "意甲|弗洛西诺内|都灵|home": {
@@ -215,31 +218,6 @@
         "stake": 100.0,
         "profit": 106.0
       }
-    },
-    "法甲|里昂|昂热|away": {
-      "match_key": "法甲|里昂|昂热|away",
-      "match_date": "2026-11-02",
-      "league": "法甲",
-      "home": "里昂",
-      "away": "昂热",
-      "direction": "away",
-      "direction_cn": "上半场·客队",
-      "handicap_main": null,
-      "odds": 1.92,
-      "kickoff_time": "2026-11-02 00:15:00",
-      "kickoff_source": "result",
-      "result": {
-        "msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
-        "recv_time": "2026-11-02 11:00:15",
-        "raw_line": "2026-11-02 00:15:00 | 法甲 | 里昂 vs 昂热 | 客 | 赔率 1.92 | 半 1-0 全 2-0 | ❌输 | -100.00",
-        "ht_score": "1-0",
-        "ft_score": "2-0",
-        "settle": "lose",
-        "settle_cn": "❌输",
-        "stake": 100.0,
-        "profit": -100.0
-      },
-      "orphan_result": true
     }
   },
   "result_emails": [

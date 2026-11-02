@@ -1,27 +1,7 @@
 {
   "date": "2026-11-02",
-  "count": 6,
+  "count": 5,
   "results": [
-    {
-      "match_key": "法甲|里昂|昂热|away",
-      "kickoff": "2026-11-02 00:15:00",
-      "league": "法甲",
-      "home": "里昂",
-      "away": "昂热",
-      "direction": "away",
-      "direction_cn": "上半场·客队",
-      "handicap_main": null,
-      "odds": 1.92,
-      "ht_score": "1-0",
-      "ft_score": "2-0",
-      "settle": "lose",
-      "settle_cn": "❌输",
-      "stake": 100.0,
-      "profit": -100.0,
-      "result_msg_id": "<tencent_BE90DB1C603204D6FBCF9407BADE6C7C6105@qq.com>",
-      "result_recv_time": "2026-11-02 11:00:15",
-      "raw_line": "2026-11-02 00:15:00 | 法甲 | 里昂 vs 昂热 | 客 | 赔率 1.92 | 半 1-0 全 2-0 | ❌输 | -100.00"
-    },
     {
       "match_key": "德甲|法兰克福|汉堡|home",
       "kickoff": "2026-11-02 00:30:00",
