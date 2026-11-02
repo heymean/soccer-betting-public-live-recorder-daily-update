@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-03 03:45:04",
+    "last_update": "2026-11-03 03:55:04",
     "default_stake": null,
-    "total_bets": 38,
+    "total_bets": 39,
     "total_settled": 33,
     "total_stake": 3300.0,
     "total_profit": 174.5,
@@ -1065,6 +1065,25 @@
         "msg_id": "<tencent_3A7ABB71EDC17A7392C934D881BF249ED007@qq.com>",
         "recv_time": "2026-11-03 01:31:57",
         "raw_line": "意甲 | 萨索洛 vs 佛罗伦萨 | 赔率 1.70 | 上半场 · 客队 | 盘口 0"
+      },
+      "result": null
+    },
+    "意甲|亚特兰大|帕尔马|home": {
+      "match_key": "意甲|亚特兰大|帕尔马|home",
+      "match_date": "2026-11-03",
+      "league": "意甲",
+      "home": "亚特兰大",
+      "away": "帕尔马",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.5,
+      "odds": 1.81,
+      "kickoff_time": "2026-11-03 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_02109315B0C27F5F3CE2F5F6E3678301E608@qq.com>",
+        "recv_time": "2026-11-03 03:46:40",
+        "raw_line": "意甲 | 亚特兰大 vs 帕尔马 | 赔率 1.81 | 上半场 · 主队 | 盘口 -0.5"
       },
       "result": null
     }
