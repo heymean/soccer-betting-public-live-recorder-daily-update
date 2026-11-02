@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "count": 4,
+  "count": 5,
   "signals": [
     {
       "match_key": "意甲|萨索洛|佛罗伦萨|away",
@@ -61,6 +61,21 @@
       "bet_msg_id": "<tencent_C7BF749EA5FAB471AE412AF3E3C914D89B07@qq.com>",
       "bet_recv_time": "2026-11-03 04:01:53",
       "raw_line": "西甲 | 拉科鲁尼亚 vs 奥萨苏纳 | 赔率 2.12 | 上半场 · 主队 | 盘口 -0.25"
+    },
+    {
+      "match_key": "葡超|吉维森特|吉马良斯|btts",
+      "league": "葡超",
+      "home": "吉维森特",
+      "away": "吉马良斯",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.77,
+      "kickoff_estimated": "2026-11-03 04:15:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_589EB37AD971BC4144F3A5C929D89ABF6207@qq.com>",
+      "bet_recv_time": "2026-11-03 04:16:57",
+      "raw_line": "葡超 | 吉维森特 vs 吉马良斯 | 赔率 1.77 | 全场 · 双方进球（BTTS）"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-03 04:15:04",
+    "last_update": "2026-11-03 04:25:04",
     "default_stake": null,
-    "total_bets": 41,
+    "total_bets": 42,
     "total_settled": 33,
     "total_stake": 3300.0,
     "total_profit": 174.5,
@@ -1122,6 +1122,25 @@
         "msg_id": "<tencent_C7BF749EA5FAB471AE412AF3E3C914D89B07@qq.com>",
         "recv_time": "2026-11-03 04:01:53",
         "raw_line": "西甲 | 拉科鲁尼亚 vs 奥萨苏纳 | 赔率 2.12 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "葡超|吉维森特|吉马良斯|btts": {
+      "match_key": "葡超|吉维森特|吉马良斯|btts",
+      "match_date": "2026-11-03",
+      "league": "葡超",
+      "home": "吉维森特",
+      "away": "吉马良斯",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.77,
+      "kickoff_time": "2026-11-03 04:15:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_589EB37AD971BC4144F3A5C929D89ABF6207@qq.com>",
+        "recv_time": "2026-11-03 04:16:57",
+        "raw_line": "葡超 | 吉维森特 vs 吉马良斯 | 赔率 1.77 | 全场 · 双方进球（BTTS）"
       },
       "result": null
     }

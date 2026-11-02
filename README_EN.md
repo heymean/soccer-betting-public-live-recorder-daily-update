@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-03 04:15:04**
+> Last update: **2026-11-03 04:25:04**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 41 |
+| Total bets | 42 |
 | Settled | 33 |
 | Win (win + half win) | 16 |
 | Lose (lose + half lose) | 14 |
@@ -28,7 +28,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|
-| 2026-11-03 | 4 | 0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
+| 2026-11-03 | 5 | 0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | 66.7% | +74.00 | +14.80% | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 | 2026-11-01 | 12 | 12 | 57.1% | +104.00 | +8.67% | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
 
@@ -36,6 +36,7 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-03 04:15 | 葡超 | 吉维森特 vs 吉马良斯 | 全场·双方进球 0 | 1.77 | - | - | Not settled | - |
 | 2026-11-03 04:00 | 英超 | 纽卡斯尔联 vs 埃弗顿 | 上半场·主队 -0.25 | 2.16 | - | - | Not settled | - |
 | 2026-11-03 04:00 | 西甲 | 拉科鲁尼亚 vs 奥萨苏纳 | 上半场·主队 -0.25 | 2.12 | - | - | Not settled | - |
 | 2026-11-03 03:45 | 意甲 | 亚特兰大 vs 帕尔马 | 上半场·主队 -0.50 | 1.81 | - | - | Not settled | - |
@@ -65,13 +66,12 @@ every update immutable through Git history.
 | 2026-10-31 20:30 | 英冠 | 诺维奇 vs 沃特福德 | 上半场·客队 -0.50 | 1.78 | 0-2 | 3-2 | ✅ Win | +78.00 |
 | 2026-10-31 07:00 | 巴甲 | 科林蒂安 vs 米拉索尔 | 上半场·主队 -0.25 | 1.98 | 0-0 | 2-0 | 🟡 Half Lose | -50.00 |
 | 2026-10-31 03:30 | 德甲 | 埃尔沃斯堡 vs 美因茨 | 上半场·客队 +0.25 | 1.98 | 3-0 | 4-1 | ❌ Lose | -100.00 |
-| 2026-10-31 02:30 | 罗甲 | 布加勒斯特快速 vs 奇克塞雷达 | 全场·双方进球 0 | 1.95 | - | - | Not settled | - |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-03 | 4 | 0 | +0.00 | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
+| 2026-11-03 | 5 | 0 | +0.00 | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | +74.00 | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 | 2026-11-01 | 12 | 12 | +104.00 | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
 | 2026-10-31 | 12 | 11 | -45.50 | [EN](daily/2026-10-31/report_EN.md) · [中文](daily/2026-10-31/report.md) |
