@@ -6,21 +6,21 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-03 10:55:04**
+> Last update: **2026-11-03 11:05:05**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
 | Total bets | 42 |
-| Settled | 33 |
+| Settled | 38 |
 | Win (win + half win) | 16 |
-| Lose (lose + half lose) | 14 |
-| Push | 3 |
-| Win rate | 56.4% |
-| Total stake | 3300.00 |
-| Total P/L | +174.50 |
-| ROI | +5.29% |
+| Lose (lose + half lose) | 18 |
+| Push | 4 |
+| Win rate | 50.0% |
+| Total stake | 3800.00 |
+| Total P/L | -175.50 |
+| ROI | -4.62% |
 
 > Win rate: (win + 0.5×half-win) / (win + 0.5×half-win + lose + 0.5×half-lose). Half results count as 0.5. Push excluded.
 
@@ -28,7 +28,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|
-| 2026-11-03 | 5 | 0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
+| 2026-11-03 | 5 | 5 | 0.0% | -350.00 | -70.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | 66.7% | +74.00 | +14.80% | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 | 2026-11-01 | 12 | 12 | 57.1% | +104.00 | +8.67% | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
 
@@ -36,11 +36,11 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
-| 2026-11-03 04:15 | 葡超 | 吉维森特 vs 吉马良斯 | 全场·双方进球 0 | 1.77 | - | - | Not settled | - |
-| 2026-11-03 04:00 | 英超 | 纽卡斯尔联 vs 埃弗顿 | 上半场·主队 -0.25 | 2.16 | - | - | Not settled | - |
-| 2026-11-03 04:00 | 西甲 | 拉科鲁尼亚 vs 奥萨苏纳 | 上半场·主队 -0.25 | 2.12 | - | - | Not settled | - |
-| 2026-11-03 03:45 | 意甲 | 亚特兰大 vs 帕尔马 | 上半场·主队 -0.50 | 1.81 | - | - | Not settled | - |
-| 2026-11-03 01:30 | 意甲 | 萨索洛 vs 佛罗伦萨 | 上半场·客队 0 | 1.70 | - | - | Not settled | - |
+| 2026-11-03 04:15 | 葡超 | 吉维森特 vs 吉马良斯 | 全场·双方进球 0 | 1.77 | 0-0 | 0-0 | ❌ Lose | -100.00 |
+| 2026-11-03 04:00 | 英超 | 纽卡斯尔联 vs 埃弗顿 | 上半场·主队 -0.25 | 2.16 | 0-0 | 0-1 | 🟡 Half Lose | -50.00 |
+| 2026-11-03 04:00 | 西甲 | 拉科鲁尼亚 vs 奥萨苏纳 | 上半场·主队 -0.25 | 2.12 | 0-1 | 2-1 | ❌ Lose | -100.00 |
+| 2026-11-03 03:45 | 意甲 | 亚特兰大 vs 帕尔马 | 上半场·主队 -0.50 | 1.81 | 0-1 | 0-3 | ❌ Lose | -100.00 |
+| 2026-11-03 01:30 | 意甲 | 萨索洛 vs 佛罗伦萨 | 上半场·客队 0 | 1.70 | 1-1 | 2-4 | ⚪ Push | +0.00 |
 | 2026-11-02 04:00 | 西甲 | 毕尔巴鄂竞技 vs 皇家社会 | 上半场·主队 -0.25 | 2.06 | 2-1 | 2-1 | ✅ Win | +106.00 |
 | 2026-11-02 03:45 | 意甲 | 尤文图斯 vs 那不勒斯 | 上半场·客队 0 | 2.17 | 0-0 | 2-0 | ⚪ Push | +0.00 |
 | 2026-11-02 01:30 | 西甲 | 埃尔切 vs 巴伦西亚 | 上半场·主队 0 | 1.64 | 0-0 | 0-1 | ⚪ Push | +0.00 |
@@ -71,7 +71,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-03 | 5 | 0 | +0.00 | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
+| 2026-11-03 | 5 | 5 | -350.00 | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | +74.00 | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 | 2026-11-01 | 12 | 12 | +104.00 | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
 | 2026-10-31 | 12 | 11 | -45.50 | [EN](daily/2026-10-31/report_EN.md) · [中文](daily/2026-10-31/report.md) |

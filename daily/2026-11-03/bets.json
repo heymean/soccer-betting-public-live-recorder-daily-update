@@ -12,7 +12,7 @@
       "handicap_main": 0.0,
       "odds": 1.7,
       "kickoff_estimated": "2026-11-03 01:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_3A7ABB71EDC17A7392C934D881BF249ED007@qq.com>",
       "bet_recv_time": "2026-11-03 01:31:57",
       "raw_line": "意甲 | 萨索洛 vs 佛罗伦萨 | 赔率 1.70 | 上半场 · 客队 | 盘口 0"
@@ -27,7 +27,7 @@
       "handicap_main": -0.5,
       "odds": 1.81,
       "kickoff_estimated": "2026-11-03 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_02109315B0C27F5F3CE2F5F6E3678301E608@qq.com>",
       "bet_recv_time": "2026-11-03 03:46:40",
       "raw_line": "意甲 | 亚特兰大 vs 帕尔马 | 赔率 1.81 | 上半场 · 主队 | 盘口 -0.5"
@@ -42,7 +42,7 @@
       "handicap_main": -0.25,
       "odds": 2.16,
       "kickoff_estimated": "2026-11-03 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_C7BF749EA5FAB471AE412AF3E3C914D89B07@qq.com>",
       "bet_recv_time": "2026-11-03 04:01:53",
       "raw_line": "英超 | 纽卡斯尔联 vs 埃弗顿 | 赔率 2.16 | 上半场 · 主队 | 盘口 -0.25"
@@ -57,7 +57,7 @@
       "handicap_main": -0.25,
       "odds": 2.12,
       "kickoff_estimated": "2026-11-03 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_C7BF749EA5FAB471AE412AF3E3C914D89B07@qq.com>",
       "bet_recv_time": "2026-11-03 04:01:53",
       "raw_line": "西甲 | 拉科鲁尼亚 vs 奥萨苏纳 | 赔率 2.12 | 上半场 · 主队 | 盘口 -0.25"
@@ -72,7 +72,7 @@
       "handicap_main": 0.0,
       "odds": 1.77,
       "kickoff_estimated": "2026-11-03 04:15:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_589EB37AD971BC4144F3A5C929D89ABF6207@qq.com>",
       "bet_recv_time": "2026-11-03 04:16:57",
       "raw_line": "葡超 | 吉维森特 vs 吉马良斯 | 赔率 1.77 | 全场 · 双方进球（BTTS）"
