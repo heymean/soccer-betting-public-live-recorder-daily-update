@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-04 01:45:04",
+    "last_update": "2026-11-04 01:55:04",
     "default_stake": null,
-    "total_bets": 42,
+    "total_bets": 43,
     "total_settled": 38,
     "total_stake": 3800.0,
     "total_profit": -175.5,
@@ -1193,6 +1193,25 @@
         "stake": 100.0,
         "profit": -100.0
       }
+    },
+    "欧冠|加拉塔萨雷|斯图加特|home": {
+      "match_key": "欧冠|加拉塔萨雷|斯图加特|home",
+      "match_date": "2026-11-04",
+      "league": "欧冠",
+      "home": "加拉塔萨雷",
+      "away": "斯图加特",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 2.05,
+      "kickoff_time": "2026-11-04 01:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_7C3C79D0C39C7D721276F82F86E7B29E6305@qq.com>",
+        "recv_time": "2026-11-04 01:46:43",
+        "raw_line": "欧冠 | 加拉塔萨雷 vs 斯图加特 | 赔率 2.05 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
     }
   },
   "result_emails": [

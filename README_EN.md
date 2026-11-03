@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-04 01:45:04**
+> Last update: **2026-11-04 01:55:04**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 42 |
+| Total bets | 43 |
 | Settled | 38 |
 | Win (win + half win) | 16 |
 | Lose (lose + half lose) | 18 |
@@ -28,14 +28,15 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|
+| 2026-11-04 | 1 | 0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
 | 2026-11-03 | 5 | 5 | 0.0% | -350.00 | -70.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | 66.7% | +74.00 | +14.80% | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
-| 2026-11-01 | 12 | 12 | 57.1% | +104.00 | +8.67% | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
 
 ## 📅 Recent 30 Matches
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-04 01:45 | 欧冠 | 加拉塔萨雷 vs 斯图加特 | 上半场·主队 -0.25 | 2.05 | - | - | Not settled | - |
 | 2026-11-03 04:15 | 葡超 | 吉维森特 vs 吉马良斯 | 全场·双方进球 0 | 1.77 | 0-0 | 0-0 | ❌ Lose | -100.00 |
 | 2026-11-03 04:00 | 英超 | 纽卡斯尔联 vs 埃弗顿 | 上半场·主队 -0.25 | 2.16 | 0-0 | 0-1 | 🟡 Half Lose | -50.00 |
 | 2026-11-03 04:00 | 西甲 | 拉科鲁尼亚 vs 奥萨苏纳 | 上半场·主队 -0.25 | 2.12 | 0-1 | 2-1 | ❌ Lose | -100.00 |
@@ -65,12 +66,12 @@ every update immutable through Git history.
 | 2026-10-31 22:00 | 意甲 | 博洛尼亚 vs 蒙扎 | 上半场·主队 -0.25 | 1.76 | 1-1 | 2-1 | 🟡 Half Lose | -50.00 |
 | 2026-10-31 20:30 | 英冠 | 诺维奇 vs 沃特福德 | 上半场·客队 -0.50 | 1.78 | 0-2 | 3-2 | ✅ Win | +78.00 |
 | 2026-10-31 07:00 | 巴甲 | 科林蒂安 vs 米拉索尔 | 上半场·主队 -0.25 | 1.98 | 0-0 | 2-0 | 🟡 Half Lose | -50.00 |
-| 2026-10-31 03:30 | 德甲 | 埃尔沃斯堡 vs 美因茨 | 上半场·客队 +0.25 | 1.98 | 3-0 | 4-1 | ❌ Lose | -100.00 |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
+| 2026-11-04 | 1 | 0 | +0.00 | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
 | 2026-11-03 | 5 | 5 | -350.00 | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | +74.00 | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 | 2026-11-01 | 12 | 12 | +104.00 | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
