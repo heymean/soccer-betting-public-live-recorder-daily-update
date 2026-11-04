@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_update": "2026-11-04 10:55:05",
+    "last_update": "2026-11-04 11:05:06",
     "default_stake": null,
     "total_bets": 54,
-    "total_settled": 38,
-    "total_stake": 3800.0,
-    "total_profit": -175.5,
-    "roi": -4.62,
-    "win": 15,
-    "lose": 13,
+    "total_settled": 49,
+    "total_stake": 4900.0,
+    "total_profit": -503.5,
+    "roi": -10.28,
+    "win": 19,
+    "lose": 19,
     "push": 4,
-    "win_rate": 50.0,
+    "win_rate": 47.0,
     "orphan_results": 0,
     "win_half": 1,
-    "lose_half": 5
+    "lose_half": 6
   },
   "matches": {
     "意甲|弗洛西诺内|都灵|home": {
@@ -1205,13 +1205,23 @@
       "handicap_main": -0.25,
       "odds": 2.05,
       "kickoff_time": "2026-11-04 01:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_7C3C79D0C39C7D721276F82F86E7B29E6305@qq.com>",
         "recv_time": "2026-11-04 01:46:43",
         "raw_line": "欧冠 | 加拉塔萨雷 vs 斯图加特 | 赔率 2.05 | 上半场 · 主队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 01:45:00 | 欧冠 | 加拉塔萨雷 vs 斯图加特 | 主 | 赔率 2.05 | 半 2-0 全 2-0 | ✅赢 | +105.00",
+        "ht_score": "2-0",
+        "ft_score": "2-0",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 105.0
+      }
     },
     "英冠|普雷斯顿|谢菲尔德联|btts": {
       "match_key": "英冠|普雷斯顿|谢菲尔德联|btts",
@@ -1224,13 +1234,23 @@
       "handicap_main": 0.0,
       "odds": 1.63,
       "kickoff_time": "2026-11-04 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_67FD59F104D6BF8D3F0C1E9B034DC6C0660A@qq.com>",
         "recv_time": "2026-11-04 03:47:22",
         "raw_line": "英冠 | 普雷斯顿 vs 谢菲尔德联 | 赔率 1.63 | 全场 · 双方进球（BTTS）"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 03:45:00 | 英冠 | 普雷斯顿 vs 谢菲尔德联 | BTTS | 赔率 1.63 | 半 1-3 全 2-3 | ✅赢 | +63.00",
+        "ht_score": "1-3",
+        "ft_score": "2-3",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 63.0
+      }
     },
     "英冠|女王公园巡游者|伯恩利|home": {
       "match_key": "英冠|女王公园巡游者|伯恩利|home",
@@ -1243,13 +1263,23 @@
       "handicap_main": -0.25,
       "odds": 2.02,
       "kickoff_time": "2026-11-04 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_67FD59F104D6BF8D3F0C1E9B034DC6C0660A@qq.com>",
         "recv_time": "2026-11-04 03:47:22",
         "raw_line": "英冠 | 女王公园巡游者 vs 伯恩利 | 赔率 2.02 | 上半场 · 主队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 03:45:00 | 英冠 | 女王公园巡游者 vs 伯恩利 | 主 | 赔率 2.02 | 半 0-1 全 1-1 | ❌输 | -100.00",
+        "ht_score": "0-1",
+        "ft_score": "1-1",
+        "settle": "lose",
+        "settle_cn": "❌输",
+        "stake": 100.0,
+        "profit": -100.0
+      }
     },
     "英冠|查尔顿|博尔顿|home": {
       "match_key": "英冠|查尔顿|博尔顿|home",
@@ -1262,13 +1292,23 @@
       "handicap_main": 0.0,
       "odds": 1.66,
       "kickoff_time": "2026-11-04 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_67FD59F104D6BF8D3F0C1E9B034DC6C0660A@qq.com>",
         "recv_time": "2026-11-04 03:47:22",
         "raw_line": "英冠 | 查尔顿 vs 博尔顿 | 赔率 1.66 | 上半场 · 主队 | 盘口 0"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 03:45:00 | 英冠 | 查尔顿 vs 博尔顿 | 主 | 赔率 1.66 | 半 0-1 全 0-1 | ❌输 | -100.00",
+        "ht_score": "0-1",
+        "ft_score": "0-1",
+        "settle": "lose",
+        "settle_cn": "❌输",
+        "stake": 100.0,
+        "profit": -100.0
+      }
     },
     "欧冠|费耶诺德|国际米兰|away": {
       "match_key": "欧冠|费耶诺德|国际米兰|away",
@@ -1281,13 +1321,23 @@
       "handicap_main": 0.25,
       "odds": 1.82,
       "kickoff_time": "2026-11-04 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_778DE7A45E633C7BD0C8FC66D21176F84F05@qq.com>",
         "recv_time": "2026-11-04 04:02:44",
         "raw_line": "欧冠 | 费耶诺德 vs 国际米兰 | 赔率 1.82 | 上半场 · 客队 | 盘口 +0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 04:00:00 | 欧冠 | 费耶诺德 vs 国际米兰 | 客 | 赔率 1.82 | 半 0-2 全 0-3 | ✅赢 | +82.00",
+        "ht_score": "0-2",
+        "ft_score": "0-3",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 82.0
+      }
     },
     "欧冠|博德闪耀|里尔|home": {
       "match_key": "欧冠|博德闪耀|里尔|home",
@@ -1300,13 +1350,23 @@
       "handicap_main": -0.5,
       "odds": 2.04,
       "kickoff_time": "2026-11-04 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_778DE7A45E633C7BD0C8FC66D21176F84F05@qq.com>",
         "recv_time": "2026-11-04 04:02:44",
         "raw_line": "欧冠 | 博德闪耀 vs 里尔 | 赔率 2.04 | 上半场 · 主队 | 盘口 -0.5"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 04:00:00 | 欧冠 | 博德闪耀 vs 里尔 | 主 | 赔率 2.04 | 半 0-0 全 0-0 | ❌输 | -100.00",
+        "ht_score": "0-0",
+        "ft_score": "0-0",
+        "settle": "lose",
+        "settle_cn": "❌输",
+        "stake": 100.0,
+        "profit": -100.0
+      }
     },
     "欧冠|曼彻斯特联|罗马|home": {
       "match_key": "欧冠|曼彻斯特联|罗马|home",
@@ -1319,13 +1379,23 @@
       "handicap_main": -0.25,
       "odds": 2.1,
       "kickoff_time": "2026-11-04 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_778DE7A45E633C7BD0C8FC66D21176F84F05@qq.com>",
         "recv_time": "2026-11-04 04:02:44",
         "raw_line": "欧冠 | 曼彻斯特联 vs 罗马 | 赔率 2.10 | 上半场 · 主队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 04:00:00 | 欧冠 | 曼彻斯特联 vs 罗马 | 主 | 赔率 2.10 | 半 0-2 全 3-2 | ❌输 | -100.00",
+        "ht_score": "0-2",
+        "ft_score": "3-2",
+        "settle": "lose",
+        "settle_cn": "❌输",
+        "stake": 100.0,
+        "profit": -100.0
+      }
     },
     "欧冠|LASK林茨|布拉迪斯拉发|home": {
       "match_key": "欧冠|LASK林茨|布拉迪斯拉发|home",
@@ -1357,13 +1427,23 @@
       "handicap_main": 0.0,
       "odds": 1.72,
       "kickoff_time": "2026-11-04 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_778DE7A45E633C7BD0C8FC66D21176F84F05@qq.com>",
         "recv_time": "2026-11-04 04:02:44",
         "raw_line": "英冠 | 西布罗姆维奇 vs 南安普敦 | 赔率 1.72 | 上半场 · 主队 | 盘口 0"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 04:00:00 | 英冠 | 西布罗姆维奇 vs 南安普敦 | 主 | 赔率 1.72 | 半 1-0 全 1-1 | ✅赢 | +72.00",
+        "ht_score": "1-0",
+        "ft_score": "1-1",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 72.0
+      }
     },
     "欧冠|比利亚雷亚尔|巴黎圣日尔曼|home": {
       "match_key": "欧冠|比利亚雷亚尔|巴黎圣日尔曼|home",
@@ -1376,13 +1456,23 @@
       "handicap_main": 0.25,
       "odds": 2.01,
       "kickoff_time": "2026-11-04 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_DBE0B8D4608FB9F56425ECDADF3E0F557D06@qq.com>",
         "recv_time": "2026-11-04 04:03:26",
         "raw_line": "欧冠 | 比利亚雷亚尔 vs 巴黎圣日尔曼 | 赔率 2.01 | 上半场 · 主队 | 盘口 +0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 04:00:00 | 欧冠 | 比利亚雷亚尔 vs 巴黎圣日尔曼 | 主 | 赔率 2.01 | 半 0-4 全 0-6 | ❌输 | -100.00",
+        "ht_score": "0-4",
+        "ft_score": "0-6",
+        "settle": "lose",
+        "settle_cn": "❌输",
+        "stake": 100.0,
+        "profit": -100.0
+      }
     },
     "欧冠|马德里竞技|拜仁慕尼黑|away": {
       "match_key": "欧冠|马德里竞技|拜仁慕尼黑|away",
@@ -1395,13 +1485,23 @@
       "handicap_main": 0.25,
       "odds": 2.1,
       "kickoff_time": "2026-11-04 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_DBE0B8D4608FB9F56425ECDADF3E0F557D06@qq.com>",
         "recv_time": "2026-11-04 04:03:26",
         "raw_line": "欧冠 | 马德里竞技 vs 拜仁慕尼黑 | 赔率 2.10 | 上半场 · 客队 | 盘口 +0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 04:00:00 | 欧冠 | 马德里竞技 vs 拜仁慕尼黑 | 客 | 赔率 2.10 | 半 0-0 全 0-2 | 🟡输半 | -50.00",
+        "ht_score": "0-0",
+        "ft_score": "0-2",
+        "settle": "half_lose",
+        "settle_cn": "🟡输半",
+        "stake": 100.0,
+        "profit": -50.0
+      }
     },
     "巴甲|巴西国际|科里蒂巴|home": {
       "match_key": "巴甲|巴西国际|科里蒂巴|home",
@@ -1414,13 +1514,23 @@
       "handicap_main": -0.5,
       "odds": 2.08,
       "kickoff_time": "2026-11-04 08:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_1DE183AAE60A9301B07F7F693C53F56DE308@qq.com>",
         "recv_time": "2026-11-04 08:31:50",
         "raw_line": "巴甲 | 巴西国际 vs 科里蒂巴 | 赔率 2.08 | 上半场 · 主队 | 盘口 -0.5"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+        "recv_time": "2026-11-04 11:00:10",
+        "raw_line": "2026-11-04 08:30:00 | 巴甲 | 巴西国际 vs 科里蒂巴 | 主 | 赔率 2.08 | 半 0-0 全 1-0 | ❌输 | -100.00",
+        "ht_score": "0-0",
+        "ft_score": "1-0",
+        "settle": "lose",
+        "settle_cn": "❌输",
+        "stake": 100.0,
+        "profit": -100.0
+      }
     }
   },
   "result_emails": [
@@ -1494,6 +1604,15 @@
       "settle_time": "2026-11-03 11:00:08",
       "parsed_count": 5,
       "accepted_count": 5,
+      "dropped_orphans": 0
+    },
+    {
+      "msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
+      "recv_time": "2026-11-04 11:00:10",
+      "period": "过去 24 小时",
+      "settle_time": "2026-11-04 11:00:09",
+      "parsed_count": 11,
+      "accepted_count": 11,
       "dropped_orphans": 0
     }
   ]

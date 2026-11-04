@@ -6,21 +6,21 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-04 10:55:05**
+> Last update: **2026-11-04 11:05:06**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
 | Total bets | 54 |
-| Settled | 38 |
-| Win (win + half win) | 16 |
-| Lose (lose + half lose) | 18 |
+| Settled | 49 |
+| Win (win + half win) | 20 |
+| Lose (lose + half lose) | 25 |
 | Push | 4 |
-| Win rate | 50.0% |
-| Total stake | 3800.00 |
-| Total P/L | -175.50 |
-| ROI | -4.62% |
+| Win rate | 47.0% |
+| Total stake | 4900.00 |
+| Total P/L | -503.50 |
+| ROI | -10.28% |
 
 > Win rate: (win + 0.5×half-win) / (win + 0.5×half-win + lose + 0.5×half-lose). Half results count as 0.5. Push excluded.
 
@@ -28,7 +28,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|
-| 2026-11-04 | 12 | 0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
+| 2026-11-04 | 12 | 11 | 38.1% | -328.00 | -29.82% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
 | 2026-11-03 | 5 | 5 | 0.0% | -350.00 | -70.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | 66.7% | +74.00 | +14.80% | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 
@@ -36,18 +36,18 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
-| 2026-11-04 08:30 | 巴甲 | 巴西国际 vs 科里蒂巴 | 上半场·主队 -0.50 | 2.08 | - | - | Not settled | - |
-| 2026-11-04 04:00 | 欧冠 | 费耶诺德 vs 国际米兰 | 上半场·客队 +0.25 | 1.82 | - | - | Not settled | - |
-| 2026-11-04 04:00 | 欧冠 | 博德闪耀 vs 里尔 | 上半场·主队 -0.50 | 2.04 | - | - | Not settled | - |
-| 2026-11-04 04:00 | 欧冠 | 曼彻斯特联 vs 罗马 | 上半场·主队 -0.25 | 2.10 | - | - | Not settled | - |
+| 2026-11-04 08:30 | 巴甲 | 巴西国际 vs 科里蒂巴 | 上半场·主队 -0.50 | 2.08 | 0-0 | 1-0 | ❌ Lose | -100.00 |
+| 2026-11-04 04:00 | 欧冠 | 费耶诺德 vs 国际米兰 | 上半场·客队 +0.25 | 1.82 | 0-2 | 0-3 | ✅ Win | +82.00 |
+| 2026-11-04 04:00 | 欧冠 | 博德闪耀 vs 里尔 | 上半场·主队 -0.50 | 2.04 | 0-0 | 0-0 | ❌ Lose | -100.00 |
+| 2026-11-04 04:00 | 欧冠 | 曼彻斯特联 vs 罗马 | 上半场·主队 -0.25 | 2.10 | 0-2 | 3-2 | ❌ Lose | -100.00 |
 | 2026-11-04 04:00 | 欧冠 | LASK林茨 vs 布拉迪斯拉发 | 上半场·主队 -0.75 | 1.99 | - | - | Not settled | - |
-| 2026-11-04 04:00 | 英冠 | 西布罗姆维奇 vs 南安普敦 | 上半场·主队 0 | 1.72 | - | - | Not settled | - |
-| 2026-11-04 04:00 | 欧冠 | 比利亚雷亚尔 vs 巴黎圣日尔曼 | 上半场·主队 +0.25 | 2.01 | - | - | Not settled | - |
-| 2026-11-04 04:00 | 欧冠 | 马德里竞技 vs 拜仁慕尼黑 | 上半场·客队 +0.25 | 2.10 | - | - | Not settled | - |
-| 2026-11-04 03:45 | 英冠 | 普雷斯顿 vs 谢菲尔德联 | 全场·双方进球 0 | 1.63 | - | - | Not settled | - |
-| 2026-11-04 03:45 | 英冠 | 女王公园巡游者 vs 伯恩利 | 上半场·主队 -0.25 | 2.02 | - | - | Not settled | - |
-| 2026-11-04 03:45 | 英冠 | 查尔顿 vs 博尔顿 | 上半场·主队 0 | 1.66 | - | - | Not settled | - |
-| 2026-11-04 01:45 | 欧冠 | 加拉塔萨雷 vs 斯图加特 | 上半场·主队 -0.25 | 2.05 | - | - | Not settled | - |
+| 2026-11-04 04:00 | 英冠 | 西布罗姆维奇 vs 南安普敦 | 上半场·主队 0 | 1.72 | 1-0 | 1-1 | ✅ Win | +72.00 |
+| 2026-11-04 04:00 | 欧冠 | 比利亚雷亚尔 vs 巴黎圣日尔曼 | 上半场·主队 +0.25 | 2.01 | 0-4 | 0-6 | ❌ Lose | -100.00 |
+| 2026-11-04 04:00 | 欧冠 | 马德里竞技 vs 拜仁慕尼黑 | 上半场·客队 +0.25 | 2.10 | 0-0 | 0-2 | 🟡 Half Lose | -50.00 |
+| 2026-11-04 03:45 | 英冠 | 普雷斯顿 vs 谢菲尔德联 | 全场·双方进球 0 | 1.63 | 1-3 | 2-3 | ✅ Win | +63.00 |
+| 2026-11-04 03:45 | 英冠 | 女王公园巡游者 vs 伯恩利 | 上半场·主队 -0.25 | 2.02 | 0-1 | 1-1 | ❌ Lose | -100.00 |
+| 2026-11-04 03:45 | 英冠 | 查尔顿 vs 博尔顿 | 上半场·主队 0 | 1.66 | 0-1 | 0-1 | ❌ Lose | -100.00 |
+| 2026-11-04 01:45 | 欧冠 | 加拉塔萨雷 vs 斯图加特 | 上半场·主队 -0.25 | 2.05 | 2-0 | 2-0 | ✅ Win | +105.00 |
 | 2026-11-03 04:15 | 葡超 | 吉维森特 vs 吉马良斯 | 全场·双方进球 0 | 1.77 | 0-0 | 0-0 | ❌ Lose | -100.00 |
 | 2026-11-03 04:00 | 英超 | 纽卡斯尔联 vs 埃弗顿 | 上半场·主队 -0.25 | 2.16 | 0-0 | 0-1 | 🟡 Half Lose | -50.00 |
 | 2026-11-03 04:00 | 西甲 | 拉科鲁尼亚 vs 奥萨苏纳 | 上半场·主队 -0.25 | 2.12 | 0-1 | 2-1 | ❌ Lose | -100.00 |
@@ -71,7 +71,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-04 | 12 | 0 | +0.00 | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
+| 2026-11-04 | 12 | 11 | -328.00 | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
 | 2026-11-03 | 5 | 5 | -350.00 | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | +74.00 | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 | 2026-11-01 | 12 | 12 | +104.00 | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
