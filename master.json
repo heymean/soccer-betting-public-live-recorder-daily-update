@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-05 03:45:04",
+    "last_update": "2026-11-05 03:55:05",
     "default_stake": null,
-    "total_bets": 56,
+    "total_bets": 57,
     "total_settled": 49,
     "total_stake": 4900.0,
     "total_profit": -503.5,
@@ -1567,6 +1567,25 @@
         "msg_id": "<tencent_1CB8F160A0B9CD64046CE45F124F5B3DF706@qq.com>",
         "recv_time": "2026-11-04 23:31:43",
         "raw_line": "欧联 | 雷恩 vs 奥林匹亚科斯 | 赔率 2.03 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "英冠|雷克斯汉姆|米德尔斯堡|away": {
+      "match_key": "英冠|雷克斯汉姆|米德尔斯堡|away",
+      "match_date": "2026-11-05",
+      "league": "英冠",
+      "home": "雷克斯汉姆",
+      "away": "米德尔斯堡",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 1.89,
+      "kickoff_time": "2026-11-05 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_C40960A9FF2A798CEA05C61906EBCDB52709@qq.com>",
+        "recv_time": "2026-11-05 03:46:47",
+        "raw_line": "英冠 | 雷克斯汉姆 vs 米德尔斯堡 | 赔率 1.89 | 上半场 · 客队 | 盘口 +0.25"
       },
       "result": null
     }

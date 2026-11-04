@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-05",
+  "count": 1,
+  "signals": [
+    {
+      "match_key": "英冠|雷克斯汉姆|米德尔斯堡|away",
+      "league": "英冠",
+      "home": "雷克斯汉姆",
+      "away": "米德尔斯堡",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 1.89,
+      "kickoff_estimated": "2026-11-05 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_C40960A9FF2A798CEA05C61906EBCDB52709@qq.com>",
+      "bet_recv_time": "2026-11-05 03:46:47",
+      "raw_line": "英冠 | 雷克斯汉姆 vs 米德尔斯堡 | 赔率 1.89 | 上半场 · 客队 | 盘口 +0.25"
+    }
+  ]
+}
