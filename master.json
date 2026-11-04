@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-05 06:25:05",
+    "last_update": "2026-11-05 06:35:05",
     "default_stake": null,
-    "total_bets": 63,
+    "total_bets": 64,
     "total_settled": 49,
     "total_stake": 4900.0,
     "total_profit": -503.5,
@@ -1700,6 +1700,25 @@
         "msg_id": "<tencent_88060F4A3DC9F8D0209B39F6E4026CCD5F06@qq.com>",
         "recv_time": "2026-11-05 04:02:23",
         "raw_line": "欧冠 | 维京 vs 萨巴赫 | 赔率 1.88 | 上半场 · 客队 | 盘口 -0.5"
+      },
+      "result": null
+    },
+    "巴甲|弗拉门戈|格雷米奥|away": {
+      "match_key": "巴甲|弗拉门戈|格雷米奥|away",
+      "match_date": "2026-11-05",
+      "league": "巴甲",
+      "home": "弗拉门戈",
+      "away": "格雷米奥",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -1.0,
+      "odds": 1.94,
+      "kickoff_time": "2026-11-05 06:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_5AFABFF1B9417DF3DEC95AD896BF4A1EBB07@qq.com>",
+        "recv_time": "2026-11-05 06:31:44",
+        "raw_line": "巴甲 | 弗拉门戈 vs 格雷米奥 | 赔率 1.94 | 上半场 · 客队 | 盘口 -1"
       },
       "result": null
     }

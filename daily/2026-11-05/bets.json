@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "count": 7,
+  "count": 8,
   "signals": [
     {
       "match_key": "英冠|雷克斯汉姆|米德尔斯堡|away",
@@ -106,6 +106,21 @@
       "bet_msg_id": "<tencent_88060F4A3DC9F8D0209B39F6E4026CCD5F06@qq.com>",
       "bet_recv_time": "2026-11-05 04:02:23",
       "raw_line": "欧冠 | 维京 vs 萨巴赫 | 赔率 1.88 | 上半场 · 客队 | 盘口 -0.5"
+    },
+    {
+      "match_key": "巴甲|弗拉门戈|格雷米奥|away",
+      "league": "巴甲",
+      "home": "弗拉门戈",
+      "away": "格雷米奥",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -1.0,
+      "odds": 1.94,
+      "kickoff_estimated": "2026-11-05 06:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_5AFABFF1B9417DF3DEC95AD896BF4A1EBB07@qq.com>",
+      "bet_recv_time": "2026-11-05 06:31:44",
+      "raw_line": "巴甲 | 弗拉门戈 vs 格雷米奥 | 赔率 1.94 | 上半场 · 客队 | 盘口 -1"
     }
   ]
 }

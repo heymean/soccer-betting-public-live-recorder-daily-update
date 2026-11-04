@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-05 06:25:05**
+> Last update: **2026-11-05 06:35:05**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 63 |
+| Total bets | 64 |
 | Settled | 49 |
 | Win (win + half win) | 20 |
 | Lose (lose + half lose) | 25 |
@@ -28,7 +28,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|
-| 2026-11-05 | 7 | 0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
+| 2026-11-05 | 8 | 0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
 | 2026-11-04 | 14 | 11 | 38.1% | -328.00 | -29.82% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
 | 2026-11-03 | 5 | 5 | 0.0% | -350.00 | -70.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 
@@ -36,6 +36,7 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-05 06:30 | 巴甲 | 弗拉门戈 vs 格雷米奥 | 上半场·客队 -1.00 | 1.94 | - | - | Not settled | - |
 | 2026-11-05 04:00 | 欧冠 | 波尔图 vs 那不勒斯 | 上半场·客队 -0.25 | 1.79 | - | - | Not settled | - |
 | 2026-11-05 04:00 | 欧冠 | 布拉格斯拉维亚 vs 阿森纳 | 上半场·客队 +0.75 | 1.91 | - | - | Not settled | - |
 | 2026-11-05 04:00 | 欧冠 | PSV埃因霍温 vs 布鲁日 | 上半场·主队 -0.25 | 1.96 | - | - | Not settled | - |
@@ -65,13 +66,12 @@ every update immutable through Git history.
 | 2026-11-02 04:00 | 西甲 | 毕尔巴鄂竞技 vs 皇家社会 | 上半场·主队 -0.25 | 2.06 | 2-1 | 2-1 | ✅ Win | +106.00 |
 | 2026-11-02 03:45 | 意甲 | 尤文图斯 vs 那不勒斯 | 上半场·客队 0 | 2.17 | 0-0 | 2-0 | ⚪ Push | +0.00 |
 | 2026-11-02 01:30 | 西甲 | 埃尔切 vs 巴伦西亚 | 上半场·主队 0 | 1.64 | 0-0 | 0-1 | ⚪ Push | +0.00 |
-| 2026-11-02 01:00 | 意甲 | 莱切 vs 热那亚 | 上半场·客队 0 | 1.68 | 1-2 | 1-2 | ✅ Win | +68.00 |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-05 | 7 | 0 | +0.00 | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
+| 2026-11-05 | 8 | 0 | +0.00 | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
 | 2026-11-04 | 14 | 11 | -328.00 | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
 | 2026-11-03 | 5 | 5 | -350.00 | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | +74.00 | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
