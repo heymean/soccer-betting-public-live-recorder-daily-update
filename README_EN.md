@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-04 21:11:09**
+> Last update: **2026-11-04 23:53:57**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 55 |
+| Total bets | 56 |
 | Settled | 49 |
 | Win (win + half win) | 20 |
 | Lose (lose + half lose) | 25 |
@@ -28,7 +28,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|
-| 2026-11-04 | 13 | 11 | 38.1% | -328.00 | -29.82% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
+| 2026-11-04 | 14 | 11 | 38.1% | -328.00 | -29.82% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
 | 2026-11-03 | 5 | 5 | 0.0% | -350.00 | -70.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | 66.7% | +74.00 | +14.80% | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 
@@ -36,6 +36,7 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-04 23:30 | 欧联 | 雷恩 vs 奥林匹亚科斯 | 上半场·主队 -0.25 | 2.03 | - | - | Not settled | - |
 | 2026-11-04 18:00 | 亚冠 | 浦项制铁 vs 大阪钢巴 | 上半场·客队 +0.25 | 2.16 | - | - | Not settled | - |
 | 2026-11-04 08:30 | 巴甲 | 巴西国际 vs 科里蒂巴 | 上半场·主队 -0.50 | 2.08 | 0-0 | 1-0 | ❌ Lose | -100.00 |
 | 2026-11-04 04:00 | 欧冠 | 费耶诺德 vs 国际米兰 | 上半场·客队 +0.25 | 1.82 | 0-2 | 0-3 | ✅ Win | +82.00 |
@@ -65,13 +66,12 @@ every update immutable through Git history.
 | 2026-11-01 04:00 | 荷甲 | 阿贾克斯 vs 阿尔克马尔 | 上半场·客队 -0.25 | 1.91 | 1-0 | 1-0 | ❌ Lose | -100.00 |
 | 2026-11-01 03:45 | 法甲 | 特鲁瓦 vs 勒芒 | 上半场·客队 0 | 2.20 | 1-0 | 2-0 | ❌ Lose | -100.00 |
 | 2026-11-01 03:45 | 意甲 | AC米兰 vs 国际米兰 | 上半场·客队 +0.25 | 2.04 | 3-1 | 3-1 | ❌ Lose | -100.00 |
-| 2026-11-01 03:00 | 美职 | 圣路易斯城 vs 圣迭戈FC | 上半场·主队 -0.50 | 1.95 | 0-1 | 0-1 | ❌ Lose | -100.00 |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-04 | 13 | 11 | -328.00 | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
+| 2026-11-04 | 14 | 11 | -328.00 | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
 | 2026-11-03 | 5 | 5 | -350.00 | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 | 2026-11-02 | 5 | 5 | +74.00 | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
 | 2026-11-01 | 12 | 12 | +104.00 | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
