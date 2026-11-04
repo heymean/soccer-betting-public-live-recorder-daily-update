@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "count": 11,
+  "count": 12,
   "signals": [
     {
       "match_key": "欧冠|加拉塔萨雷|斯图加特|home",
@@ -166,6 +166,21 @@
       "bet_msg_id": "<tencent_DBE0B8D4608FB9F56425ECDADF3E0F557D06@qq.com>",
       "bet_recv_time": "2026-11-04 04:03:26",
       "raw_line": "欧冠 | 马德里竞技 vs 拜仁慕尼黑 | 赔率 2.10 | 上半场 · 客队 | 盘口 +0.25"
+    },
+    {
+      "match_key": "巴甲|巴西国际|科里蒂巴|home",
+      "league": "巴甲",
+      "home": "巴西国际",
+      "away": "科里蒂巴",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.5,
+      "odds": 2.08,
+      "kickoff_estimated": "2026-11-04 08:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_1DE183AAE60A9301B07F7F693C53F56DE308@qq.com>",
+      "bet_recv_time": "2026-11-04 08:31:50",
+      "raw_line": "巴甲 | 巴西国际 vs 科里蒂巴 | 赔率 2.08 | 上半场 · 主队 | 盘口 -0.5"
     }
   ]
 }
