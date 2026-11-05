@@ -6,7 +6,7 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-05 19:59:35**
+> Last update: **2026-11-05 20:06:47**
 
 ## 📊 Cumulative Stats
 
@@ -29,13 +29,19 @@ every update immutable through Git history.
 
 > Win rate = win units / (win units + lose units) × 100%. Push excluded from denominator.
 
-## 📅 Recent 3 Days
+## 📅 Recent 30 Days
 
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
 | 2026-11-05 | 9 | 9 | 4.5 / 8.0 | 56.2% | +48.50 | +5.39% | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
 | 2026-11-04 | 14 | 14 | 6.0 / 13.0 | 46.2% | -163.00 | -11.64% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
 | 2026-11-03 | 5 | 5 | 0.0 / 3.5 | 0.0% | -350.00 | -70.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
+| 2026-11-02 | 5 | 5 | 2.0 / 3.0 | 66.7% | +74.00 | +14.80% | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
+| 2026-11-01 | 12 | 12 | 6.0 / 10.5 | 57.1% | +104.00 | +8.67% | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
+| 2026-10-31 | 12 | 11 | 4.5 / 9.0 | 50.0% | -45.50 | -4.14% | [EN](daily/2026-10-31/report_EN.md) · [中文](daily/2026-10-31/report.md) |
+| 2026-10-30 | 6 | 4 | 3.0 / 4.0 | 75.0% | +142.00 | +35.50% | [EN](daily/2026-10-30/report_EN.md) · [中文](daily/2026-10-30/report.md) |
+| 2026-10-29 | 1 | 1 | 0.0 / 1.0 | 0.0% | -100.00 | -100.00% | [EN](daily/2026-10-29/report_EN.md) · [中文](daily/2026-10-29/report.md) |
+| 2026-10-28 | 1 | 0 | 0.0 / 0.0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-10-28/report_EN.md) · [中文](daily/2026-10-28/report.md) |
 
 ## 📅 Recent 30 Matches
 
