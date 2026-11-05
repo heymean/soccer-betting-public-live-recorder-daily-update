@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "count": 8,
+  "count": 9,
   "signals": [
     {
       "match_key": "英冠|雷克斯汉姆|米德尔斯堡|away",
@@ -121,6 +121,21 @@
       "bet_msg_id": "<tencent_5AFABFF1B9417DF3DEC95AD896BF4A1EBB07@qq.com>",
       "bet_recv_time": "2026-11-05 06:31:44",
       "raw_line": "巴甲 | 弗拉门戈 vs 格雷米奥 | 赔率 1.94 | 上半场 · 客队 | 盘口 -1"
+    },
+    {
+      "match_key": "巴甲|博塔弗戈|米内罗竞技|home",
+      "league": "巴甲",
+      "home": "博塔弗戈",
+      "away": "米内罗竞技",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.81,
+      "kickoff_estimated": "2026-11-05 08:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_CB5E6C9C7DF0D5DC7BD20B76E92F9567BC05@qq.com>",
+      "bet_recv_time": "2026-11-05 08:31:46",
+      "raw_line": "巴甲 | 博塔弗戈 vs 米内罗竞技 | 赔率 1.81 | 上半场 · 主队 | 盘口 -0.25"
     }
   ]
 }
