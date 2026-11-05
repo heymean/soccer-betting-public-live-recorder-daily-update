@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "count": 11,
+  "count": 13,
   "results": [
     {
       "match_key": "欧冠|加拉塔萨雷|斯图加特|home",
@@ -221,6 +221,46 @@
       "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
       "result_recv_time": "2026-11-04 11:00:10",
       "raw_line": "2026-11-04 08:30:00 | 巴甲 | 巴西国际 vs 科里蒂巴 | 主 | 赔率 2.08 | 半 0-0 全 1-0 | ❌输 | -100.00"
+    },
+    {
+      "match_key": "亚冠|浦项制铁|大阪钢巴|away",
+      "kickoff": "2026-11-04 18:00:00",
+      "league": "亚冠",
+      "home": "浦项制铁",
+      "away": "大阪钢巴",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 2.16,
+      "ht_score": "0-1",
+      "ft_score": "3-3",
+      "settle": "win",
+      "settle_cn": "✅赢",
+      "stake": 100.0,
+      "profit": 116.0,
+      "result_msg_id": "<tencent_D07B7203D6E30F9467A39E7FDC63B0CF9C05@qq.com>",
+      "result_recv_time": "2026-11-05 11:00:27",
+      "raw_line": "2026-11-04 18:00:00 | 亚冠 | 浦项制铁 vs 大阪钢巴 | 客 | 赔率 2.16 | 半 0-1 全 3-3 | ✅赢 | +116.00"
+    },
+    {
+      "match_key": "欧联|雷恩|奥林匹亚科斯|home",
+      "kickoff": "2026-11-04 23:30:00",
+      "league": "欧联",
+      "home": "雷恩",
+      "away": "奥林匹亚科斯",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 2.03,
+      "ht_score": "0-0",
+      "ft_score": "0-0",
+      "settle": "half_lose",
+      "settle_cn": "🟡输半",
+      "stake": 100.0,
+      "profit": -50.0,
+      "result_msg_id": "<tencent_D07B7203D6E30F9467A39E7FDC63B0CF9C05@qq.com>",
+      "result_recv_time": "2026-11-05 11:00:27",
+      "raw_line": "2026-11-04 23:30:00 | 欧联 | 雷恩 vs 奥林匹亚科斯 | 主 | 赔率 2.03 | 半 0-0 全 0-0 | 🟡输半 | -50.00"
     }
   ]
 }

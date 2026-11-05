@@ -12,7 +12,7 @@
       "handicap_main": 0.25,
       "odds": 1.89,
       "kickoff_estimated": "2026-11-05 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_C40960A9FF2A798CEA05C61906EBCDB52709@qq.com>",
       "bet_recv_time": "2026-11-05 03:46:47",
       "raw_line": "英冠 | 雷克斯汉姆 vs 米德尔斯堡 | 赔率 1.89 | 上半场 · 客队 | 盘口 +0.25"
@@ -27,7 +27,7 @@
       "handicap_main": -0.25,
       "odds": 1.79,
       "kickoff_estimated": "2026-11-05 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_88060F4A3DC9F8D0209B39F6E4026CCD5F06@qq.com>",
       "bet_recv_time": "2026-11-05 04:02:23",
       "raw_line": "欧冠 | 波尔图 vs 那不勒斯 | 赔率 1.79 | 上半场 · 客队 | 盘口 -0.25"
@@ -42,7 +42,7 @@
       "handicap_main": 0.75,
       "odds": 1.91,
       "kickoff_estimated": "2026-11-05 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_88060F4A3DC9F8D0209B39F6E4026CCD5F06@qq.com>",
       "bet_recv_time": "2026-11-05 04:02:23",
       "raw_line": "欧冠 | 布拉格斯拉维亚 vs 阿森纳 | 赔率 1.91 | 上半场 · 客队 | 盘口 +0.75"
@@ -57,7 +57,7 @@
       "handicap_main": -0.25,
       "odds": 1.96,
       "kickoff_estimated": "2026-11-05 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_88060F4A3DC9F8D0209B39F6E4026CCD5F06@qq.com>",
       "bet_recv_time": "2026-11-05 04:02:23",
       "raw_line": "欧冠 | PSV埃因霍温 vs 布鲁日 | 赔率 1.96 | 上半场 · 主队 | 盘口 -0.25"
@@ -72,7 +72,7 @@
       "handicap_main": 0.25,
       "odds": 1.99,
       "kickoff_estimated": "2026-11-05 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_88060F4A3DC9F8D0209B39F6E4026CCD5F06@qq.com>",
       "bet_recv_time": "2026-11-05 04:02:23",
       "raw_line": "欧冠 | 朗斯 vs 科莫 | 赔率 1.99 | 上半场 · 客队 | 盘口 +0.25"
@@ -87,7 +87,7 @@
       "handicap_main": -0.5,
       "odds": 1.99,
       "kickoff_estimated": "2026-11-05 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_88060F4A3DC9F8D0209B39F6E4026CCD5F06@qq.com>",
       "bet_recv_time": "2026-11-05 04:02:23",
       "raw_line": "欧冠 | 多特蒙德 vs 皇家贝蒂斯 | 赔率 1.99 | 上半场 · 主队 | 盘口 -0.5"
@@ -117,7 +117,7 @@
       "handicap_main": -1.0,
       "odds": 1.94,
       "kickoff_estimated": "2026-11-05 06:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_5AFABFF1B9417DF3DEC95AD896BF4A1EBB07@qq.com>",
       "bet_recv_time": "2026-11-05 06:31:44",
       "raw_line": "巴甲 | 弗拉门戈 vs 格雷米奥 | 赔率 1.94 | 上半场 · 客队 | 盘口 -1"
@@ -132,7 +132,7 @@
       "handicap_main": -0.25,
       "odds": 1.81,
       "kickoff_estimated": "2026-11-05 08:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_CB5E6C9C7DF0D5DC7BD20B76E92F9567BC05@qq.com>",
       "bet_recv_time": "2026-11-05 08:31:46",
       "raw_line": "巴甲 | 博塔弗戈 vs 米内罗竞技 | 赔率 1.81 | 上半场 · 主队 | 盘口 -0.25"
