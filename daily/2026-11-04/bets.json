@@ -117,7 +117,7 @@
       "handicap_main": -0.75,
       "odds": 1.99,
       "kickoff_estimated": "2026-11-04 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_778DE7A45E633C7BD0C8FC66D21176F84F05@qq.com>",
       "bet_recv_time": "2026-11-04 04:02:44",
       "raw_line": "欧冠 | LASK林茨 vs 布拉迪斯拉发 | 赔率 1.99 | 上半场 · 主队 | 盘口 -0.75"

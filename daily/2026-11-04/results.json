@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "count": 13,
+  "count": 14,
   "results": [
     {
       "match_key": "欧冠|加拉塔萨雷|斯图加特|home",
@@ -18,8 +18,8 @@
       "settle_cn": "✅赢",
       "stake": 100.0,
       "profit": 105.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 01:45:00 | 欧冠 | 加拉塔萨雷 vs 斯图加特 | 主 | 赔率 2.05 | 半 2-0 全 2-0 | ✅赢 | +105.00"
     },
     {
@@ -38,8 +38,8 @@
       "settle_cn": "✅赢",
       "stake": 100.0,
       "profit": 63.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 03:45:00 | 英冠 | 普雷斯顿 vs 谢菲尔德联 | BTTS | 赔率 1.63 | 半 1-3 全 2-3 | ✅赢 | +63.00"
     },
     {
@@ -58,8 +58,8 @@
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 03:45:00 | 英冠 | 女王公园巡游者 vs 伯恩利 | 主 | 赔率 2.02 | 半 0-1 全 1-1 | ❌输 | -100.00"
     },
     {
@@ -78,8 +78,8 @@
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 03:45:00 | 英冠 | 查尔顿 vs 博尔顿 | 主 | 赔率 1.66 | 半 0-1 全 0-1 | ❌输 | -100.00"
     },
     {
@@ -98,8 +98,8 @@
       "settle_cn": "✅赢",
       "stake": 100.0,
       "profit": 82.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 04:00:00 | 欧冠 | 费耶诺德 vs 国际米兰 | 客 | 赔率 1.82 | 半 0-2 全 0-3 | ✅赢 | +82.00"
     },
     {
@@ -118,8 +118,8 @@
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 04:00:00 | 欧冠 | 博德闪耀 vs 里尔 | 主 | 赔率 2.04 | 半 0-0 全 0-0 | ❌输 | -100.00"
     },
     {
@@ -138,9 +138,29 @@
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 04:00:00 | 欧冠 | 曼彻斯特联 vs 罗马 | 主 | 赔率 2.10 | 半 0-2 全 3-2 | ❌输 | -100.00"
+    },
+    {
+      "match_key": "欧冠|LASK林茨|布拉迪斯拉发|home",
+      "kickoff": "2026-11-04 04:00:00",
+      "league": "欧冠",
+      "home": "LASK林茨",
+      "away": "布拉迪斯拉发",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.75,
+      "odds": 1.99,
+      "ht_score": "3-0",
+      "ft_score": "4-0",
+      "settle": "win",
+      "settle_cn": "✅赢",
+      "stake": 100.0,
+      "profit": 99.0,
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
+      "raw_line": "2026-11-04 04:00:00 | 欧冠 | LASK林茨 vs 布拉迪斯拉发 | 主 | 赔率 1.99 | 半 3-0 全 4-0 | ✅赢 | +99.00"
     },
     {
       "match_key": "英冠|西布罗姆维奇|南安普敦|home",
@@ -158,8 +178,8 @@
       "settle_cn": "✅赢",
       "stake": 100.0,
       "profit": 72.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 04:00:00 | 英冠 | 西布罗姆维奇 vs 南安普敦 | 主 | 赔率 1.72 | 半 1-0 全 1-1 | ✅赢 | +72.00"
     },
     {
@@ -178,8 +198,8 @@
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 04:00:00 | 欧冠 | 比利亚雷亚尔 vs 巴黎圣日尔曼 | 主 | 赔率 2.01 | 半 0-4 全 0-6 | ❌输 | -100.00"
     },
     {
@@ -198,8 +218,8 @@
       "settle_cn": "🟡输半",
       "stake": 100.0,
       "profit": -50.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 04:00:00 | 欧冠 | 马德里竞技 vs 拜仁慕尼黑 | 客 | 赔率 2.10 | 半 0-0 全 0-2 | 🟡输半 | -50.00"
     },
     {
@@ -218,8 +238,8 @@
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_925204B6FC2F91A7AD3E755C7750C27C6E05@qq.com>",
-      "result_recv_time": "2026-11-04 11:00:10",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 08:30:00 | 巴甲 | 巴西国际 vs 科里蒂巴 | 主 | 赔率 2.08 | 半 0-0 全 1-0 | ❌输 | -100.00"
     },
     {
@@ -238,8 +258,8 @@
       "settle_cn": "✅赢",
       "stake": 100.0,
       "profit": 116.0,
-      "result_msg_id": "<tencent_D07B7203D6E30F9467A39E7FDC63B0CF9C05@qq.com>",
-      "result_recv_time": "2026-11-05 11:00:27",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 18:00:00 | 亚冠 | 浦项制铁 vs 大阪钢巴 | 客 | 赔率 2.16 | 半 0-1 全 3-3 | ✅赢 | +116.00"
     },
     {
@@ -258,8 +278,8 @@
       "settle_cn": "🟡输半",
       "stake": 100.0,
       "profit": -50.0,
-      "result_msg_id": "<tencent_D07B7203D6E30F9467A39E7FDC63B0CF9C05@qq.com>",
-      "result_recv_time": "2026-11-05 11:00:27",
+      "result_msg_id": "<tencent_440960A9FED67918EBBFC6E907D1CC4D2609@qq.com>",
+      "result_recv_time": "2026-11-05 19:52:08",
       "raw_line": "2026-11-04 23:30:00 | 欧联 | 雷恩 vs 奥林匹亚科斯 | 主 | 赔率 2.03 | 半 0-0 全 0-0 | 🟡输半 | -50.00"
     }
   ]

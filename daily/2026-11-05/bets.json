@@ -102,7 +102,7 @@
       "handicap_main": -0.5,
       "odds": 1.88,
       "kickoff_estimated": "2026-11-05 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_88060F4A3DC9F8D0209B39F6E4026CCD5F06@qq.com>",
       "bet_recv_time": "2026-11-05 04:02:23",
       "raw_line": "欧冠 | 维京 vs 萨巴赫 | 赔率 1.88 | 上半场 · 客队 | 盘口 -0.5"
