@@ -6,7 +6,7 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-05 19:57:01**
+> Last update: **2026-11-05 19:59:35**
 
 ## 📊 Cumulative Stats
 
@@ -15,10 +15,10 @@ every update immutable through Git history.
 | Total bets | 65 |
 | Settled | 61 |
 | Win matches (win + half win) | 27 |
-| Win units | 26.0 |
 | Lose matches (lose + half lose) | 30 |
+| Push matches | 4 |
 | Lose units | 26.0 |
-| Push | 4 |
+| Win units | 26.0 |
 | Total units (win + lose) | 52.0 |
 | Win rate (win units / total units) | 50.0% |
 | Total stake | 6100.00 |
