@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-06 06:25:05",
+    "last_update": "2026-11-06 06:35:06",
     "default_stake": null,
-    "total_bets": 65,
+    "total_bets": 66,
     "total_settled": 61,
     "total_stake": 6100.0,
     "total_profit": -290.0,
@@ -1863,6 +1863,25 @@
         "stake": 100.0,
         "profit": 81.0
       }
+    },
+    "巴甲|帕尔梅拉斯|里莫|away": {
+      "match_key": "巴甲|帕尔梅拉斯|里莫|away",
+      "match_date": "2026-11-06",
+      "league": "巴甲",
+      "home": "帕尔梅拉斯",
+      "away": "里莫",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.75,
+      "odds": 1.96,
+      "kickoff_time": "2026-11-06 06:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_D30C16ED6F9AA7A7DE603C6BB0C9BC6A9205@qq.com>",
+        "recv_time": "2026-11-06 06:31:49",
+        "raw_line": "巴甲 | 帕尔梅拉斯 vs 里莫 | 赔率 1.96 | 上半场 · 客队 | 盘口 -0.75"
+      },
+      "result": null
     }
   },
   "result_emails": [
