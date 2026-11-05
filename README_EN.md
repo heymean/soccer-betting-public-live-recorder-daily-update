@@ -6,7 +6,7 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-05 19:55:06**
+> Last update: **2026-11-05 19:57:01**
 
 ## 📊 Cumulative Stats
 
@@ -14,23 +14,28 @@ every update immutable through Git history.
 |---|---|
 | Total bets | 65 |
 | Settled | 61 |
-| Win (win + half win) | 27 |
-| Lose (lose + half lose) | 30 |
+| Win matches (win + half win) | 27 |
+| Win units | 26.0 |
+| Lose matches (lose + half lose) | 30 |
+| Lose units | 26.0 |
 | Push | 4 |
-| Win rate | 50.0% |
+| Total units (win + lose) | 52.0 |
+| Win rate (win units / total units) | 50.0% |
 | Total stake | 6100.00 |
 | Total P/L | -290.00 |
 | ROI | -4.75% |
 
-> Win rate: (win + 0.5×half-win) / (win + 0.5×half-win + lose + 0.5×half-lose). Half results count as 0.5. Push excluded.
+> Matches vs Units: win/lose = 1 unit, **half-win/half-lose = 0.5 unit**, push = 0 unit (stake refunded)
+
+> Win rate = win units / (win units + lose units) × 100%. Push excluded from denominator.
 
 ## 📅 Recent 3 Days
 
-| Date | Bets | Settled | Win rate | P/L | ROI | Details |
-|---|---|---|---|---|---|---|
-| 2026-11-05 | 9 | 9 | 56.2% | +48.50 | +5.39% | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
-| 2026-11-04 | 14 | 14 | 46.2% | -163.00 | -11.64% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
-| 2026-11-03 | 5 | 5 | 0.0% | -350.00 | -70.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
+| Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
+|---|---|---|---|---|---|---|---|
+| 2026-11-05 | 9 | 9 | 4.5 / 8.0 | 56.2% | +48.50 | +5.39% | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
+| 2026-11-04 | 14 | 14 | 6.0 / 13.0 | 46.2% | -163.00 | -11.64% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
+| 2026-11-03 | 5 | 5 | 0.0 / 3.5 | 0.0% | -350.00 | -70.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
 
 ## 📅 Recent 30 Matches
 

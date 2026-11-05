@@ -5,11 +5,11 @@
 ## Summary
 
 - Bets: **12** | Settled: **11**
-- Win: 5 | Lose: 6 | Push: 0
-- Win rate **50.0%**
+- Win **5** matches / **4.5** units | Lose **6** matches / **4.5** units | Push 0 matches
+- Win rate **50.0%** (win units 4.5 / total units 9.0)
 - Total stake **1100.00** | P/L **-45.50** | ROI **-4.14%**
 
-> Win rate = (win + 0.5×half-win) / (win + 0.5×half-win + lose + 0.5×half-lose). Push excluded.
+> Units: win/lose = 1 unit, half-win/half-lose = 0.5 unit. Win rate = win units / total units, push excluded.
 
 ## Details
 

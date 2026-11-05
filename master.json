@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_update": "2026-11-05 19:55:06",
+    "last_update": "2026-11-05 19:57:01",
     "default_stake": null,
     "total_bets": 65,
     "total_settled": 61,
@@ -13,7 +13,10 @@
     "win_rate": 50.0,
     "orphan_results": 0,
     "win_half": 2,
-    "lose_half": 8
+    "lose_half": 8,
+    "win_units": 26.0,
+    "lose_units": 26.0,
+    "total_units": 52.0
   },
   "matches": {
     "意甲|弗洛西诺内|都灵|home": {
