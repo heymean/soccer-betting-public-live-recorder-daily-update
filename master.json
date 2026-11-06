@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-07 02:25:05",
+    "last_update": "2026-11-07 02:35:05",
     "default_stake": null,
-    "total_bets": 67,
+    "total_bets": 68,
     "total_settled": 63,
     "total_stake": 6300.0,
     "total_profit": -390.0,
@@ -1921,6 +1921,25 @@
         "stake": 100.0,
         "profit": -50.0
       }
+    },
+    "罗甲|阿格斯|布加勒斯特迪纳摩|btts": {
+      "match_key": "罗甲|阿格斯|布加勒斯特迪纳摩|btts",
+      "match_date": "2026-11-07",
+      "league": "罗甲",
+      "home": "阿格斯",
+      "away": "布加勒斯特迪纳摩",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.85,
+      "kickoff_time": "2026-11-07 02:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_ED38D5A09339F1E438ECC55F2F8F61FDF906@qq.com>",
+        "recv_time": "2026-11-07 02:32:04",
+        "raw_line": "罗甲 | 阿格斯 vs 布加勒斯特迪纳摩 | 赔率 1.85 | 全场 · 双方进球（BTTS）"
+      },
+      "result": null
     }
   },
   "result_emails": [
