@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "count": 4,
+  "count": 5,
   "signals": [
     {
       "match_key": "罗甲|阿格斯|布加勒斯特迪纳摩|btts",
@@ -61,6 +61,21 @@
       "bet_msg_id": "<tencent_983C26F539E34383F4E63693C8B0207F0708@qq.com>",
       "bet_recv_time": "2026-11-07 04:02:00",
       "raw_line": "西甲 | 塞维利亚 vs 阿拉维斯 | 赔率 1.78 | 上半场 · 客队 | 盘口 -0.25"
+    },
+    {
+      "match_key": "巴甲|维多利亚|弗鲁米嫩塞|btts",
+      "league": "巴甲",
+      "home": "维多利亚",
+      "away": "弗鲁米嫩塞",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.89,
+      "kickoff_estimated": "2026-11-07 07:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_6A543DC7B8D3A0BA79F66431ECCA9F114F06@qq.com>",
+      "bet_recv_time": "2026-11-07 07:01:45",
+      "raw_line": "巴甲 | 维多利亚 vs 弗鲁米嫩塞 | 赔率 1.89 | 全场 · 双方进球（BTTS）"
     }
   ]
 }
