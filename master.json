@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-07 03:55:05",
+    "last_update": "2026-11-07 04:05:05",
     "default_stake": null,
-    "total_bets": 70,
+    "total_bets": 71,
     "total_settled": 63,
     "total_stake": 6300.0,
     "total_profit": -390.0,
@@ -1976,6 +1976,25 @@
         "msg_id": "<tencent_50034E6EC196FD15F310D4838FA30CC2980A@qq.com>",
         "recv_time": "2026-11-07 03:46:55",
         "raw_line": "意甲 | 威尼斯 vs 乌迪内斯 | 赔率 2.04 | 上半场 · 客队 | 盘口 0"
+      },
+      "result": null
+    },
+    "西甲|塞维利亚|阿拉维斯|away": {
+      "match_key": "西甲|塞维利亚|阿拉维斯|away",
+      "match_date": "2026-11-07",
+      "league": "西甲",
+      "home": "塞维利亚",
+      "away": "阿拉维斯",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 1.78,
+      "kickoff_time": "2026-11-07 04:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_983C26F539E34383F4E63693C8B0207F0708@qq.com>",
+        "recv_time": "2026-11-07 04:02:00",
+        "raw_line": "西甲 | 塞维利亚 vs 阿拉维斯 | 赔率 1.78 | 上半场 · 客队 | 盘口 -0.25"
       },
       "result": null
     }
