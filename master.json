@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-06 08:25:06",
+    "last_update": "2026-11-06 08:35:06",
     "default_stake": null,
-    "total_bets": 66,
+    "total_bets": 67,
     "total_settled": 61,
     "total_stake": 6100.0,
     "total_profit": -290.0,
@@ -1880,6 +1880,25 @@
         "msg_id": "<tencent_D30C16ED6F9AA7A7DE603C6BB0C9BC6A9205@qq.com>",
         "recv_time": "2026-11-06 06:31:49",
         "raw_line": "巴甲 | 帕尔梅拉斯 vs 里莫 | 赔率 1.96 | 上半场 · 客队 | 盘口 -0.75"
+      },
+      "result": null
+    },
+    "巴甲|克鲁塞罗|巴伊亚|home": {
+      "match_key": "巴甲|克鲁塞罗|巴伊亚|home",
+      "match_date": "2026-11-06",
+      "league": "巴甲",
+      "home": "克鲁塞罗",
+      "away": "巴伊亚",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.87,
+      "kickoff_time": "2026-11-06 08:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_912B4DC6C366FD4DF3ACD4678F670FB29A0A@qq.com>",
+        "recv_time": "2026-11-06 08:31:51",
+        "raw_line": "巴甲 | 克鲁塞罗 vs 巴伊亚 | 赔率 1.87 | 上半场 · 主队 | 盘口 -0.25"
       },
       "result": null
     }
