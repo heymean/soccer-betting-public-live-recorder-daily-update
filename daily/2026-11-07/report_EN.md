@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **1** | Settled: **0**
+- Bets: **3** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -16,6 +16,8 @@
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-07 02:30 | 罗甲 | 阿格斯 vs 布加勒斯特迪纳摩 | 全场·双方进球 0 | 1.85 | - | - | Not settled | - |
+| 2026-11-07 03:45 | 法甲 | 图卢兹 vs 斯特拉斯堡 | 上半场·客队 -0.25 | 1.68 | - | - | Not settled | - |
+| 2026-11-07 03:45 | 意甲 | 威尼斯 vs 乌迪内斯 | 上半场·客队 0 | 2.04 | - | - | Not settled | - |
 
 ---
 

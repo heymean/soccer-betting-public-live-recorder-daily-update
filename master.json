@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-07 03:45:05",
+    "last_update": "2026-11-07 03:55:05",
     "default_stake": null,
-    "total_bets": 68,
+    "total_bets": 70,
     "total_settled": 63,
     "total_stake": 6300.0,
     "total_profit": -390.0,
@@ -1938,6 +1938,44 @@
         "msg_id": "<tencent_ED38D5A09339F1E438ECC55F2F8F61FDF906@qq.com>",
         "recv_time": "2026-11-07 02:32:04",
         "raw_line": "罗甲 | 阿格斯 vs 布加勒斯特迪纳摩 | 赔率 1.85 | 全场 · 双方进球（BTTS）"
+      },
+      "result": null
+    },
+    "法甲|图卢兹|斯特拉斯堡|away": {
+      "match_key": "法甲|图卢兹|斯特拉斯堡|away",
+      "match_date": "2026-11-07",
+      "league": "法甲",
+      "home": "图卢兹",
+      "away": "斯特拉斯堡",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 1.68,
+      "kickoff_time": "2026-11-07 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_50034E6EC196FD15F310D4838FA30CC2980A@qq.com>",
+        "recv_time": "2026-11-07 03:46:55",
+        "raw_line": "法甲 | 图卢兹 vs 斯特拉斯堡 | 赔率 1.68 | 上半场 · 客队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "意甲|威尼斯|乌迪内斯|away": {
+      "match_key": "意甲|威尼斯|乌迪内斯|away",
+      "match_date": "2026-11-07",
+      "league": "意甲",
+      "home": "威尼斯",
+      "away": "乌迪内斯",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.0,
+      "odds": 2.04,
+      "kickoff_time": "2026-11-07 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_50034E6EC196FD15F310D4838FA30CC2980A@qq.com>",
+        "recv_time": "2026-11-07 03:46:55",
+        "raw_line": "意甲 | 威尼斯 vs 乌迪内斯 | 赔率 2.04 | 上半场 · 客队 | 盘口 0"
       },
       "result": null
     }
