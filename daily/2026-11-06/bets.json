@@ -12,7 +12,7 @@
       "handicap_main": -0.75,
       "odds": 1.96,
       "kickoff_estimated": "2026-11-06 06:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_D30C16ED6F9AA7A7DE603C6BB0C9BC6A9205@qq.com>",
       "bet_recv_time": "2026-11-06 06:31:49",
       "raw_line": "巴甲 | 帕尔梅拉斯 vs 里莫 | 赔率 1.96 | 上半场 · 客队 | 盘口 -0.75"
@@ -27,7 +27,7 @@
       "handicap_main": -0.25,
       "odds": 1.87,
       "kickoff_estimated": "2026-11-06 08:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_912B4DC6C366FD4DF3ACD4678F670FB29A0A@qq.com>",
       "bet_recv_time": "2026-11-06 08:31:51",
       "raw_line": "巴甲 | 克鲁塞罗 vs 巴伊亚 | 赔率 1.87 | 上半场 · 主队 | 盘口 -0.25"

@@ -1,5 +1,46 @@
 {
   "date": "2026-11-06",
-  "count": 0,
-  "results": []
+  "count": 2,
+  "results": [
+    {
+      "match_key": "巴甲|帕尔梅拉斯|里莫|away",
+      "kickoff": "2026-11-06 06:30:00",
+      "league": "巴甲",
+      "home": "帕尔梅拉斯",
+      "away": "里莫",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.75,
+      "odds": 1.96,
+      "ht_score": "3-2",
+      "ft_score": "6-1",
+      "settle": "half_lose",
+      "settle_cn": "🟡输半",
+      "stake": 100.0,
+      "profit": -50.0,
+      "result_msg_id": "<tencent_EB1E6B9C6DD0D7FC69B216B6E96F8787BA05@qq.com>",
+      "result_recv_time": "2026-11-06 11:00:01",
+      "raw_line": "2026-11-06 06:30:00 | 巴甲 | 帕尔梅拉斯 vs 里莫 | 客 | 赔率 1.96 | 半 3-2 全 6-1 | 🟡输半 | -50.00"
+    },
+    {
+      "match_key": "巴甲|克鲁塞罗|巴伊亚|home",
+      "kickoff": "2026-11-06 08:30:00",
+      "league": "巴甲",
+      "home": "克鲁塞罗",
+      "away": "巴伊亚",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.87,
+      "ht_score": "1-1",
+      "ft_score": "3-2",
+      "settle": "half_lose",
+      "settle_cn": "🟡输半",
+      "stake": 100.0,
+      "profit": -50.0,
+      "result_msg_id": "<tencent_EB1E6B9C6DD0D7FC69B216B6E96F8787BA05@qq.com>",
+      "result_recv_time": "2026-11-06 11:00:01",
+      "raw_line": "2026-11-06 08:30:00 | 巴甲 | 克鲁塞罗 vs 巴伊亚 | 主 | 赔率 1.87 | 半 1-1 全 3-2 | 🟡输半 | -50.00"
+    }
+  ]
 }

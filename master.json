@@ -1,22 +1,22 @@
 {
   "meta": {
-    "last_update": "2026-11-06 10:55:06",
+    "last_update": "2026-11-06 11:05:06",
     "default_stake": null,
     "total_bets": 67,
-    "total_settled": 61,
-    "total_stake": 6100.0,
-    "total_profit": -290.0,
-    "roi": -4.75,
+    "total_settled": 63,
+    "total_stake": 6300.0,
+    "total_profit": -390.0,
+    "roi": -6.19,
     "win": 25,
     "lose": 22,
     "push": 4,
-    "win_rate": 50.0,
+    "win_rate": 49.1,
     "orphan_results": 0,
     "win_half": 2,
-    "lose_half": 8,
+    "lose_half": 10,
     "win_units": 26.0,
-    "lose_units": 26.0,
-    "total_units": 52.0
+    "lose_units": 27.0,
+    "total_units": 53.0
   },
   "matches": {
     "意甲|弗洛西诺内|都灵|home": {
@@ -1875,13 +1875,23 @@
       "handicap_main": -0.75,
       "odds": 1.96,
       "kickoff_time": "2026-11-06 06:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_D30C16ED6F9AA7A7DE603C6BB0C9BC6A9205@qq.com>",
         "recv_time": "2026-11-06 06:31:49",
         "raw_line": "巴甲 | 帕尔梅拉斯 vs 里莫 | 赔率 1.96 | 上半场 · 客队 | 盘口 -0.75"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_EB1E6B9C6DD0D7FC69B216B6E96F8787BA05@qq.com>",
+        "recv_time": "2026-11-06 11:00:01",
+        "raw_line": "2026-11-06 06:30:00 | 巴甲 | 帕尔梅拉斯 vs 里莫 | 客 | 赔率 1.96 | 半 3-2 全 6-1 | 🟡输半 | -50.00",
+        "ht_score": "3-2",
+        "ft_score": "6-1",
+        "settle": "half_lose",
+        "settle_cn": "🟡输半",
+        "stake": 100.0,
+        "profit": -50.0
+      }
     },
     "巴甲|克鲁塞罗|巴伊亚|home": {
       "match_key": "巴甲|克鲁塞罗|巴伊亚|home",
@@ -1894,13 +1904,23 @@
       "handicap_main": -0.25,
       "odds": 1.87,
       "kickoff_time": "2026-11-06 08:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_912B4DC6C366FD4DF3ACD4678F670FB29A0A@qq.com>",
         "recv_time": "2026-11-06 08:31:51",
         "raw_line": "巴甲 | 克鲁塞罗 vs 巴伊亚 | 赔率 1.87 | 上半场 · 主队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_EB1E6B9C6DD0D7FC69B216B6E96F8787BA05@qq.com>",
+        "recv_time": "2026-11-06 11:00:01",
+        "raw_line": "2026-11-06 08:30:00 | 巴甲 | 克鲁塞罗 vs 巴伊亚 | 主 | 赔率 1.87 | 半 1-1 全 3-2 | 🟡输半 | -50.00",
+        "ht_score": "1-1",
+        "ft_score": "3-2",
+        "settle": "half_lose",
+        "settle_cn": "🟡输半",
+        "stake": 100.0,
+        "profit": -50.0
+      }
     }
   },
   "result_emails": [
@@ -2010,6 +2030,15 @@
       "settle_time": "2026-11-05 19:52:07",
       "parsed_count": 14,
       "accepted_count": 14,
+      "dropped_orphans": 0
+    },
+    {
+      "msg_id": "<tencent_EB1E6B9C6DD0D7FC69B216B6E96F8787BA05@qq.com>",
+      "recv_time": "2026-11-06 11:00:01",
+      "period": "过去 24 小时",
+      "settle_time": "2026-11-06 11:00:01",
+      "parsed_count": 2,
+      "accepted_count": 2,
       "dropped_orphans": 0
     }
   ]
