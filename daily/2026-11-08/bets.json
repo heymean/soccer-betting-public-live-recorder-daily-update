@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "count": 5,
+  "count": 6,
   "signals": [
     {
       "match_key": "意甲|帕尔马|博洛尼亚|away",
@@ -76,6 +76,21 @@
       "bet_msg_id": "<tencent_E1CD2527AD6015FE0278BCEB3BC7D3069D09@qq.com>",
       "bet_recv_time": "2026-11-08 03:01:42",
       "raw_line": "法乙 | 圣埃蒂安 vs 拉瓦勒 | 赔率 1.87 | 全场 · 双方进球（BTTS）"
+    },
+    {
+      "match_key": "意甲|罗马|萨索洛|home",
+      "league": "意甲",
+      "home": "罗马",
+      "away": "萨索洛",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.75,
+      "odds": 1.95,
+      "kickoff_estimated": "2026-11-08 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_BB05C6370755CDE5272560F7FEC27982EA09@qq.com>",
+      "bet_recv_time": "2026-11-08 03:46:48",
+      "raw_line": "意甲 | 罗马 vs 萨索洛 | 赔率 1.95 | 上半场 · 主队 | 盘口 -0.75"
     }
   ]
 }
