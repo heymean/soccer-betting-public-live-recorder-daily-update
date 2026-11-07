@@ -6,24 +6,24 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-07 10:55:05**
+> Last update: **2026-11-07 11:05:06**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
 | Total bets | 72 |
-| Settled | 63 |
-| Win matches (win + half win) | 27 |
-| Lose matches (lose + half lose) | 32 |
-| Push matches | 4 |
-| Lose units | 27.0 |
-| Win units | 26.0 |
-| Total units (win + lose) | 53.0 |
-| Win rate (win units / total units) | 49.1% |
-| Total stake | 6300.00 |
-| Total P/L | -390.00 |
-| ROI | -6.19% |
+| Settled | 67 |
+| Win matches (win + half win) | 28 |
+| Lose matches (lose + half lose) | 34 |
+| Push matches | 5 |
+| Lose units | 29.0 |
+| Win units | 26.5 |
+| Total units (win + lose) | 55.5 |
+| Win rate (win units / total units) | 47.7% |
+| Total stake | 6700.00 |
+| Total P/L | -551.00 |
+| ROI | -8.22% |
 
 > Matches vs Units: win/lose = 1 unit, **half-win/half-lose = 0.5 unit**, push = 0 unit (stake refunded)
 
@@ -33,7 +33,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
-| 2026-11-07 | 5 | 0 | 0.0 / 0.0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-07/report_EN.md) · [中文](daily/2026-11-07/report.md) |
+| 2026-11-07 | 5 | 4 | 0.5 / 2.5 | 20.0% | -161.00 | -40.25% | [EN](daily/2026-11-07/report_EN.md) · [中文](daily/2026-11-07/report.md) |
 | 2026-11-06 | 2 | 2 | 0.0 / 1.0 | 0.0% | -100.00 | -50.00% | [EN](daily/2026-11-06/report_EN.md) · [中文](daily/2026-11-06/report.md) |
 | 2026-11-05 | 9 | 9 | 4.5 / 8.0 | 56.2% | +48.50 | +5.39% | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
 | 2026-11-04 | 14 | 14 | 6.0 / 13.0 | 46.2% | -163.00 | -11.64% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
@@ -49,10 +49,10 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
-| 2026-11-07 07:00 | 巴甲 | 维多利亚 vs 弗鲁米嫩塞 | 全场·双方进球 0 | 1.89 | - | - | Not settled | - |
-| 2026-11-07 04:00 | 西甲 | 塞维利亚 vs 阿拉维斯 | 上半场·客队 -0.25 | 1.78 | - | - | Not settled | - |
-| 2026-11-07 03:45 | 法甲 | 图卢兹 vs 斯特拉斯堡 | 上半场·客队 -0.25 | 1.68 | - | - | Not settled | - |
-| 2026-11-07 03:45 | 意甲 | 威尼斯 vs 乌迪内斯 | 上半场·客队 0 | 2.04 | - | - | Not settled | - |
+| 2026-11-07 07:00 | 巴甲 | 维多利亚 vs 弗鲁米嫩塞 | 全场·双方进球 0 | 1.89 | 0-2 | 0-3 | ❌ Lose | -100.00 |
+| 2026-11-07 04:00 | 西甲 | 塞维利亚 vs 阿拉维斯 | 上半场·客队 -0.25 | 1.78 | 0-0 | 0-0 | 🟢 Half Win | +39.00 |
+| 2026-11-07 03:45 | 法甲 | 图卢兹 vs 斯特拉斯堡 | 上半场·客队 -0.25 | 1.68 | 1-0 | 3-1 | ❌ Lose | -100.00 |
+| 2026-11-07 03:45 | 意甲 | 威尼斯 vs 乌迪内斯 | 上半场·客队 0 | 2.04 | 0-0 | 2-1 | ⚪ Push | +0.00 |
 | 2026-11-07 02:30 | 罗甲 | 阿格斯 vs 布加勒斯特迪纳摩 | 全场·双方进球 0 | 1.85 | - | - | Not settled | - |
 | 2026-11-06 08:30 | 巴甲 | 克鲁塞罗 vs 巴伊亚 | 上半场·主队 -0.25 | 1.87 | 1-1 | 3-2 | 🟡 Half Lose | -50.00 |
 | 2026-11-06 06:30 | 巴甲 | 帕尔梅拉斯 vs 里莫 | 上半场·客队 -0.75 | 1.96 | 3-2 | 6-1 | 🟡 Half Lose | -50.00 |
@@ -84,7 +84,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-07 | 5 | 0 | +0.00 | [EN](daily/2026-11-07/report_EN.md) · [中文](daily/2026-11-07/report.md) |
+| 2026-11-07 | 5 | 4 | -161.00 | [EN](daily/2026-11-07/report_EN.md) · [中文](daily/2026-11-07/report.md) |
 | 2026-11-06 | 2 | 2 | -100.00 | [EN](daily/2026-11-06/report_EN.md) · [中文](daily/2026-11-06/report.md) |
 | 2026-11-05 | 9 | 9 | +48.50 | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
 | 2026-11-04 | 14 | 14 | -163.00 | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |

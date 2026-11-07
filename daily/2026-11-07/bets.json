@@ -27,7 +27,7 @@
       "handicap_main": -0.25,
       "odds": 1.68,
       "kickoff_estimated": "2026-11-07 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_50034E6EC196FD15F310D4838FA30CC2980A@qq.com>",
       "bet_recv_time": "2026-11-07 03:46:55",
       "raw_line": "法甲 | 图卢兹 vs 斯特拉斯堡 | 赔率 1.68 | 上半场 · 客队 | 盘口 -0.25"
@@ -42,7 +42,7 @@
       "handicap_main": 0.0,
       "odds": 2.04,
       "kickoff_estimated": "2026-11-07 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_50034E6EC196FD15F310D4838FA30CC2980A@qq.com>",
       "bet_recv_time": "2026-11-07 03:46:55",
       "raw_line": "意甲 | 威尼斯 vs 乌迪内斯 | 赔率 2.04 | 上半场 · 客队 | 盘口 0"
@@ -57,7 +57,7 @@
       "handicap_main": -0.25,
       "odds": 1.78,
       "kickoff_estimated": "2026-11-07 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_983C26F539E34383F4E63693C8B0207F0708@qq.com>",
       "bet_recv_time": "2026-11-07 04:02:00",
       "raw_line": "西甲 | 塞维利亚 vs 阿拉维斯 | 赔率 1.78 | 上半场 · 客队 | 盘口 -0.25"
@@ -72,7 +72,7 @@
       "handicap_main": 0.0,
       "odds": 1.89,
       "kickoff_estimated": "2026-11-07 07:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_6A543DC7B8D3A0BA79F66431ECCA9F114F06@qq.com>",
       "bet_recv_time": "2026-11-07 07:01:45",
       "raw_line": "巴甲 | 维多利亚 vs 弗鲁米嫩塞 | 赔率 1.89 | 全场 · 双方进球（BTTS）"

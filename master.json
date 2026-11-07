@@ -1,22 +1,22 @@
 {
   "meta": {
-    "last_update": "2026-11-07 10:55:05",
+    "last_update": "2026-11-07 11:05:06",
     "default_stake": null,
     "total_bets": 72,
-    "total_settled": 63,
-    "total_stake": 6300.0,
-    "total_profit": -390.0,
-    "roi": -6.19,
+    "total_settled": 67,
+    "total_stake": 6700.0,
+    "total_profit": -551.0,
+    "roi": -8.22,
     "win": 25,
-    "lose": 22,
-    "push": 4,
-    "win_rate": 49.1,
+    "lose": 24,
+    "push": 5,
+    "win_rate": 47.7,
     "orphan_results": 0,
-    "win_half": 2,
+    "win_half": 3,
     "lose_half": 10,
-    "win_units": 26.0,
-    "lose_units": 27.0,
-    "total_units": 53.0
+    "win_units": 26.5,
+    "lose_units": 29.0,
+    "total_units": 55.5
   },
   "matches": {
     "意甲|弗洛西诺内|都灵|home": {
@@ -1952,13 +1952,23 @@
       "handicap_main": -0.25,
       "odds": 1.68,
       "kickoff_time": "2026-11-07 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_50034E6EC196FD15F310D4838FA30CC2980A@qq.com>",
         "recv_time": "2026-11-07 03:46:55",
         "raw_line": "法甲 | 图卢兹 vs 斯特拉斯堡 | 赔率 1.68 | 上半场 · 客队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_9F9DCDA7261F61E1FF0C7992EA33C6E30709@qq.com>",
+        "recv_time": "2026-11-07 11:00:09",
+        "raw_line": "2026-11-07 03:45:00 | 法甲 | 图卢兹 vs 斯特拉斯堡 | 客 | 赔率 1.68 | 半 1-0 全 3-1 | ❌输 | -100.00",
+        "ht_score": "1-0",
+        "ft_score": "3-1",
+        "settle": "lose",
+        "settle_cn": "❌输",
+        "stake": 100.0,
+        "profit": -100.0
+      }
     },
     "意甲|威尼斯|乌迪内斯|away": {
       "match_key": "意甲|威尼斯|乌迪内斯|away",
@@ -1971,13 +1981,23 @@
       "handicap_main": 0.0,
       "odds": 2.04,
       "kickoff_time": "2026-11-07 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_50034E6EC196FD15F310D4838FA30CC2980A@qq.com>",
         "recv_time": "2026-11-07 03:46:55",
         "raw_line": "意甲 | 威尼斯 vs 乌迪内斯 | 赔率 2.04 | 上半场 · 客队 | 盘口 0"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_9F9DCDA7261F61E1FF0C7992EA33C6E30709@qq.com>",
+        "recv_time": "2026-11-07 11:00:09",
+        "raw_line": "2026-11-07 03:45:00 | 意甲 | 威尼斯 vs 乌迪内斯 | 客 | 赔率 2.04 | 半 0-0 全 2-1 | ⚪走水 | +0.00",
+        "ht_score": "0-0",
+        "ft_score": "2-1",
+        "settle": "push",
+        "settle_cn": "⚪走水",
+        "stake": 100.0,
+        "profit": 0.0
+      }
     },
     "西甲|塞维利亚|阿拉维斯|away": {
       "match_key": "西甲|塞维利亚|阿拉维斯|away",
@@ -1990,13 +2010,23 @@
       "handicap_main": -0.25,
       "odds": 1.78,
       "kickoff_time": "2026-11-07 04:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_983C26F539E34383F4E63693C8B0207F0708@qq.com>",
         "recv_time": "2026-11-07 04:02:00",
         "raw_line": "西甲 | 塞维利亚 vs 阿拉维斯 | 赔率 1.78 | 上半场 · 客队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_9F9DCDA7261F61E1FF0C7992EA33C6E30709@qq.com>",
+        "recv_time": "2026-11-07 11:00:09",
+        "raw_line": "2026-11-07 04:00:00 | 西甲 | 塞维利亚 vs 阿拉维斯 | 客 | 赔率 1.78 | 半 0-0 全 0-0 | 🟢赢半 | +39.00",
+        "ht_score": "0-0",
+        "ft_score": "0-0",
+        "settle": "half_win",
+        "settle_cn": "🟢赢半",
+        "stake": 100.0,
+        "profit": 39.0
+      }
     },
     "巴甲|维多利亚|弗鲁米嫩塞|btts": {
       "match_key": "巴甲|维多利亚|弗鲁米嫩塞|btts",
@@ -2009,13 +2039,23 @@
       "handicap_main": 0.0,
       "odds": 1.89,
       "kickoff_time": "2026-11-07 07:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_6A543DC7B8D3A0BA79F66431ECCA9F114F06@qq.com>",
         "recv_time": "2026-11-07 07:01:45",
         "raw_line": "巴甲 | 维多利亚 vs 弗鲁米嫩塞 | 赔率 1.89 | 全场 · 双方进球（BTTS）"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_9F9DCDA7261F61E1FF0C7992EA33C6E30709@qq.com>",
+        "recv_time": "2026-11-07 11:00:09",
+        "raw_line": "2026-11-07 07:00:00 | 巴甲 | 维多利亚 vs 弗鲁米嫩塞 | BTTS | 赔率 1.89 | 半 0-2 全 0-3 | ❌输 | -100.00",
+        "ht_score": "0-2",
+        "ft_score": "0-3",
+        "settle": "lose",
+        "settle_cn": "❌输",
+        "stake": 100.0,
+        "profit": -100.0
+      }
     }
   },
   "result_emails": [
@@ -2134,6 +2174,15 @@
       "settle_time": "2026-11-06 11:00:01",
       "parsed_count": 2,
       "accepted_count": 2,
+      "dropped_orphans": 0
+    },
+    {
+      "msg_id": "<tencent_9F9DCDA7261F61E1FF0C7992EA33C6E30709@qq.com>",
+      "recv_time": "2026-11-07 11:00:09",
+      "period": "过去 24 小时",
+      "settle_time": "2026-11-07 11:00:10",
+      "parsed_count": 4,
+      "accepted_count": 4,
       "dropped_orphans": 0
     }
   ]
