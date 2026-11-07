@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-07 21:55:05",
+    "last_update": "2026-11-07 22:05:06",
     "default_stake": null,
-    "total_bets": 72,
+    "total_bets": 73,
     "total_settled": 67,
     "total_stake": 6700.0,
     "total_profit": -551.0,
@@ -2056,6 +2056,25 @@
         "stake": 100.0,
         "profit": -100.0
       }
+    },
+    "意甲|都灵|莱切|home": {
+      "match_key": "意甲|都灵|莱切|home",
+      "match_date": "2026-11-07",
+      "league": "意甲",
+      "home": "都灵",
+      "away": "莱切",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.88,
+      "kickoff_time": "2026-11-07 22:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_700093C1B0907F253C07F5D3E36E832EE608@qq.com>",
+        "recv_time": "2026-11-07 22:01:49",
+        "raw_line": "意甲 | 都灵 vs 莱切 | 赔率 1.88 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
     }
   },
   "result_emails": [

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "count": 5,
+  "count": 6,
   "signals": [
     {
       "match_key": "罗甲|阿格斯|布加勒斯特迪纳摩|btts",
@@ -76,6 +76,21 @@
       "bet_msg_id": "<tencent_6A543DC7B8D3A0BA79F66431ECCA9F114F06@qq.com>",
       "bet_recv_time": "2026-11-07 07:01:45",
       "raw_line": "巴甲 | 维多利亚 vs 弗鲁米嫩塞 | 赔率 1.89 | 全场 · 双方进球（BTTS）"
+    },
+    {
+      "match_key": "意甲|都灵|莱切|home",
+      "league": "意甲",
+      "home": "都灵",
+      "away": "莱切",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.88,
+      "kickoff_estimated": "2026-11-07 22:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_700093C1B0907F253C07F5D3E36E832EE608@qq.com>",
+      "bet_recv_time": "2026-11-07 22:01:49",
+      "raw_line": "意甲 | 都灵 vs 莱切 | 赔率 1.88 | 上半场 · 主队 | 盘口 -0.25"
     }
   ]
 }
