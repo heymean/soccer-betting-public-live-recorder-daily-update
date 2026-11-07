@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "count": 8,
+  "count": 9,
   "signals": [
     {
       "match_key": "意甲|帕尔马|博洛尼亚|away",
@@ -121,6 +121,21 @@
       "bet_msg_id": "<tencent_E417ACC11F398F78FDC938D7A0BF79D4A406@qq.com>",
       "bet_recv_time": "2026-11-08 04:01:58",
       "raw_line": "西甲 | 巴伦西亚 vs 皇家马德里 | 赔率 1.78 | 上半场 · 客队 | 盘口 +0.75"
+    },
+    {
+      "match_key": "法甲|巴黎圣日尔曼|特鲁瓦|home",
+      "league": "法甲",
+      "home": "巴黎圣日尔曼",
+      "away": "特鲁瓦",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -1.5,
+      "odds": 2.55,
+      "kickoff_estimated": "2026-11-08 04:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_551AFC95F234D5278CF70D9699274CF2C20A@qq.com>",
+      "bet_recv_time": "2026-11-08 04:06:52",
+      "raw_line": "法甲 | 巴黎圣日尔曼 vs 特鲁瓦 | 赔率 2.55 | 上半场 · 主队 | 盘口 -1.5"
     }
   ]
 }
