@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "count": 1,
+  "count": 3,
   "signals": [
     {
       "match_key": "意甲|帕尔马|博洛尼亚|away",
@@ -16,6 +16,36 @@
       "bet_msg_id": "<tencent_8073A8C90658F93F111EE4FAD071BEC10207@qq.com>",
       "bet_recv_time": "2026-11-08 01:01:57",
       "raw_line": "意甲 | 帕尔马 vs 博洛尼亚 | 赔率 1.84 | 上半场 · 客队 | 盘口 +0.25"
+    },
+    {
+      "match_key": "英超|诺丁汉森林|曼彻斯特城|away",
+      "league": "英超",
+      "home": "诺丁汉森林",
+      "away": "曼彻斯特城",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 1.78,
+      "kickoff_estimated": "2026-11-08 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_4C0F8DB30EAE9BC34C22C112FC0DF114D40A@qq.com>",
+      "bet_recv_time": "2026-11-08 01:32:52",
+      "raw_line": "英超 | 诺丁汉森林 vs 曼彻斯特城 | 赔率 1.78 | 上半场 · 客队 | 盘口 +0.25"
+    },
+    {
+      "match_key": "德甲|斯图加特|云达不来梅|home",
+      "league": "德甲",
+      "home": "斯图加特",
+      "away": "云达不来梅",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.89,
+      "kickoff_estimated": "2026-11-08 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_4C0F8DB30EAE9BC34C22C112FC0DF114D40A@qq.com>",
+      "bet_recv_time": "2026-11-08 01:32:52",
+      "raw_line": "德甲 | 斯图加特 vs 云达不来梅 | 赔率 1.89 | 上半场 · 主队 | 盘口 -0.25"
     }
   ]
 }
