@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-08",
+  "count": 1,
+  "signals": [
+    {
+      "match_key": "意甲|帕尔马|博洛尼亚|away",
+      "league": "意甲",
+      "home": "帕尔马",
+      "away": "博洛尼亚",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 1.84,
+      "kickoff_estimated": "2026-11-08 01:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_8073A8C90658F93F111EE4FAD071BEC10207@qq.com>",
+      "bet_recv_time": "2026-11-08 01:01:57",
+      "raw_line": "意甲 | 帕尔马 vs 博洛尼亚 | 赔率 1.84 | 上半场 · 客队 | 盘口 +0.25"
+    }
+  ]
+}

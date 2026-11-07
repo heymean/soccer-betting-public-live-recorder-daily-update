@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-08 00:55:05",
+    "last_update": "2026-11-08 01:05:05",
     "default_stake": null,
-    "total_bets": 81,
+    "total_bets": 82,
     "total_settled": 67,
     "total_stake": 6700.0,
     "total_profit": -551.0,
@@ -2225,6 +2225,25 @@
         "msg_id": "<tencent_98781EEA53C77D06E3CC1B26B16163FF1009@qq.com>",
         "recv_time": "2026-11-07 23:02:47",
         "raw_line": "英超 | 富勒姆 vs 纽卡斯尔联 | 赔率 2.02 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "意甲|帕尔马|博洛尼亚|away": {
+      "match_key": "意甲|帕尔马|博洛尼亚|away",
+      "match_date": "2026-11-08",
+      "league": "意甲",
+      "home": "帕尔马",
+      "away": "博洛尼亚",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 1.84,
+      "kickoff_time": "2026-11-08 01:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_8073A8C90658F93F111EE4FAD071BEC10207@qq.com>",
+        "recv_time": "2026-11-08 01:01:57",
+        "raw_line": "意甲 | 帕尔马 vs 博洛尼亚 | 赔率 1.84 | 上半场 · 客队 | 盘口 +0.25"
       },
       "result": null
     }
