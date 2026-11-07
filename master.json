@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-08 03:55:05",
+    "last_update": "2026-11-08 04:05:05",
     "default_stake": null,
-    "total_bets": 87,
+    "total_bets": 89,
     "total_settled": 67,
     "total_stake": 6700.0,
     "total_profit": -551.0,
@@ -2339,6 +2339,44 @@
         "msg_id": "<tencent_BB05C6370755CDE5272560F7FEC27982EA09@qq.com>",
         "recv_time": "2026-11-08 03:46:48",
         "raw_line": "意甲 | 罗马 vs 萨索洛 | 赔率 1.95 | 上半场 · 主队 | 盘口 -0.75"
+      },
+      "result": null
+    },
+    "苏超|圣米伦|格拉斯哥流浪者|btts": {
+      "match_key": "苏超|圣米伦|格拉斯哥流浪者|btts",
+      "match_date": "2026-11-08",
+      "league": "苏超",
+      "home": "圣米伦",
+      "away": "格拉斯哥流浪者",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.8,
+      "kickoff_time": "2026-11-08 04:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_E417ACC11F398F78FDC938D7A0BF79D4A406@qq.com>",
+        "recv_time": "2026-11-08 04:01:58",
+        "raw_line": "苏超 | 圣米伦 vs 格拉斯哥流浪者 | 赔率 1.80 | 全场 · 双方进球（BTTS）"
+      },
+      "result": null
+    },
+    "西甲|巴伦西亚|皇家马德里|away": {
+      "match_key": "西甲|巴伦西亚|皇家马德里|away",
+      "match_date": "2026-11-08",
+      "league": "西甲",
+      "home": "巴伦西亚",
+      "away": "皇家马德里",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.75,
+      "odds": 1.78,
+      "kickoff_time": "2026-11-08 04:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_E417ACC11F398F78FDC938D7A0BF79D4A406@qq.com>",
+        "recv_time": "2026-11-08 04:01:58",
+        "raw_line": "西甲 | 巴伦西亚 vs 皇家马德里 | 赔率 1.78 | 上半场 · 客队 | 盘口 +0.75"
       },
       "result": null
     }

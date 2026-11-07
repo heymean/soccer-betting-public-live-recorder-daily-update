@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **6** | Settled: **0**
+- Bets: **8** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -21,6 +21,8 @@
 | 2026-11-08 02:00 | 法甲 | 欧塞尔 vs 巴黎FC | 上半场·客队 +0.50 | 2.13 | - | - | Not settled | - |
 | 2026-11-08 03:00 | 法乙 | 圣埃蒂安 vs 拉瓦勒 | 全场·双方进球 0 | 1.87 | - | - | Not settled | - |
 | 2026-11-08 03:45 | 意甲 | 罗马 vs 萨索洛 | 上半场·主队 -0.75 | 1.95 | - | - | Not settled | - |
+| 2026-11-08 04:00 | 苏超 | 圣米伦 vs 格拉斯哥流浪者 | 全场·双方进球 0 | 1.80 | - | - | Not settled | - |
+| 2026-11-08 04:00 | 西甲 | 巴伦西亚 vs 皇家马德里 | 上半场·客队 +0.75 | 1.78 | - | - | Not settled | - |
 
 ---
 
