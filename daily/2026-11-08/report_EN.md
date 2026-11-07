@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **4** | Settled: **0**
+- Bets: **5** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -19,6 +19,7 @@
 | 2026-11-08 01:30 | 英超 | 诺丁汉森林 vs 曼彻斯特城 | 上半场·客队 +0.25 | 1.78 | - | - | Not settled | - |
 | 2026-11-08 01:30 | 德甲 | 斯图加特 vs 云达不来梅 | 上半场·主队 -0.25 | 1.89 | - | - | Not settled | - |
 | 2026-11-08 02:00 | 法甲 | 欧塞尔 vs 巴黎FC | 上半场·客队 +0.50 | 2.13 | - | - | Not settled | - |
+| 2026-11-08 03:00 | 法乙 | 圣埃蒂安 vs 拉瓦勒 | 全场·双方进球 0 | 1.87 | - | - | Not settled | - |
 
 ---
 

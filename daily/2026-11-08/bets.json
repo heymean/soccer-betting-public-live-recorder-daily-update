@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "count": 4,
+  "count": 5,
   "signals": [
     {
       "match_key": "意甲|帕尔马|博洛尼亚|away",
@@ -61,6 +61,21 @@
       "bet_msg_id": "<tencent_8A50EA8DC71B07E7CC7527C961FDFE0A7809@qq.com>",
       "bet_recv_time": "2026-11-08 02:02:00",
       "raw_line": "法甲 | 欧塞尔 vs 巴黎FC | 赔率 2.13 | 上半场 · 客队 | 盘口 +0.5"
+    },
+    {
+      "match_key": "法乙|圣埃蒂安|拉瓦勒|btts",
+      "league": "法乙",
+      "home": "圣埃蒂安",
+      "away": "拉瓦勒",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.87,
+      "kickoff_estimated": "2026-11-08 03:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_E1CD2527AD6015FE0278BCEB3BC7D3069D09@qq.com>",
+      "bet_recv_time": "2026-11-08 03:01:42",
+      "raw_line": "法乙 | 圣埃蒂安 vs 拉瓦勒 | 赔率 1.87 | 全场 · 双方进球（BTTS）"
     }
   ]
 }
