@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **5** | Settled: **0**
+- Bets: **6** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -20,6 +20,7 @@
 | 2026-11-09 01:30 | 西甲 | 维戈塞尔塔 vs 莱万特 | 上半场·主队 -0.25 | 1.93 | - | - | Not settled | - |
 | 2026-11-09 01:30 | 西甲 | 比利亚雷亚尔 vs 赫塔费 | 全场·双方进球 0 | 1.79 | - | - | Not settled | - |
 | 2026-11-09 02:00 | 葡超 | 吉马良斯 vs 波尔图 | 上半场·客队 +0.50 | 2.02 | - | - | Not settled | - |
+| 2026-11-09 02:30 | 德甲 | 霍芬海姆 vs 沙尔克04 | 上半场·主队 -0.50 | 2.01 | - | - | Not settled | - |
 
 ---
 
