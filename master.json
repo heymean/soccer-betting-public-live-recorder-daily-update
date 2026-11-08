@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-08 22:55:09",
+    "last_update": "2026-11-08 23:05:09",
     "default_stake": null,
-    "total_bets": 97,
+    "total_bets": 99,
     "total_settled": 87,
     "total_stake": 8700.0,
     "total_profit": -1291.5,
@@ -2729,6 +2729,44 @@
         "msg_id": "<tencent_F9D47A9AF1F5C117F3CF496C58C83F0F9E07@qq.com>",
         "recv_time": "2026-11-09 00:16:48",
         "raw_line": "法甲 | 勒阿弗尔 vs 洛里昂 | 赔率 1.74 | 上半场 · 客队 | 盘口 0"
+      },
+      "result": null
+    },
+    "西甲|维戈塞尔塔|莱万特|home": {
+      "match_key": "西甲|维戈塞尔塔|莱万特|home",
+      "match_date": "2026-11-09",
+      "league": "西甲",
+      "home": "维戈塞尔塔",
+      "away": "莱万特",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.93,
+      "kickoff_time": "2026-11-09 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_731E2CD81F01CF41BDEA38F22084F9F8A406@qq.com>",
+        "recv_time": "2026-11-09 01:31:50",
+        "raw_line": "西甲 | 维戈塞尔塔 vs 莱万特 | 赔率 1.93 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "西甲|比利亚雷亚尔|赫塔费|btts": {
+      "match_key": "西甲|比利亚雷亚尔|赫塔费|btts",
+      "match_date": "2026-11-09",
+      "league": "西甲",
+      "home": "比利亚雷亚尔",
+      "away": "赫塔费",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.79,
+      "kickoff_time": "2026-11-09 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_731E2CD81F01CF41BDEA38F22084F9F8A406@qq.com>",
+        "recv_time": "2026-11-09 01:31:50",
+        "raw_line": "西甲 | 比利亚雷亚尔 vs 赫塔费 | 赔率 1.79 | 全场 · 双方进球（BTTS）"
       },
       "result": null
     }
