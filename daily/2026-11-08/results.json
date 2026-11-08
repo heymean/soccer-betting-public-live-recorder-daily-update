@@ -12,20 +12,14 @@
       "direction_cn": "上半场·客队",
       "handicap_main": 0.25,
       "odds": 1.84,
-      "ht_score": [
-        0,
-        0
-      ],
-      "ft_score": [
-        1,
-        2
-      ],
+      "ht_score": "0-0",
+      "ft_score": "1-2",
       "settle": "half_lose",
       "settle_cn": "🟡输半",
       "stake": 100.0,
       "profit": -50.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 01:00:00 | 意甲 | 帕尔马 vs 博洛尼亚 | 客 | 赔率 1.84 | 半 0-0 全 1-2 | 🟡输半 | -50.00"
     },
     {
@@ -38,20 +32,14 @@
       "direction_cn": "上半场·客队",
       "handicap_main": 0.25,
       "odds": 1.78,
-      "ht_score": [
-        2,
-        0
-      ],
-      "ft_score": [
-        3,
-        1
-      ],
+      "ht_score": "2-0",
+      "ft_score": "3-1",
       "settle": "lose",
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 01:30:00 | 英超 | 诺丁汉森林 vs 曼彻斯特城 | 客 | 赔率 1.78 | 半 2-0 全 3-1 | ❌输 | -100.00"
     },
     {
@@ -64,20 +52,14 @@
       "direction_cn": "上半场·主队",
       "handicap_main": -0.25,
       "odds": 1.89,
-      "ht_score": [
-        1,
-        0
-      ],
-      "ft_score": [
-        1,
-        0
-      ],
+      "ht_score": "1-0",
+      "ft_score": "1-0",
       "settle": "win",
       "settle_cn": "✅赢",
       "stake": 100.0,
       "profit": 89.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 01:30:00 | 德甲 | 斯图加特 vs 云达不来梅 | 主 | 赔率 1.89 | 半 1-0 全 1-0 | ✅赢 | +89.00"
     },
     {
@@ -90,20 +72,14 @@
       "direction_cn": "上半场·客队",
       "handicap_main": 0.5,
       "odds": 2.13,
-      "ht_score": [
-        0,
-        0
-      ],
-      "ft_score": [
-        0,
-        1
-      ],
+      "ht_score": "0-0",
+      "ft_score": "0-1",
       "settle": "lose",
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 02:00:00 | 法甲 | 欧塞尔 vs 巴黎FC | 客 | 赔率 2.13 | 半 0-0 全 0-1 | ❌输 | -100.00"
     },
     {
@@ -116,20 +92,14 @@
       "direction_cn": "全场·双方进球",
       "handicap_main": 0.0,
       "odds": 1.87,
-      "ht_score": [
-        1,
-        0
-      ],
-      "ft_score": [
-        2,
-        0
-      ],
+      "ht_score": "1-0",
+      "ft_score": "2-0",
       "settle": "lose",
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 03:00:00 | 法乙 | 圣埃蒂安 vs 拉瓦勒 | BTTS | 赔率 1.87 | 半 1-0 全 2-0 | ❌输 | -100.00"
     },
     {
@@ -142,21 +112,15 @@
       "direction_cn": "上半场·主队",
       "handicap_main": -0.75,
       "odds": 1.95,
-      "ht_score": [
-        2,
-        0
-      ],
-      "ft_score": [
-        3,
-        0
-      ],
-      "settle": "win",
-      "settle_cn": "✅赢",
+      "ht_score": "1-1",
+      "ft_score": "3-0",
+      "settle": "lose",
+      "settle_cn": "❌输",
       "stake": 100.0,
-      "profit": 95.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
-      "raw_line": "2026-11-08 03:45:00 | 意甲 | 罗马 vs 萨索洛 | 主 | 赔率 1.95 | 半 2-0 全 3-0 | ✅赢 | +95.00"
+      "profit": -100.0,
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
+      "raw_line": "2026-11-08 03:45:00 | 意甲 | 罗马 vs 萨索洛 | 主 | 赔率 1.95 | 半 1-1 全 3-0 | ❌输 | -100.00"
     },
     {
       "match_key": "苏超|圣米伦|格拉斯哥流浪者|btts",
@@ -168,20 +132,14 @@
       "direction_cn": "全场·双方进球",
       "handicap_main": 0.0,
       "odds": 1.8,
-      "ht_score": [
-        0,
-        1
-      ],
-      "ft_score": [
-        0,
-        2
-      ],
+      "ht_score": "0-1",
+      "ft_score": "0-2",
       "settle": "lose",
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 04:00:00 | 苏超 | 圣米伦 vs 格拉斯哥流浪者 | BTTS | 赔率 1.80 | 半 0-1 全 0-2 | ❌输 | -100.00"
     },
     {
@@ -194,20 +152,14 @@
       "direction_cn": "上半场·客队",
       "handicap_main": 0.75,
       "odds": 1.78,
-      "ht_score": [
-        0,
-        2
-      ],
-      "ft_score": [
-        0,
-        3
-      ],
+      "ht_score": "0-2",
+      "ft_score": "0-3",
       "settle": "win",
       "settle_cn": "✅赢",
       "stake": 100.0,
       "profit": 78.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 04:00:00 | 西甲 | 巴伦西亚 vs 皇家马德里 | 客 | 赔率 1.78 | 半 0-2 全 0-3 | ✅赢 | +78.00"
     },
     {
@@ -220,20 +172,14 @@
       "direction_cn": "上半场·主队",
       "handicap_main": -1.5,
       "odds": 2.55,
-      "ht_score": [
-        1,
-        0
-      ],
-      "ft_score": [
-        1,
-        0
-      ],
+      "ht_score": "1-0",
+      "ft_score": "1-0",
       "settle": "lose",
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 04:05:00 | 法甲 | 巴黎圣日尔曼 vs 特鲁瓦 | 主 | 赔率 2.55 | 半 1-0 全 1-0 | ❌输 | -100.00"
     },
     {
@@ -246,20 +192,14 @@
       "direction_cn": "上半场·主队",
       "handicap_main": -1.0,
       "odds": 2.03,
-      "ht_score": [
-        0,
-        0
-      ],
-      "ft_score": [
-        1,
-        0
-      ],
+      "ht_score": "0-0",
+      "ft_score": "1-0",
       "settle": "lose",
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 04:30:00 | 葡超 | 里斯本竞技 vs 摩雷伦斯 | 主 | 赔率 2.03 | 半 0-0 全 1-0 | ❌输 | -100.00"
     },
     {
@@ -272,20 +212,14 @@
       "direction_cn": "全场·双方进球",
       "handicap_main": 0.0,
       "odds": 2.5,
-      "ht_score": [
-        1,
-        0
-      ],
-      "ft_score": [
-        2,
-        0
-      ],
+      "ht_score": "1-0",
+      "ft_score": "2-0",
       "settle": "lose",
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_54B0027F953C7DF5F1E31C8374E689930A08@qq.com>",
-      "result_recv_time": "2026-11-08 20:21:09",
+      "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
+      "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 04:30:00 | 阿甲 | 罗萨里奥 vs 里奥夸托 | BTTS | 赔率 2.50 | 半 1-0 全 2-0 | ❌输 | -100.00"
     }
   ]
