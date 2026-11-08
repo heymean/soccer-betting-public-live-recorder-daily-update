@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-09 01:55:09",
+    "last_update": "2026-11-09 02:05:10",
     "default_stake": null,
-    "total_bets": 102,
+    "total_bets": 103,
     "total_settled": 87,
     "total_stake": 8700.0,
     "total_profit": -1291.5,
@@ -2824,6 +2824,25 @@
         "msg_id": "<tencent_3B138CEF0D8E995B4FBEC14EFEB1F358D40A@qq.com>",
         "recv_time": "2026-11-09 03:46:48",
         "raw_line": "意甲 | 佛罗伦萨 vs 尤文图斯 | 赔率 2.19 | 上半场 · 客队 | 盘口 +0.25"
+      },
+      "result": null
+    },
+    "葡超|阿马多拉|本菲卡|btts": {
+      "match_key": "葡超|阿马多拉|本菲卡|btts",
+      "match_date": "2026-11-09",
+      "league": "葡超",
+      "home": "阿马多拉",
+      "away": "本菲卡",
+      "direction": "btts",
+      "direction_cn": "全场·双方进球",
+      "handicap_main": 0.0,
+      "odds": 1.78,
+      "kickoff_time": "2026-11-09 04:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_DB8CF18BC13EF3C6C91AD8ABBF759EF57A07@qq.com>",
+        "recv_time": "2026-11-09 04:31:47",
+        "raw_line": "葡超 | 阿马多拉 vs 本菲卡 | 赔率 1.78 | 全场 · 双方进球（BTTS）"
       },
       "result": null
     }

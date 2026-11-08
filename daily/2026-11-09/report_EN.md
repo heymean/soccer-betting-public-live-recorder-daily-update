@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **7** | Settled: **0**
+- Bets: **8** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -22,6 +22,7 @@
 | 2026-11-09 02:00 | 葡超 | 吉马良斯 vs 波尔图 | 上半场·客队 +0.50 | 2.02 | - | - | Not settled | - |
 | 2026-11-09 02:30 | 德甲 | 霍芬海姆 vs 沙尔克04 | 上半场·主队 -0.50 | 2.01 | - | - | Not settled | - |
 | 2026-11-09 03:45 | 意甲 | 佛罗伦萨 vs 尤文图斯 | 上半场·客队 +0.25 | 2.19 | - | - | Not settled | - |
+| 2026-11-09 04:30 | 葡超 | 阿马多拉 vs 本菲卡 | 全场·双方进球 0 | 1.78 | - | - | Not settled | - |
 
 ---
 
