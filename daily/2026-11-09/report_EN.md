@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **1** | Settled: **0**
+- Bets: **2** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -16,6 +16,7 @@
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-09 00:00 | 苏超 | 凯尔特人 vs 基马诺克 | 上半场·主队 -1.25 | 2.06 | - | - | Not settled | - |
+| 2026-11-09 00:15 | 法甲 | 勒阿弗尔 vs 洛里昂 | 上半场·客队 0 | 1.74 | - | - | Not settled | - |
 
 ---
 

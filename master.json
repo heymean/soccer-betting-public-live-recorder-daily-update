@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-08 21:45:10",
+    "last_update": "2026-11-08 21:55:09",
     "default_stake": null,
-    "total_bets": 96,
+    "total_bets": 97,
     "total_settled": 87,
     "total_stake": 8700.0,
     "total_profit": -1291.5,
@@ -2710,6 +2710,25 @@
         "msg_id": "<tencent_9C7C7090C3FC60920716FBEF97A7A83E6305@qq.com>",
         "recv_time": "2026-11-09 00:01:54",
         "raw_line": "苏超 | 凯尔特人 vs 基马诺克 | 赔率 2.06 | 上半场 · 主队 | 盘口 -1.25"
+      },
+      "result": null
+    },
+    "法甲|勒阿弗尔|洛里昂|away": {
+      "match_key": "法甲|勒阿弗尔|洛里昂|away",
+      "match_date": "2026-11-09",
+      "league": "法甲",
+      "home": "勒阿弗尔",
+      "away": "洛里昂",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.0,
+      "odds": 1.74,
+      "kickoff_time": "2026-11-09 00:15:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_F9D47A9AF1F5C117F3CF496C58C83F0F9E07@qq.com>",
+        "recv_time": "2026-11-09 00:16:48",
+        "raw_line": "法甲 | 勒阿弗尔 vs 洛里昂 | 赔率 1.74 | 上半场 · 客队 | 盘口 0"
       },
       "result": null
     }
