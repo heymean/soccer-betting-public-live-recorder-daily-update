@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-08 19:55:10",
+    "last_update": "2026-11-08 20:05:11",
     "default_stake": null,
-    "total_bets": 94,
+    "total_bets": 95,
     "total_settled": 87,
     "total_stake": 8700.0,
     "total_profit": -1291.5,
@@ -2672,6 +2672,25 @@
         "msg_id": "<tencent_A632FF7DF30CD52B8E6F0FD298274C5AC20A@qq.com>",
         "recv_time": "2026-11-08 22:05:14",
         "raw_line": "英超 | 桑德兰 vs 切尔西 | 赔率 1.67 | 上半场 · 主队 | 盘口 +0.25"
+      },
+      "result": null
+    },
+    "德甲|科隆|勒沃库森|away": {
+      "match_key": "德甲|科隆|勒沃库森|away",
+      "match_date": "2026-11-08",
+      "league": "德甲",
+      "home": "科隆",
+      "away": "勒沃库森",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 1.76,
+      "kickoff_time": "2026-11-08 22:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_15EA7F2C3C0EF585E3DD83EEE66893F1B008@qq.com>",
+        "recv_time": "2026-11-08 22:31:48",
+        "raw_line": "德甲 | 科隆 vs 勒沃库森 | 赔率 1.76 | 上半场 · 客队 | 盘口 +0.25"
       },
       "result": null
     }
