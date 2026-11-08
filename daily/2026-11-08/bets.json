@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "count": 11,
+  "count": 13,
   "signals": [
     {
       "match_key": "意甲|帕尔马|博洛尼亚|away",
@@ -166,6 +166,36 @@
       "bet_msg_id": "<tencent_6A8CEA0BC7090695CC27267360A9FE0C7909@qq.com>",
       "bet_recv_time": "2026-11-08 04:32:06",
       "raw_line": "阿甲 | 罗萨里奥 vs 里奥夸托 | 赔率 2.50 | 全场 · 双方进球（BTTS）"
+    },
+    {
+      "match_key": "英超|布莱顿|布伦特福德|home",
+      "league": "英超",
+      "home": "布莱顿",
+      "away": "布伦特福德",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 2.0,
+      "kickoff_estimated": "2026-11-08 22:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_A632FF7DF30CD52B8E6F0FD298274C5AC20A@qq.com>",
+      "bet_recv_time": "2026-11-08 22:05:14",
+      "raw_line": "英超 | 布莱顿 vs 布伦特福德 | 赔率 2.00 | 上半场 · 主队 | 盘口 -0.25"
+    },
+    {
+      "match_key": "英超|桑德兰|切尔西|home",
+      "league": "英超",
+      "home": "桑德兰",
+      "away": "切尔西",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": 0.25,
+      "odds": 1.67,
+      "kickoff_estimated": "2026-11-08 22:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_A632FF7DF30CD52B8E6F0FD298274C5AC20A@qq.com>",
+      "bet_recv_time": "2026-11-08 22:05:14",
+      "raw_line": "英超 | 桑德兰 vs 切尔西 | 赔率 1.67 | 上半场 · 主队 | 盘口 +0.25"
     }
   ]
 }

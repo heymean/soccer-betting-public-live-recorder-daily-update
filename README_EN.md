@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-08 19:35:11**
+> Last update: **2026-11-08 19:45:11**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 92 |
+| Total bets | 94 |
 | Settled | 87 |
 | Win matches (win + half win) | 34 |
 | Lose matches (lose + half lose) | 48 |
@@ -33,7 +33,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
-| 2026-11-08 | 11 | 11 | 2.0 / 10.5 | 19.0% | -683.00 | -62.09% | [EN](daily/2026-11-08/report_EN.md) · [中文](daily/2026-11-08/report.md) |
+| 2026-11-08 | 13 | 11 | 2.0 / 10.5 | 19.0% | -683.00 | -62.09% | [EN](daily/2026-11-08/report_EN.md) · [中文](daily/2026-11-08/report.md) |
 | 2026-11-07 | 14 | 13 | 4.0 / 9.5 | 42.1% | -218.50 | -16.81% | [EN](daily/2026-11-07/report_EN.md) · [中文](daily/2026-11-07/report.md) |
 | 2026-11-06 | 2 | 2 | 0.0 / 1.0 | 0.0% | -100.00 | -50.00% | [EN](daily/2026-11-06/report_EN.md) · [中文](daily/2026-11-06/report.md) |
 | 2026-11-05 | 9 | 9 | 4.5 / 8.0 | 56.2% | +48.50 | +5.39% | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
@@ -50,6 +50,8 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-08 22:00 | 英超 | 布莱顿 vs 布伦特福德 | 上半场·主队 -0.25 | 2.00 | - | - | Not settled | - |
+| 2026-11-08 22:00 | 英超 | 桑德兰 vs 切尔西 | 上半场·主队 +0.25 | 1.67 | - | - | Not settled | - |
 | 2026-11-08 04:30 | 葡超 | 里斯本竞技 vs 摩雷伦斯 | 上半场·主队 -1.00 | 2.03 | 0-0 | 1-0 | ❌ Lose | -100.00 |
 | 2026-11-08 04:30 | 阿甲 | 罗萨里奥 vs 里奥夸托 | 全场·双方进球 0 | 2.50 | 1-0 | 2-0 | ❌ Lose | -100.00 |
 | 2026-11-08 04:05 | 法甲 | 巴黎圣日尔曼 vs 特鲁瓦 | 上半场·主队 -1.50 | 2.55 | 1-0 | 1-0 | ❌ Lose | -100.00 |
@@ -78,14 +80,12 @@ every update immutable through Git history.
 | 2026-11-06 08:30 | 巴甲 | 克鲁塞罗 vs 巴伊亚 | 上半场·主队 -0.25 | 1.87 | 1-1 | 3-2 | 🟡 Half Lose | -50.00 |
 | 2026-11-06 06:30 | 巴甲 | 帕尔梅拉斯 vs 里莫 | 上半场·客队 -0.75 | 1.96 | 3-2 | 6-1 | 🟡 Half Lose | -50.00 |
 | 2026-11-05 08:30 | 巴甲 | 博塔弗戈 vs 米内罗竞技 | 上半场·主队 -0.25 | 1.81 | 1-0 | 1-0 | ✅ Win | +81.00 |
-| 2026-11-05 06:30 | 巴甲 | 弗拉门戈 vs 格雷米奥 | 上半场·客队 -1.00 | 1.94 | 3-0 | 3-1 | ❌ Lose | -100.00 |
-| 2026-11-05 04:00 | 欧冠 | 波尔图 vs 那不勒斯 | 上半场·客队 -0.25 | 1.79 | 1-1 | 4-1 | 🟢 Half Win | +39.50 |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-08 | 11 | 11 | -683.00 | [EN](daily/2026-11-08/report_EN.md) · [中文](daily/2026-11-08/report.md) |
+| 2026-11-08 | 13 | 11 | -683.00 | [EN](daily/2026-11-08/report_EN.md) · [中文](daily/2026-11-08/report.md) |
 | 2026-11-07 | 14 | 13 | -218.50 | [EN](daily/2026-11-07/report_EN.md) · [中文](daily/2026-11-07/report.md) |
 | 2026-11-06 | 2 | 2 | -100.00 | [EN](daily/2026-11-06/report_EN.md) · [中文](daily/2026-11-06/report.md) |
 | 2026-11-05 | 9 | 9 | +48.50 | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
