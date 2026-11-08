@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-08 23:25:09",
+    "last_update": "2026-11-08 23:35:10",
     "default_stake": null,
-    "total_bets": 99,
+    "total_bets": 100,
     "total_settled": 87,
     "total_stake": 8700.0,
     "total_profit": -1291.5,
@@ -2767,6 +2767,25 @@
         "msg_id": "<tencent_731E2CD81F01CF41BDEA38F22084F9F8A406@qq.com>",
         "recv_time": "2026-11-09 01:31:50",
         "raw_line": "西甲 | 比利亚雷亚尔 vs 赫塔费 | 赔率 1.79 | 全场 · 双方进球（BTTS）"
+      },
+      "result": null
+    },
+    "葡超|吉马良斯|波尔图|away": {
+      "match_key": "葡超|吉马良斯|波尔图|away",
+      "match_date": "2026-11-09",
+      "league": "葡超",
+      "home": "吉马良斯",
+      "away": "波尔图",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.5,
+      "odds": 2.02,
+      "kickoff_time": "2026-11-09 02:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_AC1AE34183C6E635937CB01E7F2F3C77F508@qq.com>",
+        "recv_time": "2026-11-09 02:01:48",
+        "raw_line": "葡超 | 吉马良斯 vs 波尔图 | 赔率 2.02 | 上半场 · 客队 | 盘口 +0.5"
       },
       "result": null
     }
