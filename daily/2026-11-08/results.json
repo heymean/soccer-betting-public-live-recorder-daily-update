@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "count": 11,
+  "count": 14,
   "results": [
     {
       "match_key": "意甲|帕尔马|博洛尼亚|away",
@@ -221,6 +221,66 @@
       "result_msg_id": "<tencent_CAD97A9E71EE4112739EC93858C53F7B1E07@qq.com>",
       "result_recv_time": "2026-11-08 11:00:48",
       "raw_line": "2026-11-08 04:30:00 | 阿甲 | 罗萨里奥 vs 里奥夸托 | BTTS | 赔率 2.50 | 半 1-0 全 2-0 | ❌输 | -100.00"
+    },
+    {
+      "match_key": "英超|布莱顿|布伦特福德|home",
+      "kickoff": "2026-11-08 22:00:00",
+      "league": "英超",
+      "home": "布莱顿",
+      "away": "布伦特福德",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 2.0,
+      "ht_score": "2-0",
+      "ft_score": "2-0",
+      "settle": "win",
+      "settle_cn": "✅赢",
+      "stake": 100.0,
+      "profit": 100.0,
+      "result_msg_id": "<tencent_2452B0A07F9C3C70F514E3D7832EE6409308@qq.com>",
+      "result_recv_time": "2026-11-09 11:00:07",
+      "raw_line": "2026-11-08 22:00:00 | 英超 | 布莱顿 vs 布伦特福德 | 主 | 赔率 2.00 | 半 2-0 全 2-0 | ✅赢 | +100.00"
+    },
+    {
+      "match_key": "英超|桑德兰|切尔西|home",
+      "kickoff": "2026-11-08 22:00:00",
+      "league": "英超",
+      "home": "桑德兰",
+      "away": "切尔西",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": 0.25,
+      "odds": 1.67,
+      "ht_score": "1-0",
+      "ft_score": "1-0",
+      "settle": "win",
+      "settle_cn": "✅赢",
+      "stake": 100.0,
+      "profit": 67.0,
+      "result_msg_id": "<tencent_2452B0A07F9C3C70F514E3D7832EE6409308@qq.com>",
+      "result_recv_time": "2026-11-09 11:00:07",
+      "raw_line": "2026-11-08 22:00:00 | 英超 | 桑德兰 vs 切尔西 | 主 | 赔率 1.67 | 半 1-0 全 1-0 | ✅赢 | +67.00"
+    },
+    {
+      "match_key": "德甲|科隆|勒沃库森|away",
+      "kickoff": "2026-11-08 22:30:00",
+      "league": "德甲",
+      "home": "科隆",
+      "away": "勒沃库森",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 1.76,
+      "ht_score": "0-1",
+      "ft_score": "1-2",
+      "settle": "win",
+      "settle_cn": "✅赢",
+      "stake": 100.0,
+      "profit": 76.0,
+      "result_msg_id": "<tencent_2452B0A07F9C3C70F514E3D7832EE6409308@qq.com>",
+      "result_recv_time": "2026-11-09 11:00:07",
+      "raw_line": "2026-11-08 22:30:00 | 德甲 | 科隆 vs 勒沃库森 | 客 | 赔率 1.76 | 半 0-1 全 1-2 | ✅赢 | +76.00"
     }
   ]
 }

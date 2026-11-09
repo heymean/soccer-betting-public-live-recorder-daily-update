@@ -12,7 +12,7 @@
       "handicap_main": -1.25,
       "odds": 2.06,
       "kickoff_estimated": "2026-11-09 00:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_9C7C7090C3FC60920716FBEF97A7A83E6305@qq.com>",
       "bet_recv_time": "2026-11-09 00:01:54",
       "raw_line": "苏超 | 凯尔特人 vs 基马诺克 | 赔率 2.06 | 上半场 · 主队 | 盘口 -1.25"
@@ -27,7 +27,7 @@
       "handicap_main": 0.0,
       "odds": 1.74,
       "kickoff_estimated": "2026-11-09 00:15:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_F9D47A9AF1F5C117F3CF496C58C83F0F9E07@qq.com>",
       "bet_recv_time": "2026-11-09 00:16:48",
       "raw_line": "法甲 | 勒阿弗尔 vs 洛里昂 | 赔率 1.74 | 上半场 · 客队 | 盘口 0"
@@ -42,7 +42,7 @@
       "handicap_main": -0.25,
       "odds": 1.93,
       "kickoff_estimated": "2026-11-09 01:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_731E2CD81F01CF41BDEA38F22084F9F8A406@qq.com>",
       "bet_recv_time": "2026-11-09 01:31:50",
       "raw_line": "西甲 | 维戈塞尔塔 vs 莱万特 | 赔率 1.93 | 上半场 · 主队 | 盘口 -0.25"
@@ -57,7 +57,7 @@
       "handicap_main": 0.0,
       "odds": 1.79,
       "kickoff_estimated": "2026-11-09 01:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_731E2CD81F01CF41BDEA38F22084F9F8A406@qq.com>",
       "bet_recv_time": "2026-11-09 01:31:50",
       "raw_line": "西甲 | 比利亚雷亚尔 vs 赫塔费 | 赔率 1.79 | 全场 · 双方进球（BTTS）"
@@ -72,7 +72,7 @@
       "handicap_main": 0.5,
       "odds": 2.02,
       "kickoff_estimated": "2026-11-09 02:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_AC1AE34183C6E635937CB01E7F2F3C77F508@qq.com>",
       "bet_recv_time": "2026-11-09 02:01:48",
       "raw_line": "葡超 | 吉马良斯 vs 波尔图 | 赔率 2.02 | 上半场 · 客队 | 盘口 +0.5"
@@ -87,7 +87,7 @@
       "handicap_main": -0.5,
       "odds": 2.01,
       "kickoff_estimated": "2026-11-09 02:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_B81EF3FA92F1CD414773C5490F58D4BF7407@qq.com>",
       "bet_recv_time": "2026-11-09 02:31:49",
       "raw_line": "德甲 | 霍芬海姆 vs 沙尔克04 | 赔率 2.01 | 上半场 · 主队 | 盘口 -0.5"
@@ -102,7 +102,7 @@
       "handicap_main": 0.25,
       "odds": 2.19,
       "kickoff_estimated": "2026-11-09 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_3B138CEF0D8E995B4FBEC14EFEB1F358D40A@qq.com>",
       "bet_recv_time": "2026-11-09 03:46:48",
       "raw_line": "意甲 | 佛罗伦萨 vs 尤文图斯 | 赔率 2.19 | 上半场 · 客队 | 盘口 +0.25"
@@ -117,7 +117,7 @@
       "handicap_main": 0.0,
       "odds": 1.78,
       "kickoff_estimated": "2026-11-09 04:30:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet_msg_id": "<tencent_DB8CF18BC13EF3C6C91AD8ABBF759EF57A07@qq.com>",
       "bet_recv_time": "2026-11-09 04:31:47",
       "raw_line": "葡超 | 阿马多拉 vs 本菲卡 | 赔率 1.78 | 全场 · 双方进球（BTTS）"
