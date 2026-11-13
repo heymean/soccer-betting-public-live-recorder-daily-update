@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-14",
+  "count": 1,
+  "signals": [
+    {
+      "match_key": "欧国联C|摩尔多瓦|哈萨克斯坦|away",
+      "league": "欧国联C",
+      "home": "摩尔多瓦",
+      "away": "哈萨克斯坦",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.0,
+      "odds": 2.04,
+      "kickoff_estimated": "2026-11-14 01:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_677FB63C3AF5C8E37383F7E6149326B07308@qq.com>",
+      "bet_recv_time": "2026-11-14 01:01:54",
+      "raw_line": "欧国联C | 摩尔多瓦 vs 哈萨克斯坦 | 赔率 2.04 | 上半场 · 客队 | 盘口 0"
+    }
+  ]
+}
