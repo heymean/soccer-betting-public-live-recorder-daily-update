@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "count": 9,
+  "count": 10,
   "signals": [
     {
       "match_key": "欧国联C|摩尔多瓦|哈萨克斯坦|away",
@@ -136,6 +136,21 @@
       "bet_msg_id": "<tencent_27FF3E7914EA0FC771078BCCBD26C561B109@qq.com>",
       "bet_recv_time": "2026-11-14 03:47:15",
       "raw_line": "欧国联D | 列支敦士登 vs 阿塞拜疆 | 赔率 2.01 | 上半场 · 客队 | 盘口 +0.75"
+    },
+    {
+      "match_key": "美洲联|瓜地马拉|加拿大|home",
+      "league": "美洲联",
+      "home": "瓜地马拉",
+      "away": "加拿大",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": 0.5,
+      "odds": 1.86,
+      "kickoff_estimated": "2026-11-14 10:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_D4589C3F6A1EA97AD2F1B6C12E738C490A07@qq.com>",
+      "bet_recv_time": "2026-11-14 10:02:13",
+      "raw_line": "美洲联 | 瓜地马拉 vs 加拿大 | 赔率 1.86 | 上半场 · 主队 | 盘口 +0.5"
     }
   ]
 }

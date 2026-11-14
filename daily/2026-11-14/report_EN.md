@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **9** | Settled: **0**
+- Bets: **10** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -24,6 +24,7 @@
 | 2026-11-14 03:45 | 欧国联B | 苏格兰 vs 北马其顿 | 上半场·客队 -0.75 | 2.01 | - | - | Not settled | - |
 | 2026-11-14 03:45 | 欧国联D | 安道尔 vs 直布罗陀 | 上半场·客队 -0.25 | 1.86 | - | - | Not settled | - |
 | 2026-11-14 03:45 | 欧国联D | 列支敦士登 vs 阿塞拜疆 | 上半场·客队 +0.75 | 2.01 | - | - | Not settled | - |
+| 2026-11-14 10:00 | 美洲联 | 瓜地马拉 vs 加拿大 | 上半场·主队 +0.50 | 1.86 | - | - | Not settled | - |
 
 ---
 
