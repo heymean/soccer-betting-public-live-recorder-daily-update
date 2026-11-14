@@ -6,24 +6,24 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-14 15:46:23**
+> Last update: **2026-11-14 15:55:07**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 46 |
-| Settled | 44 |
-| Win matches (win + half win) | 20 |
-| Lose matches (lose + half lose) | 23 |
-| Push matches | 1 |
-| Lose units | 19.5 |
-| Win units | 18.0 |
-| Total units (win + lose) | 37.5 |
-| Win rate (win units / total units) | 48.0% |
-| Total stake | 4400.00 |
-| Total P/L | -393.50 |
-| ROI | -8.94% |
+| Total bets | 113 |
+| Settled | 107 |
+| Win matches (win + half win) | 47 |
+| Lose matches (lose + half lose) | 55 |
+| Push matches | 5 |
+| Lose units | 46.5 |
+| Win units | 44.0 |
+| Total units (win + lose) | 90.5 |
+| Win rate (win units / total units) | 48.6% |
+| Total stake | 10700.00 |
+| Total P/L | -783.50 |
+| ROI | -7.32% |
 
 > Matches vs Units: win/lose = 1 unit, **half-win/half-lose = 0.5 unit**, push = 0 unit (stake refunded)
 
@@ -37,6 +37,16 @@ every update immutable through Git history.
 | 2026-11-09 | 8 | 8 | 4.0 / 6.5 | 61.5% | +105.00 | +13.12% | [EN](daily/2026-11-09/report_EN.md) · [中文](daily/2026-11-09/report.md) |
 | 2026-11-08 | 14 | 14 | 5.0 / 13.5 | 37.0% | -440.00 | -31.43% | [EN](daily/2026-11-08/report_EN.md) · [中文](daily/2026-11-08/report.md) |
 | 2026-11-07 | 14 | 13 | 4.0 / 9.5 | 42.1% | -218.50 | -16.81% | [EN](daily/2026-11-07/report_EN.md) · [中文](daily/2026-11-07/report.md) |
+| 2026-11-06 | 2 | 2 | 0.0 / 1.0 | 0.0% | -100.00 | -50.00% | [EN](daily/2026-11-06/report_EN.md) · [中文](daily/2026-11-06/report.md) |
+| 2026-11-05 | 9 | 9 | 4.5 / 8.0 | 56.2% | +48.50 | +5.39% | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
+| 2026-11-04 | 14 | 14 | 6.0 / 13.0 | 46.2% | -163.00 | -11.64% | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
+| 2026-11-03 | 5 | 5 | 0.0 / 3.5 | 0.0% | -350.00 | -70.00% | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
+| 2026-11-02 | 5 | 5 | 2.0 / 3.0 | 66.7% | +74.00 | +14.80% | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
+| 2026-11-01 | 12 | 12 | 6.0 / 10.5 | 57.1% | +104.00 | +8.67% | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
+| 2026-10-31 | 12 | 11 | 4.5 / 9.0 | 50.0% | -45.50 | -4.14% | [EN](daily/2026-10-31/report_EN.md) · [中文](daily/2026-10-31/report.md) |
+| 2026-10-30 | 6 | 4 | 3.0 / 4.0 | 75.0% | +142.00 | +35.50% | [EN](daily/2026-10-30/report_EN.md) · [中文](daily/2026-10-30/report.md) |
+| 2026-10-29 | 1 | 1 | 0.0 / 1.0 | 0.0% | -100.00 | -100.00% | [EN](daily/2026-10-29/report_EN.md) · [中文](daily/2026-10-29/report.md) |
+| 2026-10-28 | 1 | 0 | 0.0 / 0.0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-10-28/report_EN.md) · [中文](daily/2026-10-28/report.md) |
 
 ## 📅 Recent 30 Matches
 
@@ -81,6 +91,16 @@ every update immutable through Git history.
 | 2026-11-09 | 8 | 8 | +105.00 | [EN](daily/2026-11-09/report_EN.md) · [中文](daily/2026-11-09/report.md) |
 | 2026-11-08 | 14 | 14 | -440.00 | [EN](daily/2026-11-08/report_EN.md) · [中文](daily/2026-11-08/report.md) |
 | 2026-11-07 | 14 | 13 | -218.50 | [EN](daily/2026-11-07/report_EN.md) · [中文](daily/2026-11-07/report.md) |
+| 2026-11-06 | 2 | 2 | -100.00 | [EN](daily/2026-11-06/report_EN.md) · [中文](daily/2026-11-06/report.md) |
+| 2026-11-05 | 9 | 9 | +48.50 | [EN](daily/2026-11-05/report_EN.md) · [中文](daily/2026-11-05/report.md) |
+| 2026-11-04 | 14 | 14 | -163.00 | [EN](daily/2026-11-04/report_EN.md) · [中文](daily/2026-11-04/report.md) |
+| 2026-11-03 | 5 | 5 | -350.00 | [EN](daily/2026-11-03/report_EN.md) · [中文](daily/2026-11-03/report.md) |
+| 2026-11-02 | 5 | 5 | +74.00 | [EN](daily/2026-11-02/report_EN.md) · [中文](daily/2026-11-02/report.md) |
+| 2026-11-01 | 12 | 12 | +104.00 | [EN](daily/2026-11-01/report_EN.md) · [中文](daily/2026-11-01/report.md) |
+| 2026-10-31 | 12 | 11 | -45.50 | [EN](daily/2026-10-31/report_EN.md) · [中文](daily/2026-10-31/report.md) |
+| 2026-10-30 | 6 | 4 | +142.00 | [EN](daily/2026-10-30/report_EN.md) · [中文](daily/2026-10-30/report.md) |
+| 2026-10-29 | 1 | 1 | -100.00 | [EN](daily/2026-10-29/report_EN.md) · [中文](daily/2026-10-29/report.md) |
+| 2026-10-28 | 1 | 0 | +0.00 | [EN](daily/2026-10-28/report_EN.md) · [中文](daily/2026-10-28/report.md) |
 
 ## 🔒 Verifiability
 
