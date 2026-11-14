@@ -12,7 +12,7 @@
       "handicap_main": 0.0,
       "odds": 1.85,
       "kickoff_estimated": "2026-11-07 02:30:00",
-      "kickoff_source": "result",
+      "kickoff_source": "signal_estimated",
       "bet_msg_id": "<tencent_ED38D5A09339F1E438ECC55F2F8F61FDF906@qq.com>",
       "bet_recv_time": "2026-11-07 02:32:04",
       "raw_line": "罗甲 | 阿格斯 vs 布加勒斯特迪纳摩 | 赔率 1.85 | 全场 · 双方进球（BTTS）"
