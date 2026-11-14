@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-14 22:55:06",
+    "last_update": "2026-11-14 23:05:06",
     "default_stake": null,
-    "total_bets": 115,
+    "total_bets": 117,
     "total_settled": 108,
     "total_stake": 10800.0,
     "total_profit": -318.5,
@@ -3485,6 +3485,44 @@
         "msg_id": "<tencent_C1E6AF9325B0017FB73C3FF560E3CC83DE08@qq.com>",
         "recv_time": "2026-11-15 01:01:46",
         "raw_line": "欧国联B | 格鲁吉亚 vs 匈牙利 | 赔率 2.20 | 上半场 · 客队 | 盘口 +0.25"
+      },
+      "result": null
+    },
+    "西乙|马洛卡|科尔多瓦|home": {
+      "match_key": "西乙|马洛卡|科尔多瓦|home",
+      "match_date": "2026-11-15",
+      "league": "西乙",
+      "home": "马洛卡",
+      "away": "科尔多瓦",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.83,
+      "kickoff_time": "2026-11-15 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_639315B0097FE63CFAF52CE36883B3E6D108@qq.com>",
+        "recv_time": "2026-11-15 01:32:03",
+        "raw_line": "西乙 | 马洛卡 vs 科尔多瓦 | 赔率 1.83 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "西乙|阿尔梅利亚|安道尔FC|away": {
+      "match_key": "西乙|阿尔梅利亚|安道尔FC|away",
+      "match_date": "2026-11-15",
+      "league": "西乙",
+      "home": "阿尔梅利亚",
+      "away": "安道尔FC",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 1.86,
+      "kickoff_time": "2026-11-15 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_639315B0097FE63CFAF52CE36883B3E6D108@qq.com>",
+        "recv_time": "2026-11-15 01:32:03",
+        "raw_line": "西乙 | 阿尔梅利亚 vs 安道尔FC | 赔率 1.86 | 上半场 · 客队 | 盘口 -0.25"
       },
       "result": null
     }
