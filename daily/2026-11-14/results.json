@@ -12,14 +12,8 @@
       "direction_cn": "上半场·客队",
       "handicap_main": 0.0,
       "odds": 2.04,
-      "ht_score": [
-        1,
-        0
-      ],
-      "ft_score": [
-        2,
-        1
-      ],
+      "ht_score": "1-0",
+      "ft_score": "2-1",
       "settle": "lose",
       "settle_cn": "❌输",
       "stake": 100.0,
@@ -38,14 +32,8 @@
       "direction_cn": "上半场·客队",
       "handicap_main": -0.5,
       "odds": 1.9,
-      "ht_score": [
-        1,
-        1
-      ],
-      "ft_score": [
-        2,
-        2
-      ],
+      "ht_score": "1-1",
+      "ft_score": "2-2",
       "settle": "win",
       "settle_cn": "✅赢",
       "stake": 100.0,
@@ -64,14 +52,8 @@
       "direction_cn": "上半场·客队",
       "handicap_main": 0.75,
       "odds": 1.85,
-      "ht_score": [
-        0,
-        2
-      ],
-      "ft_score": [
-        1,
-        3
-      ],
+      "ht_score": "0-2",
+      "ft_score": "1-3",
       "settle": "win",
       "settle_cn": "✅赢",
       "stake": 100.0,
@@ -90,14 +72,8 @@
       "direction_cn": "上半场·客队",
       "handicap_main": 0.25,
       "odds": 1.79,
-      "ht_score": [
-        0,
-        2
-      ],
-      "ft_score": [
-        0,
-        5
-      ],
+      "ht_score": "0-2",
+      "ft_score": "0-5",
       "settle": "win",
       "settle_cn": "✅赢",
       "stake": 100.0,
@@ -116,14 +92,8 @@
       "direction_cn": "上半场·主队",
       "handicap_main": -0.5,
       "odds": 1.97,
-      "ht_score": [
-        5,
-        0
-      ],
-      "ft_score": [
-        7,
-        0
-      ],
+      "ht_score": "5-0",
+      "ft_score": "7-0",
       "settle": "win",
       "settle_cn": "✅赢",
       "stake": 100.0,
@@ -142,14 +112,8 @@
       "direction_cn": "上半场·主队",
       "handicap_main": 0.25,
       "odds": 1.85,
-      "ht_score": [
-        0,
-        0
-      ],
-      "ft_score": [
-        0,
-        0
-      ],
+      "ht_score": "0-0",
+      "ft_score": "0-0",
       "settle": "half_win",
       "settle_cn": "🟢赢半",
       "stake": 100.0,
@@ -168,14 +132,8 @@
       "direction_cn": "上半场·客队",
       "handicap_main": -0.75,
       "odds": 2.01,
-      "ht_score": [
-        0,
-        0
-      ],
-      "ft_score": [
-        2,
-        1
-      ],
+      "ht_score": "0-0",
+      "ft_score": "2-1",
       "settle": "win",
       "settle_cn": "✅赢",
       "stake": 100.0,
@@ -194,14 +152,8 @@
       "direction_cn": "上半场·客队",
       "handicap_main": -0.25,
       "odds": 1.86,
-      "ht_score": [
-        2,
-        0
-      ],
-      "ft_score": [
-        2,
-        0
-      ],
+      "ht_score": "2-0",
+      "ft_score": "2-0",
       "settle": "lose",
       "settle_cn": "❌输",
       "stake": 100.0,
@@ -220,14 +172,8 @@
       "direction_cn": "上半场·客队",
       "handicap_main": 0.75,
       "odds": 2.01,
-      "ht_score": [
-        0,
-        1
-      ],
-      "ft_score": [
-        0,
-        1
-      ],
+      "ht_score": "0-1",
+      "ft_score": "0-1",
       "settle": "half_win",
       "settle_cn": "🟢赢半",
       "stake": 100.0,
