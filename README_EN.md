@@ -6,24 +6,24 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-14 08:25:06**
+> Last update: **2026-11-14 08:35:06**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
 | Total bets | 113 |
-| Settled | 98 |
-| Win matches (win + half win) | 41 |
-| Lose matches (lose + half lose) | 52 |
+| Settled | 107 |
+| Win matches (win + half win) | 47 |
+| Lose matches (lose + half lose) | 55 |
 | Push matches | 5 |
-| Lose units | 43.5 |
-| Win units | 39.0 |
-| Total units (win + lose) | 82.5 |
-| Win rate (win units / total units) | 47.3% |
-| Total stake | 9800.00 |
-| Total P/L | -943.50 |
-| ROI | -9.63% |
+| Lose units | 46.5 |
+| Win units | 44.0 |
+| Total units (win + lose) | 90.5 |
+| Win rate (win units / total units) | 48.6% |
+| Total stake | 10700.00 |
+| Total P/L | -783.50 |
+| ROI | -7.32% |
 
 > Matches vs Units: win/lose = 1 unit, **half-win/half-lose = 0.5 unit**, push = 0 unit (stake refunded)
 
@@ -33,7 +33,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
-| 2026-11-14 | 10 | 0 | 0.0 / 0.0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
+| 2026-11-14 | 10 | 9 | 5.0 / 8.0 | 62.5% | +160.00 | +17.78% | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
 | 2026-11-09 | 8 | 8 | 4.0 / 6.5 | 61.5% | +105.00 | +13.12% | [EN](daily/2026-11-09/report_EN.md) · [中文](daily/2026-11-09/report.md) |
 | 2026-11-08 | 14 | 14 | 5.0 / 13.5 | 37.0% | -440.00 | -31.43% | [EN](daily/2026-11-08/report_EN.md) · [中文](daily/2026-11-08/report.md) |
 | 2026-11-07 | 14 | 13 | 4.0 / 9.5 | 42.1% | -218.50 | -16.81% | [EN](daily/2026-11-07/report_EN.md) · [中文](daily/2026-11-07/report.md) |
@@ -53,15 +53,15 @@ every update immutable through Git history.
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-14 10:00 | 美洲联 | 瓜地马拉 vs 加拿大 | 上半场·主队 +0.50 | 1.86 | - | - | Not settled | - |
-| 2026-11-14 03:45 | 欧国联C | 斯洛伐克 vs 法罗群岛 | 上半场·客队 -0.50 | 1.90 | - | - | Not settled | - |
-| 2026-11-14 03:45 | 欧国联A | 塞尔维亚 vs 德国 | 上半场·客队 +0.75 | 1.85 | - | - | Not settled | - |
-| 2026-11-14 03:45 | 欧国联C | 保加利亚 vs 冰岛 | 上半场·客队 +0.25 | 1.79 | - | - | Not settled | - |
-| 2026-11-14 03:45 | 欧国联A | 荷兰 vs 希腊 | 上半场·主队 -0.50 | 1.97 | - | - | Not settled | - |
-| 2026-11-14 03:45 | 欧国联B | 斯洛文尼亚 vs 瑞士 | 上半场·主队 +0.25 | 1.85 | - | - | Not settled | - |
-| 2026-11-14 03:45 | 欧国联B | 苏格兰 vs 北马其顿 | 上半场·客队 -0.75 | 2.01 | - | - | Not settled | - |
-| 2026-11-14 03:45 | 欧国联D | 安道尔 vs 直布罗陀 | 上半场·客队 -0.25 | 1.86 | - | - | Not settled | - |
-| 2026-11-14 03:45 | 欧国联D | 列支敦士登 vs 阿塞拜疆 | 上半场·客队 +0.75 | 2.01 | - | - | Not settled | - |
-| 2026-11-14 01:00 | 欧国联C | 摩尔多瓦 vs 哈萨克斯坦 | 上半场·客队 0 | 2.04 | - | - | Not settled | - |
+| 2026-11-14 03:45 | 欧国联C | 斯洛伐克 vs 法罗群岛 | 上半场·客队 -0.50 | 1.90 | 1-1 | 2-2 | ✅ Win | +90.00 |
+| 2026-11-14 03:45 | 欧国联A | 塞尔维亚 vs 德国 | 上半场·客队 +0.75 | 1.85 | 1-1 | 1-3 | ❌ Lose | -100.00 |
+| 2026-11-14 03:45 | 欧国联C | 保加利亚 vs 冰岛 | 上半场·客队 +0.25 | 1.79 | 0-2 | 0-5 | ✅ Win | +79.00 |
+| 2026-11-14 03:45 | 欧国联A | 荷兰 vs 希腊 | 上半场·主队 -0.50 | 1.97 | 5-0 | 7-0 | ✅ Win | +97.00 |
+| 2026-11-14 03:45 | 欧国联B | 斯洛文尼亚 vs 瑞士 | 上半场·主队 +0.25 | 1.85 | 0-0 | 0-0 | 🟢 Half Win | +42.50 |
+| 2026-11-14 03:45 | 欧国联B | 苏格兰 vs 北马其顿 | 上半场·客队 -0.75 | 2.01 | 0-0 | 2-1 | ✅ Win | +101.00 |
+| 2026-11-14 03:45 | 欧国联D | 安道尔 vs 直布罗陀 | 上半场·客队 -0.25 | 1.86 | 2-0 | 2-0 | ❌ Lose | -100.00 |
+| 2026-11-14 03:45 | 欧国联D | 列支敦士登 vs 阿塞拜疆 | 上半场·客队 +0.75 | 2.01 | 0-1 | 0-1 | 🟢 Half Win | +50.50 |
+| 2026-11-14 01:00 | 欧国联C | 摩尔多瓦 vs 哈萨克斯坦 | 上半场·客队 0 | 2.04 | 1-0 | 2-1 | ❌ Lose | -100.00 |
 | 2026-11-09 04:30 | 葡超 | 阿马多拉 vs 本菲卡 | 全场·双方进球 0 | 1.78 | 0-1 | 2-3 | ✅ Win | +78.00 |
 | 2026-11-09 03:45 | 意甲 | 佛罗伦萨 vs 尤文图斯 | 上半场·客队 +0.25 | 2.19 | 1-1 | 2-2 | 🟡 Half Lose | -50.00 |
 | 2026-11-09 02:30 | 德甲 | 霍芬海姆 vs 沙尔克04 | 上半场·主队 -0.50 | 2.01 | 2-0 | 2-1 | ✅ Win | +101.00 |
@@ -87,7 +87,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-14 | 10 | 0 | +0.00 | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
+| 2026-11-14 | 10 | 9 | +160.00 | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
 | 2026-11-09 | 8 | 8 | +105.00 | [EN](daily/2026-11-09/report_EN.md) · [中文](daily/2026-11-09/report.md) |
 | 2026-11-08 | 14 | 14 | -440.00 | [EN](daily/2026-11-08/report_EN.md) · [中文](daily/2026-11-08/report.md) |
 | 2026-11-07 | 14 | 13 | -218.50 | [EN](daily/2026-11-07/report_EN.md) · [中文](daily/2026-11-07/report.md) |
