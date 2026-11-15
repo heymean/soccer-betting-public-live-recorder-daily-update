@@ -6,24 +6,24 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-15 08:25:06**
+> Last update: **2026-11-15 08:35:06**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
 | Total bets | 122 |
-| Settled | 108 |
-| Win matches (win + half win) | 50 |
-| Lose matches (lose + half lose) | 53 |
+| Settled | 116 |
+| Win matches (win + half win) | 53 |
+| Lose matches (lose + half lose) | 58 |
 | Push matches | 5 |
-| Lose units | 44.5 |
-| Win units | 47.0 |
-| Total units (win + lose) | 91.5 |
-| Win rate (win units / total units) | 51.4% |
-| Total stake | 10800.00 |
-| Total P/L | -318.50 |
-| ROI | -2.95% |
+| Lose units | 48.5 |
+| Win units | 49.5 |
+| Total units (win + lose) | 98.0 |
+| Win rate (win units / total units) | 50.5% |
+| Total stake | 11600.00 |
+| Total P/L | -476.50 |
+| ROI | -4.11% |
 
 > Matches vs Units: win/lose = 1 unit, **half-win/half-lose = 0.5 unit**, push = 0 unit (stake refunded)
 
@@ -33,7 +33,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
-| 2026-11-15 | 9 | 0 | 0.0 / 0.0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
+| 2026-11-15 | 9 | 8 | 2.5 / 6.5 | 38.5% | -158.00 | -19.75% | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
 | 2026-11-14 | 10 | 9 | 6.0 / 8.0 | 75.0% | +345.00 | +38.33% | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
 | 2026-11-09 | 8 | 8 | 4.0 / 6.5 | 61.5% | +105.00 | +13.12% | [EN](daily/2026-11-09/report_EN.md) · [中文](daily/2026-11-09/report.md) |
 | 2026-11-08 | 14 | 14 | 6.0 / 13.5 | 44.4% | -245.00 | -17.50% | [EN](daily/2026-11-08/report_EN.md) · [中文](daily/2026-11-08/report.md) |
@@ -54,14 +54,14 @@ every update immutable through Git history.
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-15 09:00 | 美洲联 | 牙买加 vs 墨西哥 | 上半场·客队 +0.75 | 2.01 | - | - | Not settled | - |
-| 2026-11-15 03:45 | 欧国联B | 瑞典 vs 波黑 | 上半场·客队 -0.50 | 1.84 | - | - | Not settled | - |
-| 2026-11-15 03:45 | 欧国联B | 奥地利 vs 爱尔兰 | 上半场·客队 -0.25 | 2.00 | - | - | Not settled | - |
-| 2026-11-15 03:45 | 欧国联A | 葡萄牙 vs 丹麦 | 上半场·客队 -0.25 | 2.02 | - | - | Not settled | - |
-| 2026-11-15 03:45 | 欧国联B | 罗马尼亚 vs 波兰 | 上半场·客队 +0.25 | 1.72 | - | - | Not settled | - |
-| 2026-11-15 01:30 | 西乙 | 马洛卡 vs 科尔多瓦 | 上半场·主队 -0.25 | 1.83 | - | - | Not settled | - |
-| 2026-11-15 01:30 | 西乙 | 阿尔梅利亚 vs 安道尔FC | 上半场·客队 -0.25 | 1.86 | - | - | Not settled | - |
-| 2026-11-15 01:00 | 欧国联A | 挪威 vs 威尔士 | 上半场·客队 -0.75 | 1.90 | - | - | Not settled | - |
-| 2026-11-15 01:00 | 欧国联B | 格鲁吉亚 vs 匈牙利 | 上半场·客队 +0.25 | 2.20 | - | - | Not settled | - |
+| 2026-11-15 03:45 | 欧国联B | 瑞典 vs 波黑 | 上半场·客队 -0.50 | 1.84 | 3-0 | 3-2 | ❌ Lose | -100.00 |
+| 2026-11-15 03:45 | 欧国联B | 奥地利 vs 爱尔兰 | 上半场·客队 -0.25 | 2.00 | 0-0 | 1-0 | 🟢 Half Win | +50.00 |
+| 2026-11-15 03:45 | 欧国联A | 葡萄牙 vs 丹麦 | 上半场·客队 -0.25 | 2.02 | 0-1 | 1-4 | ✅ Win | +102.00 |
+| 2026-11-15 03:45 | 欧国联B | 罗马尼亚 vs 波兰 | 上半场·客队 +0.25 | 1.72 | 0-0 | 2-1 | 🟡 Half Lose | -50.00 |
+| 2026-11-15 01:30 | 西乙 | 马洛卡 vs 科尔多瓦 | 上半场·主队 -0.25 | 1.83 | 0-1 | 3-3 | ❌ Lose | -100.00 |
+| 2026-11-15 01:30 | 西乙 | 阿尔梅利亚 vs 安道尔FC | 上半场·客队 -0.25 | 1.86 | 2-0 | 2-1 | ❌ Lose | -100.00 |
+| 2026-11-15 01:00 | 欧国联A | 挪威 vs 威尔士 | 上半场·客队 -0.75 | 1.90 | 0-0 | 3-1 | ✅ Win | +90.00 |
+| 2026-11-15 01:00 | 欧国联B | 格鲁吉亚 vs 匈牙利 | 上半场·客队 +0.25 | 2.20 | 0-0 | 0-2 | 🟡 Half Lose | -50.00 |
 | 2026-11-14 10:00 | 美洲联 | 瓜地马拉 vs 加拿大 | 上半场·主队 +0.50 | 1.86 | - | - | Not settled | - |
 | 2026-11-14 03:45 | 欧国联C | 斯洛伐克 vs 法罗群岛 | 上半场·客队 -0.50 | 1.90 | 1-1 | 2-2 | ✅ Win | +90.00 |
 | 2026-11-14 03:45 | 欧国联A | 塞尔维亚 vs 德国 | 上半场·客队 +0.75 | 1.85 | 0-2 | 1-3 | ✅ Win | +85.00 |
@@ -88,7 +88,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-15 | 9 | 0 | +0.00 | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
+| 2026-11-15 | 9 | 8 | -158.00 | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
 | 2026-11-14 | 10 | 9 | +345.00 | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
 | 2026-11-09 | 8 | 8 | +105.00 | [EN](daily/2026-11-09/report_EN.md) · [中文](daily/2026-11-09/report.md) |
 | 2026-11-08 | 14 | 14 | -245.00 | [EN](daily/2026-11-08/report_EN.md) · [中文](daily/2026-11-08/report.md) |
