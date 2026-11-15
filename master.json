@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-15 19:25:06",
+    "last_update": "2026-11-15 19:35:06",
     "default_stake": null,
-    "total_bets": 122,
+    "total_bets": 123,
     "total_settled": 116,
     "total_stake": 11600.0,
     "total_profit": -476.5,
@@ -3698,6 +3698,25 @@
         "msg_id": "<tencent_7062F211D6E14F88E7BA1E6BFC60B0CC1C05@qq.com>",
         "recv_time": "2026-11-15 09:01:57",
         "raw_line": "美洲联 | 牙买加 vs 墨西哥 | 赔率 2.01 | 上半场 · 客队 | 盘口 +0.75"
+      },
+      "result": null
+    },
+    "欧国联C|拉脱维亚|亚美尼亚|home": {
+      "match_key": "欧国联C|拉脱维亚|亚美尼亚|home",
+      "match_date": "2026-11-15",
+      "league": "欧国联C",
+      "home": "拉脱维亚",
+      "away": "亚美尼亚",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": 0.0,
+      "odds": 2.14,
+      "kickoff_time": "2026-11-15 22:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_F5F3BF229ED27ABD71D34126F3A7C974D807@qq.com>",
+        "recv_time": "2026-11-15 22:01:41",
+        "raw_line": "欧国联C | 拉脱维亚 vs 亚美尼亚 | 赔率 2.14 | 上半场 · 主队 | 盘口 0"
       },
       "result": null
     }
