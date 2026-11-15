@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-15 22:25:04**
+> Last update: **2026-11-15 22:35:05**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 124 |
+| Total bets | 125 |
 | Settled | 116 |
 | Win matches (win + half win) | 53 |
 | Lose matches (lose + half lose) | 58 |
@@ -33,6 +33,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
+| 2026-11-16 | 1 | 0 | 0.0 / 0.0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
 | 2026-11-15 | 11 | 8 | 2.5 / 6.5 | 38.5% | -158.00 | -19.75% | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
 | 2026-11-14 | 10 | 9 | 6.0 / 8.0 | 75.0% | +345.00 | +38.33% | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
 | 2026-11-09 | 8 | 8 | 4.0 / 6.5 | 61.5% | +105.00 | +13.12% | [EN](daily/2026-11-09/report_EN.md) · [中文](daily/2026-11-09/report.md) |
@@ -53,6 +54,7 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-16 01:00 | 欧国联C | 芬兰 vs 圣马力诺 | 上半场·主队 -1.75 | 1.85 | - | - | Not settled | - |
 | 2026-11-15 23:15 | 西乙 | 格拉纳达 vs 拉斯帕尔马斯 | 上半场·主队 -0.25 | 2.00 | - | - | Not settled | - |
 | 2026-11-15 22:00 | 欧国联C | 拉脱维亚 vs 亚美尼亚 | 上半场·主队 0 | 2.14 | - | - | Not settled | - |
 | 2026-11-15 09:00 | 美洲联 | 牙买加 vs 墨西哥 | 上半场·客队 +0.75 | 2.01 | - | - | Not settled | - |
@@ -82,12 +84,12 @@ every update immutable through Git history.
 | 2026-11-09 01:30 | 西甲 | 比利亚雷亚尔 vs 赫塔费 | 全场·双方进球 0 | 1.79 | 0-0 | 2-0 | ❌ Lose | -100.00 |
 | 2026-11-09 00:15 | 法甲 | 勒阿弗尔 vs 洛里昂 | 上半场·客队 0 | 1.74 | 0-1 | 0-2 | ✅ Win | +74.00 |
 | 2026-11-09 00:00 | 苏超 | 凯尔特人 vs 基马诺克 | 上半场·主队 -1.25 | 2.06 | 1-0 | 1-0 | 🟡 Half Lose | -50.00 |
-| 2026-11-08 22:30 | 德甲 | 科隆 vs 勒沃库森 | 上半场·客队 +0.25 | 1.76 | 0-1 | 1-2 | ✅ Win | +76.00 |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
+| 2026-11-16 | 1 | 0 | +0.00 | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
 | 2026-11-15 | 11 | 8 | -158.00 | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
 | 2026-11-14 | 10 | 9 | +345.00 | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
 | 2026-11-09 | 8 | 8 | +105.00 | [EN](daily/2026-11-09/report_EN.md) · [中文](daily/2026-11-09/report.md) |

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-15 22:25:04",
+    "last_update": "2026-11-15 22:35:05",
     "default_stake": null,
-    "total_bets": 124,
+    "total_bets": 125,
     "total_settled": 116,
     "total_stake": 11600.0,
     "total_profit": -476.5,
@@ -3736,6 +3736,25 @@
         "msg_id": "<tencent_31734D86C0CEFEDDF03CD7C78C470FEA9A0A@qq.com>",
         "recv_time": "2026-11-15 23:16:43",
         "raw_line": "西乙 | 格拉纳达 vs 拉斯帕尔马斯 | 赔率 2.00 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "欧国联C|芬兰|圣马力诺|home": {
+      "match_key": "欧国联C|芬兰|圣马力诺|home",
+      "match_date": "2026-11-16",
+      "league": "欧国联C",
+      "home": "芬兰",
+      "away": "圣马力诺",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -1.75,
+      "odds": 1.85,
+      "kickoff_time": "2026-11-16 01:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_9F95CCC9261F6051FE747914EA53C6150609@qq.com>",
+        "recv_time": "2026-11-16 01:02:12",
+        "raw_line": "欧国联C | 芬兰 vs 圣马力诺 | 赔率 1.85 | 上半场 · 主队 | 盘口 -1.75"
       },
       "result": null
     }

@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-16",
+  "count": 1,
+  "signals": [
+    {
+      "match_key": "欧国联C|芬兰|圣马力诺|home",
+      "league": "欧国联C",
+      "home": "芬兰",
+      "away": "圣马力诺",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -1.75,
+      "odds": 1.85,
+      "kickoff_estimated": "2026-11-16 01:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_9F95CCC9261F6051FE747914EA53C6150609@qq.com>",
+      "bet_recv_time": "2026-11-16 01:02:12",
+      "raw_line": "欧国联C | 芬兰 vs 圣马力诺 | 赔率 1.85 | 上半场 · 主队 | 盘口 -1.75"
+    }
+  ]
+}
