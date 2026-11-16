@@ -1,22 +1,22 @@
 {
   "meta": {
-    "last_update": "2026-11-16 08:25:04",
+    "last_update": "2026-11-16 08:35:05",
     "default_stake": null,
     "total_bets": 128,
-    "total_settled": 116,
-    "total_stake": 11600.0,
-    "total_profit": -476.5,
-    "roi": -4.11,
-    "win": 46,
+    "total_settled": 122,
+    "total_stake": 12200.0,
+    "total_profit": -171.5,
+    "roi": -1.41,
+    "win": 50,
     "lose": 39,
-    "push": 5,
-    "win_rate": 50.5,
+    "push": 6,
+    "win_rate": 52.2,
     "orphan_results": 0,
     "win_half": 7,
-    "lose_half": 19,
-    "win_units": 49.5,
-    "lose_units": 48.5,
-    "total_units": 98.0
+    "lose_half": 20,
+    "win_units": 53.5,
+    "lose_units": 49.0,
+    "total_units": 102.5
   },
   "matches": {
     "意甲|弗洛西诺内|都灵|home": {
@@ -3712,13 +3712,23 @@
       "handicap_main": 0.0,
       "odds": 2.14,
       "kickoff_time": "2026-11-15 22:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_F5F3BF229ED27ABD71D34126F3A7C974D807@qq.com>",
         "recv_time": "2026-11-15 22:01:41",
         "raw_line": "欧国联C | 拉脱维亚 vs 亚美尼亚 | 赔率 2.14 | 上半场 · 主队 | 盘口 0"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_762F82E7A65E6DDC7430C9DC6CF21DB6EC05@qq.com>",
+        "recv_time": "2026-11-16 11:00:12",
+        "raw_line": "2026-11-15 22:00:00 | 欧国联C | 拉脱维亚 vs 亚美尼亚 | 主 | 赔率 2.14 | 半 0-0 全 0-0 | ⚪走水 | +0.00",
+        "ht_score": "0-0",
+        "ft_score": "0-0",
+        "settle": "push",
+        "settle_cn": "⚪走水",
+        "stake": 100.0,
+        "profit": 0.0
+      }
     },
     "西乙|格拉纳达|拉斯帕尔马斯|home": {
       "match_key": "西乙|格拉纳达|拉斯帕尔马斯|home",
@@ -3731,13 +3741,23 @@
       "handicap_main": -0.25,
       "odds": 2.0,
       "kickoff_time": "2026-11-15 23:15:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_31734D86C0CEFEDDF03CD7C78C470FEA9A0A@qq.com>",
         "recv_time": "2026-11-15 23:16:43",
         "raw_line": "西乙 | 格拉纳达 vs 拉斯帕尔马斯 | 赔率 2.00 | 上半场 · 主队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_762F82E7A65E6DDC7430C9DC6CF21DB6EC05@qq.com>",
+        "recv_time": "2026-11-16 11:00:12",
+        "raw_line": "2026-11-15 23:15:00 | 西乙 | 格拉纳达 vs 拉斯帕尔马斯 | 主 | 赔率 2.00 | 半 0-0 全 1-0 | 🟡输半 | -50.00",
+        "ht_score": "0-0",
+        "ft_score": "1-0",
+        "settle": "half_lose",
+        "settle_cn": "🟡输半",
+        "stake": 100.0,
+        "profit": -50.0
+      }
     },
     "欧国联C|芬兰|圣马力诺|home": {
       "match_key": "欧国联C|芬兰|圣马力诺|home",
@@ -3750,13 +3770,23 @@
       "handicap_main": -1.75,
       "odds": 1.85,
       "kickoff_time": "2026-11-16 01:00:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_9F95CCC9261F6051FE747914EA53C6150609@qq.com>",
         "recv_time": "2026-11-16 01:02:12",
         "raw_line": "欧国联C | 芬兰 vs 圣马力诺 | 赔率 1.85 | 上半场 · 主队 | 盘口 -1.75"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_762F82E7A65E6DDC7430C9DC6CF21DB6EC05@qq.com>",
+        "recv_time": "2026-11-16 11:00:12",
+        "raw_line": "2026-11-16 01:00:00 | 欧国联C | 芬兰 vs 圣马力诺 | 主 | 赔率 1.85 | 半 5-1 全 7-2 | ✅赢 | +85.00",
+        "ht_score": "5-1",
+        "ft_score": "7-2",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 85.0
+      }
     },
     "欧国联A|西班牙|英格兰|away": {
       "match_key": "欧国联A|西班牙|英格兰|away",
@@ -3769,13 +3799,23 @@
       "handicap_main": -0.25,
       "odds": 1.7,
       "kickoff_time": "2026-11-16 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_A2C3A4202CE21F0F4F4DBDC6F8CBE09BF906@qq.com>",
         "recv_time": "2026-11-16 03:47:25",
         "raw_line": "欧国联A | 西班牙 vs 英格兰 | 赔率 1.70 | 上半场 · 客队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_762F82E7A65E6DDC7430C9DC6CF21DB6EC05@qq.com>",
+        "recv_time": "2026-11-16 11:00:12",
+        "raw_line": "2026-11-16 03:45:00 | 欧国联A | 西班牙 vs 英格兰 | 客 | 赔率 1.70 | 半 0-1 全 2-3 | ✅赢 | +70.00",
+        "ht_score": "0-1",
+        "ft_score": "2-3",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 70.0
+      }
     },
     "欧国联A|克罗地亚|捷克|home": {
       "match_key": "欧国联A|克罗地亚|捷克|home",
@@ -3788,13 +3828,23 @@
       "handicap_main": -0.5,
       "odds": 1.89,
       "kickoff_time": "2026-11-16 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_A2C3A4202CE21F0F4F4DBDC6F8CBE09BF906@qq.com>",
         "recv_time": "2026-11-16 03:47:25",
         "raw_line": "欧国联A | 克罗地亚 vs 捷克 | 赔率 1.89 | 上半场 · 主队 | 盘口 -0.5"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_762F82E7A65E6DDC7430C9DC6CF21DB6EC05@qq.com>",
+        "recv_time": "2026-11-16 11:00:12",
+        "raw_line": "2026-11-16 03:45:00 | 欧国联A | 克罗地亚 vs 捷克 | 主 | 赔率 1.89 | 半 1-0 全 2-1 | ✅赢 | +89.00",
+        "ht_score": "1-0",
+        "ft_score": "2-1",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 89.0
+      }
     },
     "欧国联A|比利时|意大利|home": {
       "match_key": "欧国联A|比利时|意大利|home",
@@ -3807,13 +3857,23 @@
       "handicap_main": -0.25,
       "odds": 2.11,
       "kickoff_time": "2026-11-16 03:45:00",
-      "kickoff_source": "signal_estimated",
+      "kickoff_source": "result",
       "bet": {
         "msg_id": "<tencent_A2C3A4202CE21F0F4F4DBDC6F8CBE09BF906@qq.com>",
         "recv_time": "2026-11-16 03:47:25",
         "raw_line": "欧国联A | 比利时 vs 意大利 | 赔率 2.11 | 上半场 · 主队 | 盘口 -0.25"
       },
-      "result": null
+      "result": {
+        "msg_id": "<tencent_762F82E7A65E6DDC7430C9DC6CF21DB6EC05@qq.com>",
+        "recv_time": "2026-11-16 11:00:12",
+        "raw_line": "2026-11-16 03:45:00 | 欧国联A | 比利时 vs 意大利 | 主 | 赔率 2.11 | 半 3-1 全 4-1 | ✅赢 | +111.00",
+        "ht_score": "3-1",
+        "ft_score": "4-1",
+        "settle": "win",
+        "settle_cn": "✅赢",
+        "stake": 100.0,
+        "profit": 111.0
+      }
     }
   },
   "result_emails": [
@@ -4047,6 +4107,15 @@
       "settle_time": "2026-11-15 11:00:07",
       "parsed_count": 8,
       "accepted_count": 8,
+      "dropped_orphans": 0
+    },
+    {
+      "msg_id": "<tencent_762F82E7A65E6DDC7430C9DC6CF21DB6EC05@qq.com>",
+      "recv_time": "2026-11-16 11:00:12",
+      "period": "过去 24 小时",
+      "settle_time": "2026-11-16 11:00:05",
+      "parsed_count": 6,
+      "accepted_count": 6,
       "dropped_orphans": 0
     }
   ]
