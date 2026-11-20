@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-21 00:55:04",
+    "last_update": "2026-11-21 01:05:04",
     "default_stake": null,
-    "total_bets": 129,
+    "total_bets": 130,
     "total_settled": 122,
     "total_stake": 12200.0,
     "total_profit": -171.5,
@@ -3891,6 +3891,25 @@
         "msg_id": "<tencent_2D8ED30E0698C74D0AC3F6FE61F0B8D5B70A@qq.com>",
         "recv_time": "2026-11-21 01:31:59",
         "raw_line": "德乙 | 达姆施塔特 vs 海登海姆 | 赔率 2.00 | 上半场 · 客队 | 盘口 +0.25"
+      },
+      "result": null
+    },
+    "德甲|拜仁慕尼黑|科隆|away": {
+      "match_key": "德甲|拜仁慕尼黑|科隆|away",
+      "match_date": "2026-11-21",
+      "league": "德甲",
+      "home": "拜仁慕尼黑",
+      "away": "科隆",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -1.25,
+      "odds": 1.93,
+      "kickoff_time": "2026-11-21 03:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_884DF020D7A38DA70D6299A34F0AC1BAFD0A@qq.com>",
+        "recv_time": "2026-11-21 03:31:41",
+        "raw_line": "德甲 | 拜仁慕尼黑 vs 科隆 | 赔率 1.93 | 上半场 · 客队 | 盘口 -1.25"
       },
       "result": null
     }
