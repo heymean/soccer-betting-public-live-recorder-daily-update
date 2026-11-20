@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "count": 3,
+  "count": 4,
   "signals": [
     {
       "match_key": "德乙|达姆施塔特|海登海姆|away",
@@ -46,6 +46,21 @@
       "bet_msg_id": "<tencent_ED8F030CBA98334DE6C19AFDB5F2F8D6870A@qq.com>",
       "bet_recv_time": "2026-11-21 03:46:43",
       "raw_line": "法甲 | 特鲁瓦 vs 勒阿弗尔 | 赔率 1.68 | 上半场 · 主队 | 盘口 0"
+    },
+    {
+      "match_key": "英甲|巴恩斯利|谢菲尔德星期三|away",
+      "league": "英甲",
+      "home": "巴恩斯利",
+      "away": "谢菲尔德星期三",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 2.08,
+      "kickoff_estimated": "2026-11-21 04:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_A40036E22F9627A25E779C65D0D83C6A9205@qq.com>",
+      "bet_recv_time": "2026-11-21 04:01:46",
+      "raw_line": "英甲 | 巴恩斯利 vs 谢菲尔德星期三 | 赔率 2.08 | 上半场 · 客队 | 盘口 +0.25"
     }
   ]
 }
