@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "count": 2,
+  "count": 3,
   "signals": [
     {
       "match_key": "德乙|达姆施塔特|海登海姆|away",
@@ -31,6 +31,21 @@
       "bet_msg_id": "<tencent_884DF020D7A38DA70D6299A34F0AC1BAFD0A@qq.com>",
       "bet_recv_time": "2026-11-21 03:31:41",
       "raw_line": "德甲 | 拜仁慕尼黑 vs 科隆 | 赔率 1.93 | 上半场 · 客队 | 盘口 -1.25"
+    },
+    {
+      "match_key": "法甲|特鲁瓦|勒阿弗尔|home",
+      "league": "法甲",
+      "home": "特鲁瓦",
+      "away": "勒阿弗尔",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": 0.0,
+      "odds": 1.68,
+      "kickoff_estimated": "2026-11-21 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_ED8F030CBA98334DE6C19AFDB5F2F8D6870A@qq.com>",
+      "bet_recv_time": "2026-11-21 03:46:43",
+      "raw_line": "法甲 | 特鲁瓦 vs 勒阿弗尔 | 赔率 1.68 | 上半场 · 主队 | 盘口 0"
     }
   ]
 }
