@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-22 01:15:04",
+    "last_update": "2026-11-22 01:25:05",
     "default_stake": null,
-    "total_bets": 152,
+    "total_bets": 155,
     "total_settled": 125,
     "total_stake": 12500.0,
     "total_profit": -163.5,
@@ -4358,6 +4358,63 @@
         "msg_id": "<tencent_21E65293E2B0C47F723C1DF5D1E39383A508@qq.com>",
         "recv_time": "2026-11-22 01:31:55",
         "raw_line": "英超 | 纽卡斯尔联 vs 阿森纳 | 赔率 2.02 | 上半场 · 客队 | 盘口 +0.5"
+      },
+      "result": null
+    },
+    "意甲|那不勒斯|都灵|away": {
+      "match_key": "意甲|那不勒斯|都灵|away",
+      "match_date": "2026-11-22",
+      "league": "意甲",
+      "home": "那不勒斯",
+      "away": "都灵",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 2.09,
+      "kickoff_time": "2026-11-22 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_C3C913D881BF689EED7A9571E64110F3C207@qq.com>",
+        "recv_time": "2026-11-22 03:46:53",
+        "raw_line": "意甲 | 那不勒斯 vs 都灵 | 赔率 2.09 | 上半场 · 客队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "法甲|朗斯|图卢兹|away": {
+      "match_key": "法甲|朗斯|图卢兹|away",
+      "match_date": "2026-11-22",
+      "league": "法甲",
+      "home": "朗斯",
+      "away": "图卢兹",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 1.66,
+      "kickoff_time": "2026-11-22 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_C3C913D881BF689EED7A9571E64110F3C207@qq.com>",
+        "recv_time": "2026-11-22 03:46:53",
+        "raw_line": "法甲 | 朗斯 vs 图卢兹 | 赔率 1.66 | 上半场 · 客队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "法甲|摩纳哥|欧塞尔|home": {
+      "match_key": "法甲|摩纳哥|欧塞尔|home",
+      "match_date": "2026-11-22",
+      "league": "法甲",
+      "home": "摩纳哥",
+      "away": "欧塞尔",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.5,
+      "odds": 1.87,
+      "kickoff_time": "2026-11-22 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_C3C913D881BF689EED7A9571E64110F3C207@qq.com>",
+        "recv_time": "2026-11-22 03:46:53",
+        "raw_line": "法甲 | 摩纳哥 vs 欧塞尔 | 赔率 1.87 | 上半场 · 主队 | 盘口 -0.5"
       },
       "result": null
     }
