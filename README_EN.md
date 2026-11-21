@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-21 17:55:04**
+> Last update: **2026-11-21 18:05:05**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 132 |
+| Total bets | 134 |
 | Settled | 125 |
 | Win matches (win + half win) | 58 |
 | Lose matches (lose + half lose) | 60 |
@@ -33,7 +33,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
-| 2026-11-21 | 4 | 3 | 1.0 / 2.0 | 50.0% | +8.00 | +2.67% | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
+| 2026-11-21 | 6 | 3 | 1.0 / 2.0 | 50.0% | +8.00 | +2.67% | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
 | 2026-11-16 | 4 | 4 | 4.0 / 4.0 | 100.0% | +355.00 | +88.75% | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
 | 2026-11-15 | 11 | 10 | 2.5 / 7.0 | 35.7% | -208.00 | -20.80% | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
 | 2026-11-14 | 10 | 9 | 6.0 / 8.0 | 75.0% | +345.00 | +38.33% | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
@@ -55,6 +55,8 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-21 20:30 | 英冠 | 诺维奇 vs 加的夫城 | 上半场·主队 -0.50 | 2.05 | - | - | Not settled | - |
+| 2026-11-21 20:30 | 英超 | 曼彻斯特城 vs 富勒姆 | 上半场·主队 -0.75 | 2.07 | - | - | Not settled | - |
 | 2026-11-21 04:00 | 英甲 | 巴恩斯利 vs 谢菲尔德星期三 | 上半场·客队 +0.25 | 2.08 | 1-2 | 1-2 | ✅ Win | +108.00 |
 | 2026-11-21 03:45 | 法甲 | 特鲁瓦 vs 勒阿弗尔 | 上半场·主队 0 | 1.68 | 1-1 | 3-1 | ⚪ Push | +0.00 |
 | 2026-11-21 03:30 | 德甲 | 拜仁慕尼黑 vs 科隆 | 上半场·客队 -1.25 | 1.93 | - | - | Not settled | - |
@@ -83,14 +85,12 @@ every update immutable through Git history.
 | 2026-11-14 03:45 | 欧国联B | 苏格兰 vs 北马其顿 | 上半场·客队 -0.75 | 2.01 | 0-0 | 2-1 | ✅ Win | +101.00 |
 | 2026-11-14 03:45 | 欧国联D | 安道尔 vs 直布罗陀 | 上半场·客队 -0.25 | 1.86 | 2-0 | 2-0 | ❌ Lose | -100.00 |
 | 2026-11-14 03:45 | 欧国联D | 列支敦士登 vs 阿塞拜疆 | 上半场·客队 +0.75 | 2.01 | 0-1 | 0-1 | 🟢 Half Win | +50.50 |
-| 2026-11-14 01:00 | 欧国联C | 摩尔多瓦 vs 哈萨克斯坦 | 上半场·客队 0 | 2.04 | 1-0 | 2-1 | ❌ Lose | -100.00 |
-| 2026-11-09 04:30 | 葡超 | 阿马多拉 vs 本菲卡 | 全场·双方进球 0 | 1.78 | 0-1 | 2-3 | ✅ Win | +78.00 |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-21 | 4 | 3 | +8.00 | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
+| 2026-11-21 | 6 | 3 | +8.00 | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
 | 2026-11-16 | 4 | 4 | +355.00 | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
 | 2026-11-15 | 11 | 10 | -208.00 | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
 | 2026-11-14 | 10 | 9 | +345.00 | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |

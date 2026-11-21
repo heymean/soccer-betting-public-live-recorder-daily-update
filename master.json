@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-21 17:55:04",
+    "last_update": "2026-11-21 18:05:05",
     "default_stake": null,
-    "total_bets": 132,
+    "total_bets": 134,
     "total_settled": 125,
     "total_stake": 12500.0,
     "total_profit": -163.5,
@@ -3980,6 +3980,44 @@
         "stake": 100.0,
         "profit": 108.0
       }
+    },
+    "英冠|诺维奇|加的夫城|home": {
+      "match_key": "英冠|诺维奇|加的夫城|home",
+      "match_date": "2026-11-21",
+      "league": "英冠",
+      "home": "诺维奇",
+      "away": "加的夫城",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.5,
+      "odds": 2.05,
+      "kickoff_time": "2026-11-21 20:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_5E06FDCD5D267F6083FEAA7818EA07C6C309@qq.com>",
+        "recv_time": "2026-11-21 20:32:04",
+        "raw_line": "英冠 | 诺维奇 vs 加的夫城 | 赔率 2.05 | 上半场 · 主队 | 盘口 -0.5"
+      },
+      "result": null
+    },
+    "英超|曼彻斯特城|富勒姆|home": {
+      "match_key": "英超|曼彻斯特城|富勒姆|home",
+      "match_date": "2026-11-21",
+      "league": "英超",
+      "home": "曼彻斯特城",
+      "away": "富勒姆",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.75,
+      "odds": 2.07,
+      "kickoff_time": "2026-11-21 20:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_5E06FDCD5D267F6083FEAA7818EA07C6C309@qq.com>",
+        "recv_time": "2026-11-21 20:32:04",
+        "raw_line": "英超 | 曼彻斯特城 vs 富勒姆 | 赔率 2.07 | 上半场 · 主队 | 盘口 -0.75"
+      },
+      "result": null
     }
   },
   "result_emails": [
