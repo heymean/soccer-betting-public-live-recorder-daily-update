@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-21 18:25:04",
+    "last_update": "2026-11-21 18:35:04",
     "default_stake": null,
-    "total_bets": 134,
+    "total_bets": 137,
     "total_settled": 125,
     "total_stake": 12500.0,
     "total_profit": -163.5,
@@ -4016,6 +4016,63 @@
         "msg_id": "<tencent_5E06FDCD5D267F6083FEAA7818EA07C6C309@qq.com>",
         "recv_time": "2026-11-21 20:32:04",
         "raw_line": "英超 | 曼彻斯特城 vs 富勒姆 | 赔率 2.07 | 上半场 · 主队 | 盘口 -0.75"
+      },
+      "result": null
+    },
+    "土超|阿美德|里泽体育|away": {
+      "match_key": "土超|阿美德|里泽体育|away",
+      "match_date": "2026-11-21",
+      "league": "土超",
+      "home": "阿美德",
+      "away": "里泽体育",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 1.86,
+      "kickoff_time": "2026-11-21 21:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_040616F86F8487A6BE617C6F50CE1C765205@qq.com>",
+        "recv_time": "2026-11-21 21:01:53",
+        "raw_line": "土超 | 阿美德 vs 里泽体育 | 赔率 1.86 | 上半场 · 客队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "土超|加拉塔萨雷|萨姆松珀|away": {
+      "match_key": "土超|加拉塔萨雷|萨姆松珀|away",
+      "match_date": "2026-11-21",
+      "league": "土超",
+      "home": "加拉塔萨雷",
+      "away": "萨姆松珀",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.75,
+      "odds": 1.85,
+      "kickoff_time": "2026-11-21 21:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_040616F86F8487A6BE617C6F50CE1C765205@qq.com>",
+        "recv_time": "2026-11-21 21:01:53",
+        "raw_line": "土超 | 加拉塔萨雷 vs 萨姆松珀 | 赔率 1.85 | 上半场 · 客队 | 盘口 -0.75"
+      },
+      "result": null
+    },
+    "西甲|阿拉维斯|拉科鲁尼亚|home": {
+      "match_key": "西甲|阿拉维斯|拉科鲁尼亚|home",
+      "match_date": "2026-11-21",
+      "league": "西甲",
+      "home": "阿拉维斯",
+      "away": "拉科鲁尼亚",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 2.19,
+      "kickoff_time": "2026-11-21 21:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_040616F86F8487A6BE617C6F50CE1C765205@qq.com>",
+        "recv_time": "2026-11-21 21:01:53",
+        "raw_line": "西甲 | 阿拉维斯 vs 拉科鲁尼亚 | 赔率 2.19 | 上半场 · 主队 | 盘口 -0.25"
       },
       "result": null
     }
