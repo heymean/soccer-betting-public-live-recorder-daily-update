@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "count": 1,
+  "count": 2,
   "signals": [
     {
       "match_key": "法甲|尼斯|巴黎圣日尔曼|away",
@@ -16,6 +16,21 @@
       "bet_msg_id": "<tencent_ACD5F19FC11F738A491E58FA3F2C1EB07A07@qq.com>",
       "bet_recv_time": "2026-11-22 00:17:00",
       "raw_line": "法甲 | 尼斯 vs 巴黎圣日尔曼 | 赔率 1.88 | 上半场 · 客队 | 盘口 +0.5"
+    },
+    {
+      "match_key": "意甲|帕尔马|罗马|away",
+      "league": "意甲",
+      "home": "帕尔马",
+      "away": "罗马",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.75,
+      "odds": 1.81,
+      "kickoff_estimated": "2026-11-22 01:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_56AF9487BDBE76FC6DD0DC1C69321DB6ED05@qq.com>",
+      "bet_recv_time": "2026-11-22 01:01:43",
+      "raw_line": "意甲 | 帕尔马 vs 罗马 | 赔率 1.81 | 上半场 · 客队 | 盘口 +0.75"
     }
   ]
 }
