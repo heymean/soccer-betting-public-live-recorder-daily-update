@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-21 21:45:05**
+> Last update: **2026-11-21 21:55:04**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 148 |
+| Total bets | 149 |
 | Settled | 125 |
 | Win matches (win + half win) | 58 |
 | Lose matches (lose + half lose) | 60 |
@@ -33,6 +33,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
+| 2026-11-22 | 1 | 0 | 0.0 / 0.0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-22/report_EN.md) · [中文](daily/2026-11-22/report.md) |
 | 2026-11-21 | 20 | 3 | 1.0 / 2.0 | 50.0% | +8.00 | +2.67% | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
 | 2026-11-16 | 4 | 4 | 4.0 / 4.0 | 100.0% | +355.00 | +88.75% | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
 | 2026-11-15 | 11 | 10 | 2.5 / 7.0 | 35.7% | -208.00 | -20.80% | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
@@ -55,6 +56,7 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-22 00:15 | 法甲 | 尼斯 vs 巴黎圣日尔曼 | 上半场·客队 +0.50 | 1.88 | - | - | Not settled | - |
 | 2026-11-21 23:15 | 西甲 | 巴列卡诺 vs 巴伦西亚 | 上半场·客队 -0.25 | 1.78 | - | - | Not settled | - |
 | 2026-11-21 23:00 | 英超 | 托特纳姆热刺 vs 伊普斯维奇 | 上半场·主队 -0.50 | 1.96 | - | - | Not settled | - |
 | 2026-11-21 23:00 | 英冠 | 西汉姆联 vs 普雷斯顿 | 上半场·主队 -0.75 | 1.89 | - | - | Not settled | - |
@@ -84,12 +86,12 @@ every update immutable through Git history.
 | 2026-11-15 09:00 | 美洲联 | 牙买加 vs 墨西哥 | 上半场·客队 +0.75 | 2.01 | - | - | Not settled | - |
 | 2026-11-15 03:45 | 欧国联B | 瑞典 vs 波黑 | 上半场·客队 -0.50 | 1.84 | 3-0 | 3-2 | ❌ Lose | -100.00 |
 | 2026-11-15 03:45 | 欧国联B | 奥地利 vs 爱尔兰 | 上半场·客队 -0.25 | 2.00 | 0-0 | 1-0 | 🟢 Half Win | +50.00 |
-| 2026-11-15 03:45 | 欧国联A | 葡萄牙 vs 丹麦 | 上半场·客队 -0.25 | 2.02 | 0-1 | 1-4 | ✅ Win | +102.00 |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
+| 2026-11-22 | 1 | 0 | +0.00 | [EN](daily/2026-11-22/report_EN.md) · [中文](daily/2026-11-22/report.md) |
 | 2026-11-21 | 20 | 3 | +8.00 | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
 | 2026-11-16 | 4 | 4 | +355.00 | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
 | 2026-11-15 | 11 | 10 | -208.00 | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |

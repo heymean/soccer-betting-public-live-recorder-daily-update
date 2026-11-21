@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-21 21:45:05",
+    "last_update": "2026-11-21 21:55:04",
     "default_stake": null,
-    "total_bets": 148,
+    "total_bets": 149,
     "total_settled": 125,
     "total_stake": 12500.0,
     "total_profit": -163.5,
@@ -4282,6 +4282,25 @@
         "msg_id": "<tencent_07FE44780EEBC1C7050705CC412709618D09@qq.com>",
         "recv_time": "2026-11-21 23:16:52",
         "raw_line": "西甲 | 巴列卡诺 vs 巴伦西亚 | 赔率 1.78 | 上半场 · 客队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "法甲|尼斯|巴黎圣日尔曼|away": {
+      "match_key": "法甲|尼斯|巴黎圣日尔曼|away",
+      "match_date": "2026-11-22",
+      "league": "法甲",
+      "home": "尼斯",
+      "away": "巴黎圣日尔曼",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.5,
+      "odds": 1.88,
+      "kickoff_time": "2026-11-22 00:15:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_ACD5F19FC11F738A491E58FA3F2C1EB07A07@qq.com>",
+        "recv_time": "2026-11-22 00:17:00",
+        "raw_line": "法甲 | 尼斯 vs 巴黎圣日尔曼 | 赔率 1.88 | 上半场 · 客队 | 盘口 +0.5"
       },
       "result": null
     }
