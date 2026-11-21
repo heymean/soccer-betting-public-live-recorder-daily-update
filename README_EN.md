@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-21 19:25:05**
+> Last update: **2026-11-21 19:35:05**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 137 |
+| Total bets | 139 |
 | Settled | 125 |
 | Win matches (win + half win) | 58 |
 | Lose matches (lose + half lose) | 60 |
@@ -33,7 +33,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
-| 2026-11-21 | 9 | 3 | 1.0 / 2.0 | 50.0% | +8.00 | +2.67% | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
+| 2026-11-21 | 11 | 3 | 1.0 / 2.0 | 50.0% | +8.00 | +2.67% | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
 | 2026-11-16 | 4 | 4 | 4.0 / 4.0 | 100.0% | +355.00 | +88.75% | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
 | 2026-11-15 | 11 | 10 | 2.5 / 7.0 | 35.7% | -208.00 | -20.80% | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
 | 2026-11-14 | 10 | 9 | 6.0 / 8.0 | 75.0% | +345.00 | +38.33% | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
@@ -55,6 +55,8 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-21 22:00 | 意甲 | 拉齐奥 vs 莱切 | 上半场·客队 -0.50 | 1.78 | - | - | Not settled | - |
+| 2026-11-21 22:00 | 意甲 | 科莫 vs 卡利亚里 | 上半场·主队 -0.75 | 1.89 | - | - | Not settled | - |
 | 2026-11-21 21:00 | 土超 | 阿美德 vs 里泽体育 | 上半场·客队 -0.25 | 1.86 | - | - | Not settled | - |
 | 2026-11-21 21:00 | 土超 | 加拉塔萨雷 vs 萨姆松珀 | 上半场·客队 -0.75 | 1.85 | - | - | Not settled | - |
 | 2026-11-21 21:00 | 西甲 | 阿拉维斯 vs 拉科鲁尼亚 | 上半场·主队 -0.25 | 2.19 | - | - | Not settled | - |
@@ -83,14 +85,12 @@ every update immutable through Git history.
 | 2026-11-14 03:45 | 欧国联C | 斯洛伐克 vs 法罗群岛 | 上半场·客队 -0.50 | 1.90 | 1-1 | 2-2 | ✅ Win | +90.00 |
 | 2026-11-14 03:45 | 欧国联A | 塞尔维亚 vs 德国 | 上半场·客队 +0.75 | 1.85 | 0-2 | 1-3 | ✅ Win | +85.00 |
 | 2026-11-14 03:45 | 欧国联C | 保加利亚 vs 冰岛 | 上半场·客队 +0.25 | 1.79 | 0-2 | 0-5 | ✅ Win | +79.00 |
-| 2026-11-14 03:45 | 欧国联A | 荷兰 vs 希腊 | 上半场·主队 -0.50 | 1.97 | 5-0 | 7-0 | ✅ Win | +97.00 |
-| 2026-11-14 03:45 | 欧国联B | 斯洛文尼亚 vs 瑞士 | 上半场·主队 +0.25 | 1.85 | 0-0 | 0-0 | 🟢 Half Win | +42.50 |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-21 | 9 | 3 | +8.00 | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
+| 2026-11-21 | 11 | 3 | +8.00 | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
 | 2026-11-16 | 4 | 4 | +355.00 | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
 | 2026-11-15 | 11 | 10 | -208.00 | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
 | 2026-11-14 | 10 | 9 | +345.00 | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |

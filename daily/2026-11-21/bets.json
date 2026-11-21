@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "count": 9,
+  "count": 11,
   "signals": [
     {
       "match_key": "德乙|达姆施塔特|海登海姆|away",
@@ -136,6 +136,36 @@
       "bet_msg_id": "<tencent_040616F86F8487A6BE617C6F50CE1C765205@qq.com>",
       "bet_recv_time": "2026-11-21 21:01:53",
       "raw_line": "西甲 | 阿拉维斯 vs 拉科鲁尼亚 | 赔率 2.19 | 上半场 · 主队 | 盘口 -0.25"
+    },
+    {
+      "match_key": "意甲|拉齐奥|莱切|away",
+      "league": "意甲",
+      "home": "拉齐奥",
+      "away": "莱切",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.5,
+      "odds": 1.78,
+      "kickoff_estimated": "2026-11-21 22:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_27FC85F18CD41F8EB70D06998B4C8AC22A0A@qq.com>",
+      "bet_recv_time": "2026-11-21 22:01:59",
+      "raw_line": "意甲 | 拉齐奥 vs 莱切 | 赔率 1.78 | 上半场 · 客队 | 盘口 -0.5"
+    },
+    {
+      "match_key": "意甲|科莫|卡利亚里|home",
+      "league": "意甲",
+      "home": "科莫",
+      "away": "卡利亚里",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.75,
+      "odds": 1.89,
+      "kickoff_estimated": "2026-11-21 22:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_27FC85F18CD41F8EB70D06998B4C8AC22A0A@qq.com>",
+      "bet_recv_time": "2026-11-21 22:01:59",
+      "raw_line": "意甲 | 科莫 vs 卡利亚里 | 赔率 1.89 | 上半场 · 主队 | 盘口 -0.75"
     }
   ]
 }
