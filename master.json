@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-21 20:25:05",
+    "last_update": "2026-11-21 20:35:05",
     "default_stake": null,
-    "total_bets": 142,
+    "total_bets": 147,
     "total_settled": 125,
     "total_stake": 12500.0,
     "total_profit": -163.5,
@@ -4168,6 +4168,101 @@
         "msg_id": "<tencent_1DC04162F3AEC908D88BBF249E95FAD67107@qq.com>",
         "recv_time": "2026-11-21 22:31:46",
         "raw_line": "德甲 | 柏林联合 vs 莱比锡红牛 | 赔率 1.96 | 上半场 · 客队 | 盘口 +0.5"
+      },
+      "result": null
+    },
+    "英超|托特纳姆热刺|伊普斯维奇|home": {
+      "match_key": "英超|托特纳姆热刺|伊普斯维奇|home",
+      "match_date": "2026-11-21",
+      "league": "英超",
+      "home": "托特纳姆热刺",
+      "away": "伊普斯维奇",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.5,
+      "odds": 1.96,
+      "kickoff_time": "2026-11-21 23:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_5D83C10EF3DE497658B1BF5A9E9DFAECF107@qq.com>",
+        "recv_time": "2026-11-21 23:02:09",
+        "raw_line": "英超 | 托特纳姆热刺 vs 伊普斯维奇 | 赔率 1.96 | 上半场 · 主队 | 盘口 -0.5"
+      },
+      "result": null
+    },
+    "英冠|西汉姆联|普雷斯顿|home": {
+      "match_key": "英冠|西汉姆联|普雷斯顿|home",
+      "match_date": "2026-11-21",
+      "league": "英冠",
+      "home": "西汉姆联",
+      "away": "普雷斯顿",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.75,
+      "odds": 1.89,
+      "kickoff_time": "2026-11-21 23:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_5D83C10EF3DE497658B1BF5A9E9DFAECF107@qq.com>",
+        "recv_time": "2026-11-21 23:02:09",
+        "raw_line": "英冠 | 西汉姆联 vs 普雷斯顿 | 赔率 1.89 | 上半场 · 主队 | 盘口 -0.75"
+      },
+      "result": null
+    },
+    "英超|阿斯顿维拉|桑德兰|home": {
+      "match_key": "英超|阿斯顿维拉|桑德兰|home",
+      "match_date": "2026-11-21",
+      "league": "英超",
+      "home": "阿斯顿维拉",
+      "away": "桑德兰",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.83,
+      "kickoff_time": "2026-11-21 23:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_5D83C10EF3DE497658B1BF5A9E9DFAECF107@qq.com>",
+        "recv_time": "2026-11-21 23:02:09",
+        "raw_line": "英超 | 阿斯顿维拉 vs 桑德兰 | 赔率 1.83 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "英超|切尔西|利兹联|home": {
+      "match_key": "英超|切尔西|利兹联|home",
+      "match_date": "2026-11-21",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "利兹联",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 2.07,
+      "kickoff_time": "2026-11-21 23:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_5D83C10EF3DE497658B1BF5A9E9DFAECF107@qq.com>",
+        "recv_time": "2026-11-21 23:02:09",
+        "raw_line": "英超 | 切尔西 vs 利兹联 | 赔率 2.07 | 上半场 · 主队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "英超|伯恩茅斯|诺丁汉森林|away": {
+      "match_key": "英超|伯恩茅斯|诺丁汉森林|away",
+      "match_date": "2026-11-21",
+      "league": "英超",
+      "home": "伯恩茅斯",
+      "away": "诺丁汉森林",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 1.73,
+      "kickoff_time": "2026-11-21 23:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_5D83C10EF3DE497658B1BF5A9E9DFAECF107@qq.com>",
+        "recv_time": "2026-11-21 23:02:09",
+        "raw_line": "英超 | 伯恩茅斯 vs 诺丁汉森林 | 赔率 1.73 | 上半场 · 客队 | 盘口 -0.25"
       },
       "result": null
     }
