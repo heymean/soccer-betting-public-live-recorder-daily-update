@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-21 20:45:05",
+    "last_update": "2026-11-21 20:55:05",
     "default_stake": null,
-    "total_bets": 147,
+    "total_bets": 148,
     "total_settled": 125,
     "total_stake": 12500.0,
     "total_profit": -163.5,
@@ -4263,6 +4263,25 @@
         "msg_id": "<tencent_5D83C10EF3DE497658B1BF5A9E9DFAECF107@qq.com>",
         "recv_time": "2026-11-21 23:02:09",
         "raw_line": "英超 | 伯恩茅斯 vs 诺丁汉森林 | 赔率 1.73 | 上半场 · 客队 | 盘口 -0.25"
+      },
+      "result": null
+    },
+    "西甲|巴列卡诺|巴伦西亚|away": {
+      "match_key": "西甲|巴列卡诺|巴伦西亚|away",
+      "match_date": "2026-11-21",
+      "league": "西甲",
+      "home": "巴列卡诺",
+      "away": "巴伦西亚",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.25,
+      "odds": 1.78,
+      "kickoff_time": "2026-11-21 23:15:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_07FE44780EEBC1C7050705CC412709618D09@qq.com>",
+        "recv_time": "2026-11-21 23:16:52",
+        "raw_line": "西甲 | 巴列卡诺 vs 巴伦西亚 | 赔率 1.78 | 上半场 · 客队 | 盘口 -0.25"
       },
       "result": null
     }

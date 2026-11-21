@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **19** | Settled: **3**
+- Bets: **20** | Settled: **3**
 - Win **1** matches / **1.0** units | Lose **1** matches / **1.0** units | Push 1 matches
 - Win rate **50.0%** (win units 1.0 / total units 2.0)
 - Total stake **300.00** | P/L **+8.00** | ROI **+2.67%**
@@ -34,6 +34,7 @@
 | 2026-11-21 23:00 | 英超 | 阿斯顿维拉 vs 桑德兰 | 上半场·主队 -0.25 | 1.83 | - | - | Not settled | - |
 | 2026-11-21 23:00 | 英超 | 切尔西 vs 利兹联 | 上半场·主队 -0.25 | 2.07 | - | - | Not settled | - |
 | 2026-11-21 23:00 | 英超 | 伯恩茅斯 vs 诺丁汉森林 | 上半场·客队 -0.25 | 1.73 | - | - | Not settled | - |
+| 2026-11-21 23:15 | 西甲 | 巴列卡诺 vs 巴伦西亚 | 上半场·客队 -0.25 | 1.78 | - | - | Not settled | - |
 
 ---
 
