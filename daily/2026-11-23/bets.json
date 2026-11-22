@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "count": 7,
+  "count": 8,
   "signals": [
     {
       "match_key": "法甲|洛里昂|雷恩|away",
@@ -106,6 +106,21 @@
       "bet_msg_id": "<tencent_C91EEDFAA7719EC13273924932D8CC3F4807@qq.com>",
       "bet_recv_time": "2026-11-23 03:46:57",
       "raw_line": "意甲 | 亚特兰大 vs 国际米兰 | 赔率 1.78 | 上半场 · 主队 | 盘口 +0.5"
+    },
+    {
+      "match_key": "西甲|赫塔费|马德里竞技|away",
+      "league": "西甲",
+      "home": "赫塔费",
+      "away": "马德里竞技",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 1.74,
+      "kickoff_estimated": "2026-11-23 04:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_1BFD71E6C1767394C928D8DBBF4E9E97FA07@qq.com>",
+      "bet_recv_time": "2026-11-23 04:01:40",
+      "raw_line": "西甲 | 赫塔费 vs 马德里竞技 | 赔率 1.74 | 上半场 · 客队 | 盘口 +0.25"
     }
   ]
 }
