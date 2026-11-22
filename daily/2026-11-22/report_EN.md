@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **7** | Settled: **0**
+- Bets: **8** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -22,6 +22,7 @@
 | 2026-11-22 03:45 | 意甲 | 那不勒斯 vs 都灵 | 上半场·客队 -0.25 | 2.09 | - | - | Not settled | - |
 | 2026-11-22 03:45 | 法甲 | 朗斯 vs 图卢兹 | 上半场·客队 -0.25 | 1.66 | - | - | Not settled | - |
 | 2026-11-22 03:45 | 法甲 | 摩纳哥 vs 欧塞尔 | 上半场·主队 -0.50 | 1.87 | - | - | Not settled | - |
+| 2026-11-22 08:00 | 巴甲 | 沙佩科恩斯 vs 克鲁塞罗 | 上半场·主队 +0.50 | 1.84 | - | - | Not settled | - |
 
 ---
 
