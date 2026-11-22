@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-22 16:55:05",
+    "last_update": "2026-11-22 17:05:06",
     "default_stake": null,
-    "total_bets": 156,
+    "total_bets": 157,
     "total_settled": 145,
     "total_stake": 14500.0,
     "total_profit": -224.0,
@@ -4636,6 +4636,25 @@
         "stake": 100.0,
         "profit": 84.0
       }
+    },
+    "意甲|尤文图斯|威尼斯|away": {
+      "match_key": "意甲|尤文图斯|威尼斯|away",
+      "match_date": "2026-11-22",
+      "league": "意甲",
+      "home": "尤文图斯",
+      "away": "威尼斯",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.5,
+      "odds": 1.93,
+      "kickoff_time": "2026-11-22 19:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_8AAB5E79BC7A70C25C73B21796F1AF8A0705@qq.com>",
+        "recv_time": "2026-11-22 19:31:54",
+        "raw_line": "意甲 | 尤文图斯 vs 威尼斯 | 赔率 1.93 | 上半场 · 客队 | 盘口 -0.5"
+      },
+      "result": null
     }
   },
   "result_emails": [
