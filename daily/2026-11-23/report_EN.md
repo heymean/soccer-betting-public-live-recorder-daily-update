@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **1** | Settled: **0**
+- Bets: **2** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -16,6 +16,7 @@
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-23 00:15 | 法甲 | 洛里昂 vs 雷恩 | 上半场·客队 +0.25 | 2.16 | - | - | Not settled | - |
+| 2026-11-23 00:30 | 德甲 | 云达不来梅 vs 汉堡 | 上半场·客队 -0.50 | 1.73 | - | - | Not settled | - |
 
 ---
 
