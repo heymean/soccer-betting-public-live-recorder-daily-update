@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **13** | Settled: **7**
+- Bets: **14** | Settled: **7**
 - Win **6** matches / **5.0** units | Lose **1** matches / **1.0** units | Push 0 matches
 - Win rate **83.3%** (win units 5.0 / total units 6.0)
 - Total stake **700.00** | P/L **+335.00** | ROI **+47.86%**
@@ -28,6 +28,7 @@
 | 2026-11-22 22:00 | 英超 | 赫尔城 vs 布莱顿 | 上半场·客队 +0.50 | 1.95 | - | - | Not settled | - |
 | 2026-11-22 22:00 | 法甲 | 巴黎FC vs 昂热 | 上半场·主队 -0.75 | 2.05 | - | - | Not settled | - |
 | 2026-11-22 22:00 | 意甲 | 博洛尼亚 vs 乌迪内斯 | 上半场·客队 -0.25 | 1.89 | - | - | Not settled | - |
+| 2026-11-22 22:30 | 德甲 | 奥格斯堡 vs 美因茨 | 上半场·客队 +0.25 | 2.15 | - | - | Not settled | - |
 
 ---
 
