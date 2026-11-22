@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-23",
+  "count": 1,
+  "signals": [
+    {
+      "match_key": "法甲|洛里昂|雷恩|away",
+      "league": "法甲",
+      "home": "洛里昂",
+      "away": "雷恩",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 2.16,
+      "kickoff_estimated": "2026-11-23 00:15:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_FF4EE6EF93F6B0A97F5A3C3FF50DE3DA8308@qq.com>",
+      "bet_recv_time": "2026-11-23 00:16:56",
+      "raw_line": "法甲 | 洛里昂 vs 雷恩 | 赔率 2.16 | 上半场 · 客队 | 盘口 +0.25"
+    }
+  ]
+}
