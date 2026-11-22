@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "count": 5,
+  "count": 7,
   "signals": [
     {
       "match_key": "法甲|洛里昂|雷恩|away",
@@ -76,6 +76,36 @@
       "bet_msg_id": "<tencent_8F8366E64F9382B0B77F6A3C88F501E3B908@qq.com>",
       "bet_recv_time": "2026-11-23 01:31:48",
       "raw_line": "西甲 | 奥萨苏纳 vs 马拉加 | 赔率 1.92 | 上半场 · 主队 | 盘口 -0.25"
+    },
+    {
+      "match_key": "法甲|马赛|勒芒|away",
+      "league": "法甲",
+      "home": "马赛",
+      "away": "勒芒",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": -0.5,
+      "odds": 1.87,
+      "kickoff_estimated": "2026-11-23 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_C91EEDFAA7719EC13273924932D8CC3F4807@qq.com>",
+      "bet_recv_time": "2026-11-23 03:46:57",
+      "raw_line": "法甲 | 马赛 vs 勒芒 | 赔率 1.87 | 上半场 · 客队 | 盘口 -0.5"
+    },
+    {
+      "match_key": "意甲|亚特兰大|国际米兰|home",
+      "league": "意甲",
+      "home": "亚特兰大",
+      "away": "国际米兰",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": 0.5,
+      "odds": 1.78,
+      "kickoff_estimated": "2026-11-23 03:45:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_C91EEDFAA7719EC13273924932D8CC3F4807@qq.com>",
+      "bet_recv_time": "2026-11-23 03:46:57",
+      "raw_line": "意甲 | 亚特兰大 vs 国际米兰 | 赔率 1.78 | 上半场 · 主队 | 盘口 +0.5"
     }
   ]
 }
