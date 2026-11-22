@@ -6,13 +6,13 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-22 22:25:06**
+> Last update: **2026-11-22 22:35:06**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
-| Total bets | 165 |
+| Total bets | 166 |
 | Settled | 145 |
 | Win matches (win + half win) | 68 |
 | Lose matches (lose + half lose) | 70 |
@@ -33,7 +33,7 @@ every update immutable through Git history.
 
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
-| 2026-11-23 | 2 | 0 | 0.0 / 0.0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-23/report_EN.md) · [中文](daily/2026-11-23/report.md) |
+| 2026-11-23 | 3 | 0 | 0.0 / 0.0 | 0.0% | +0.00 | +0.00% | [EN](daily/2026-11-23/report_EN.md) · [中文](daily/2026-11-23/report.md) |
 | 2026-11-22 | 15 | 7 | 5.0 / 6.0 | 83.3% | +335.00 | +47.86% | [EN](daily/2026-11-22/report_EN.md) · [中文](daily/2026-11-22/report.md) |
 | 2026-11-21 | 20 | 16 | 4.5 / 12.5 | 36.0% | -387.50 | -24.22% | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
 | 2026-11-16 | 4 | 4 | 4.0 / 4.0 | 100.0% | +355.00 | +88.75% | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
@@ -57,6 +57,7 @@ every update immutable through Git history.
 
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-23 01:00 | 意甲 | AC米兰 vs 弗洛西诺内 | 上半场·客队 -0.25 | 2.04 | - | - | Not settled | - |
 | 2026-11-23 00:30 | 德甲 | 云达不来梅 vs 汉堡 | 上半场·客队 -0.50 | 1.73 | - | - | Not settled | - |
 | 2026-11-23 00:15 | 法甲 | 洛里昂 vs 雷恩 | 上半场·客队 +0.25 | 2.16 | - | - | Not settled | - |
 | 2026-11-22 23:15 | 西甲 | 桑坦德竞技 vs 皇家社会 | 上半场·客队 +0.25 | 2.11 | - | - | Not settled | - |
@@ -86,13 +87,12 @@ every update immutable through Git history.
 | 2026-11-21 22:00 | 意甲 | 拉齐奥 vs 莱切 | 上半场·客队 -0.50 | 1.78 | 1-0 | 3-0 | ❌ Lose | -100.00 |
 | 2026-11-21 22:00 | 意甲 | 科莫 vs 卡利亚里 | 上半场·主队 -0.75 | 1.89 | 1-0 | 2-0 | 🟢 Half Win | +44.50 |
 | 2026-11-21 21:00 | 土超 | 阿美德 vs 里泽体育 | 上半场·客队 -0.25 | 1.86 | 0-1 | 0-2 | ✅ Win | +86.00 |
-| 2026-11-21 21:00 | 土超 | 加拉塔萨雷 vs 萨姆松珀 | 上半场·客队 -0.75 | 1.85 | 1-0 | 2-1 | 🟡 Half Lose | -50.00 |
 
 ## 📅 All Records
 
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
-| 2026-11-23 | 2 | 0 | +0.00 | [EN](daily/2026-11-23/report_EN.md) · [中文](daily/2026-11-23/report.md) |
+| 2026-11-23 | 3 | 0 | +0.00 | [EN](daily/2026-11-23/report_EN.md) · [中文](daily/2026-11-23/report.md) |
 | 2026-11-22 | 15 | 7 | +335.00 | [EN](daily/2026-11-22/report_EN.md) · [中文](daily/2026-11-22/report.md) |
 | 2026-11-21 | 20 | 16 | -387.50 | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
 | 2026-11-16 | 4 | 4 | +355.00 | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
