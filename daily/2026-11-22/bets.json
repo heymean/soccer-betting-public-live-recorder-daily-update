@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "count": 9,
+  "count": 10,
   "signals": [
     {
       "match_key": "法甲|尼斯|巴黎圣日尔曼|away",
@@ -136,6 +136,21 @@
       "bet_msg_id": "<tencent_8AAB5E79BC7A70C25C73B21796F1AF8A0705@qq.com>",
       "bet_recv_time": "2026-11-22 19:31:54",
       "raw_line": "意甲 | 尤文图斯 vs 威尼斯 | 赔率 1.93 | 上半场 · 客队 | 盘口 -0.5"
+    },
+    {
+      "match_key": "英冠|伯���利|布莱克本|home",
+      "league": "英冠",
+      "home": "伯���利",
+      "away": "布莱克本",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.88,
+      "kickoff_estimated": "2026-11-22 20:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_9DF706B9CC6B26FB604BFFD879E2EAD3C709@qq.com>",
+      "bet_recv_time": "2026-11-22 20:01:56",
+      "raw_line": "英冠 | 伯���利 vs 布莱克本 | 赔率 1.88 | 上半场 · 主队 | 盘口 -0.25"
     }
   ]
 }
