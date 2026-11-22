@@ -27,7 +27,7 @@
       "handicap_main": -1.25,
       "odds": 1.93,
       "kickoff_estimated": "2026-11-21 03:30:00",
-      "kickoff_source": "result",
+      "kickoff_source": "signal_estimated",
       "bet_msg_id": "<tencent_884DF020D7A38DA70D6299A34F0AC1BAFD0A@qq.com>",
       "bet_recv_time": "2026-11-21 03:31:41",
       "raw_line": "德甲 | 拜仁慕尼黑 vs 科隆 | 赔率 1.93 | 上半场 · 客队 | 盘口 -1.25"

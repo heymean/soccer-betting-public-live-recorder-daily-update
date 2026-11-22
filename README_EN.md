@@ -6,24 +6,24 @@ A soccer-loving developer investing with data. This repo is my public record of
 daily betting signals and settled results — every match traceable to its source email,
 every update immutable through Git history.
 
-> Last update: **2026-11-22 15:48:35**
+> Last update: **2026-11-22 13:25:05**
 
 ## 📊 Cumulative Stats
 
 | Metric | Value |
 |---|---|
 | Total bets | 156 |
-| Settled | 146 |
-| Win matches (win + half win) | 69 |
+| Settled | 145 |
+| Win matches (win + half win) | 68 |
 | Lose matches (lose + half lose) | 70 |
 | Push matches | 7 |
 | Lose units | 58.0 |
-| Win units | 64.0 |
-| Total units (win + lose) | 122.0 |
-| Win rate (win units / total units) | 52.5% |
-| Total stake | 14600.00 |
-| Total P/L | -131.00 |
-| ROI | -0.90% |
+| Win units | 63.0 |
+| Total units (win + lose) | 121.0 |
+| Win rate (win units / total units) | 52.1% |
+| Total stake | 14500.00 |
+| Total P/L | -224.00 |
+| ROI | -1.54% |
 
 > Matches vs Units: win/lose = 1 unit, **half-win/half-lose = 0.5 unit**, push = 0 unit (stake refunded)
 
@@ -34,7 +34,7 @@ every update immutable through Git history.
 | Date | Bets | Settled | Win/Total Units | Win rate | P/L | ROI | Details |
 |---|---|---|---|---|---|---|---|
 | 2026-11-22 | 8 | 7 | 5.0 / 6.0 | 83.3% | +335.00 | +47.86% | [EN](daily/2026-11-22/report_EN.md) · [中文](daily/2026-11-22/report.md) |
-| 2026-11-21 | 20 | 17 | 5.5 / 13.5 | 40.7% | -294.50 | -17.32% | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
+| 2026-11-21 | 20 | 16 | 4.5 / 12.5 | 36.0% | -387.50 | -24.22% | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
 | 2026-11-16 | 4 | 4 | 4.0 / 4.0 | 100.0% | +355.00 | +88.75% | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
 | 2026-11-15 | 11 | 10 | 2.5 / 7.0 | 35.7% | -208.00 | -20.80% | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
 | 2026-11-14 | 10 | 9 | 6.0 / 8.0 | 75.0% | +345.00 | +38.33% | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |
@@ -82,7 +82,7 @@ every update immutable through Git history.
 | 2026-11-21 20:30 | 英超 | 曼彻斯特城 vs 富勒姆 | 上半场·主队 -0.75 | 2.07 | 0-1 | 1-1 | ❌ Lose | -100.00 |
 | 2026-11-21 04:00 | 英甲 | 巴恩斯利 vs 谢菲尔德星期三 | 上半场·客队 +0.25 | 2.08 | 1-2 | 1-2 | ✅ Win | +108.00 |
 | 2026-11-21 03:45 | 法甲 | 特鲁瓦 vs 勒阿弗尔 | 上半场·主队 0 | 1.68 | 1-1 | 3-1 | ⚪ Push | +0.00 |
-| 2026-11-21 03:30 | 德甲 | 拜仁慕尼黑 vs 科隆 | 上半场·客队 -1.25 | 1.93 | 1-1 | 1-1 | ✅ Win | +93.00 |
+| 2026-11-21 03:30 | 德甲 | 拜仁慕尼黑 vs 科隆 | 上半场·客队 -1.25 | 1.93 | - | - | Not settled | - |
 | 2026-11-21 01:30 | 德乙 | 达姆施塔特 vs 海登海姆 | 上半场·客队 +0.25 | 2.00 | 2-1 | 3-1 | ❌ Lose | -100.00 |
 | 2026-11-16 03:45 | 欧国联A | 西班牙 vs 英格兰 | 上半场·客队 -0.25 | 1.70 | 0-1 | 2-3 | ✅ Win | +70.00 |
 | 2026-11-16 03:45 | 欧国联A | 克罗地亚 vs 捷克 | 上半场·主队 -0.50 | 1.89 | 1-0 | 2-1 | ✅ Win | +89.00 |
@@ -92,7 +92,7 @@ every update immutable through Git history.
 | Date | Bets | Settled | P/L | Details |
 |---|---|---|---|---|
 | 2026-11-22 | 8 | 7 | +335.00 | [EN](daily/2026-11-22/report_EN.md) · [中文](daily/2026-11-22/report.md) |
-| 2026-11-21 | 20 | 17 | -294.50 | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
+| 2026-11-21 | 20 | 16 | -387.50 | [EN](daily/2026-11-21/report_EN.md) · [中文](daily/2026-11-21/report.md) |
 | 2026-11-16 | 4 | 4 | +355.00 | [EN](daily/2026-11-16/report_EN.md) · [中文](daily/2026-11-16/report.md) |
 | 2026-11-15 | 11 | 10 | -208.00 | [EN](daily/2026-11-15/report_EN.md) · [中文](daily/2026-11-15/report.md) |
 | 2026-11-14 | 10 | 9 | +345.00 | [EN](daily/2026-11-14/report_EN.md) · [中文](daily/2026-11-14/report.md) |

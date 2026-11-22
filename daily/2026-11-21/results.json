@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "count": 17,
+  "count": 16,
   "results": [
     {
       "match_key": "德乙|达姆施塔特|海登海姆|away",
@@ -18,29 +18,9 @@
       "settle_cn": "❌输",
       "stake": 100.0,
       "profit": -100.0,
-      "result_msg_id": "<tencent_877F4D3C48F572E3ED8332E6F793C5B06208@qq.com>",
-      "result_recv_time": "2026-11-22 15:35:57",
-      "raw_line": "2026-11-21 01:30:00 | 德乙 | 达姆施塔特 vs 海登海姆 | 半亚 | 赔率 2.00 | 半 2-1 全 3-1 | ❌输 | -25.00"
-    },
-    {
-      "match_key": "德甲|拜仁慕尼黑|科隆|away",
-      "kickoff": "2026-11-21 03:30:00",
-      "league": "德甲",
-      "home": "拜仁慕尼黑",
-      "away": "科隆",
-      "direction": "away",
-      "direction_cn": "上半场·客队",
-      "handicap_main": -1.25,
-      "odds": 1.93,
-      "ht_score": "1-1",
-      "ft_score": "1-1",
-      "settle": "win",
-      "settle_cn": "✅赢",
-      "stake": 100.0,
-      "profit": 93.0,
-      "result_msg_id": "<tencent_877F4D3C48F572E3ED8332E6F793C5B06208@qq.com>",
-      "result_recv_time": "2026-11-22 15:35:57",
-      "raw_line": "2026-11-21 03:30:00 | 德甲 | 拜仁慕尼黑 vs 科隆 | 半亚 | 赔率 1.93 | 半 1-1 全 1-1 | ✅赢 | +23.25"
+      "result_msg_id": "<tencent_E7FDDDF2A4D7F38D4F0C3A99334FCAC0E20A@qq.com>",
+      "result_recv_time": "2026-11-21 11:00:12",
+      "raw_line": "2026-11-21 01:30:00 | 德乙 | 达姆施塔特 vs 海登海姆 | 客 | 赔率 2.00 | 半 2-1 全 3-1 | ❌输 | -100.00"
     },
     {
       "match_key": "法甲|特鲁瓦|勒阿弗尔|home",
@@ -58,9 +38,9 @@
       "settle_cn": "⚪走水",
       "stake": 100.0,
       "profit": 0.0,
-      "result_msg_id": "<tencent_877F4D3C48F572E3ED8332E6F793C5B06208@qq.com>",
-      "result_recv_time": "2026-11-22 15:35:57",
-      "raw_line": "2026-11-21 03:45:00 | 法甲 | 特鲁瓦 vs 勒阿弗尔 | 半亚 | 赔率 1.68 | 半 1-1 全 3-1 | ⚪走水 | +0.00"
+      "result_msg_id": "<tencent_E7FDDDF2A4D7F38D4F0C3A99334FCAC0E20A@qq.com>",
+      "result_recv_time": "2026-11-21 11:00:12",
+      "raw_line": "2026-11-21 03:45:00 | 法甲 | 特鲁瓦 vs 勒阿弗尔 | 主 | 赔率 1.68 | 半 1-1 全 3-1 | ⚪走水 | +0.00"
     },
     {
       "match_key": "英甲|巴恩斯利|谢菲尔德星期三|away",
@@ -78,9 +58,9 @@
       "settle_cn": "✅赢",
       "stake": 100.0,
       "profit": 108.0,
-      "result_msg_id": "<tencent_877F4D3C48F572E3ED8332E6F793C5B06208@qq.com>",
-      "result_recv_time": "2026-11-22 15:35:57",
-      "raw_line": "2026-11-21 04:00:00 | 英甲 | 巴恩斯利 vs 谢菲尔德星期三 | 半亚 | 赔率 2.08 | 半 1-2 全 1-2 | ✅赢 | +27.00"
+      "result_msg_id": "<tencent_E7FDDDF2A4D7F38D4F0C3A99334FCAC0E20A@qq.com>",
+      "result_recv_time": "2026-11-21 11:00:12",
+      "raw_line": "2026-11-21 04:00:00 | 英甲 | 巴恩斯利 vs 谢菲尔德星期三 | 客 | 赔率 2.08 | 半 1-2 全 1-2 | ✅赢 | +108.00"
     },
     {
       "match_key": "英冠|诺维奇|加的夫城|home",
