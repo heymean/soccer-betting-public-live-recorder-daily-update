@@ -4,10 +4,10 @@
 
 ## Summary
 
-- Bets: **20** | Settled: **16**
-- Win **5** matches / **4.5** units | Lose **10** matches / **8.0** units | Push 1 matches
-- Win rate **36.0%** (win units 4.5 / total units 12.5)
-- Total stake **1600.00** | P/L **-387.50** | ROI **-24.22%**
+- Bets: **20** | Settled: **17**
+- Win **6** matches / **5.5** units | Lose **10** matches / **8.0** units | Push 1 matches
+- Win rate **40.7%** (win units 5.5 / total units 13.5)
+- Total stake **1700.00** | P/L **-294.50** | ROI **-17.32%**
 
 > Units: win/lose = 1 unit, half-win/half-lose = 0.5 unit. Win rate = win units / total units, push excluded.
 
@@ -16,7 +16,7 @@
 | Kickoff | League | Match | Side/Handicap | Odds | HT | FT | Result | P/L |
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-21 01:30 | 德乙 | 达姆施塔特 vs 海登海姆 | 上半场·客队 +0.25 | 2.00 | 2-1 | 3-1 | ❌ Lose | -100.00 |
-| 2026-11-21 03:30 | 德甲 | 拜仁慕尼黑 vs 科隆 | 上半场·客队 -1.25 | 1.93 | - | - | Not settled | - |
+| 2026-11-21 03:30 | 德甲 | 拜仁慕尼黑 vs 科隆 | 上半场·客队 -1.25 | 1.93 | 1-1 | 1-1 | ✅ Win | +93.00 |
 | 2026-11-21 03:45 | 法甲 | 特鲁瓦 vs 勒阿弗尔 | 上半场·主队 0 | 1.68 | 1-1 | 3-1 | ⚪ Push | +0.00 |
 | 2026-11-21 04:00 | 英甲 | 巴恩斯利 vs 谢菲尔德星期三 | 上半场·客队 +0.25 | 2.08 | 1-2 | 1-2 | ✅ Win | +108.00 |
 | 2026-11-21 20:30 | 英冠 | 诺维奇 vs 加的夫城 | 上半场·主队 -0.50 | 2.05 | 0-0 | 2-1 | ❌ Lose | -100.00 |
