@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "count": 8,
+  "count": 9,
   "signals": [
     {
       "match_key": "法甲|洛里昂|雷恩|away",
@@ -121,6 +121,21 @@
       "bet_msg_id": "<tencent_1BFD71E6C1767394C928D8DBBF4E9E97FA07@qq.com>",
       "bet_recv_time": "2026-11-23 04:01:40",
       "raw_line": "西甲 | 赫塔费 vs 马德里竞技 | 赔率 1.74 | 上半场 · 客队 | 盘口 +0.25"
+    },
+    {
+      "match_key": "墨超|瓜达拉哈拉|蓝十字|away",
+      "league": "墨超",
+      "home": "瓜达拉哈拉",
+      "away": "蓝十字",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.0,
+      "odds": 2.15,
+      "kickoff_estimated": "2026-11-23 07:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_1FDBCDC926A36117FE7A79B6EA5FC77B0609@qq.com>",
+      "bet_recv_time": "2026-11-23 07:08:44",
+      "raw_line": "墨超 | 瓜达拉哈拉 vs 蓝十字 | 赔率 2.15 | 上半场 · 客队 | 盘口 0"
     }
   ]
 }

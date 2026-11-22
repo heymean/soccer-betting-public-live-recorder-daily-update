@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_update": "2026-11-23 04:35:07",
+    "last_update": "2026-11-23 04:45:06",
     "default_stake": null,
-    "total_bets": 171,
+    "total_bets": 172,
     "total_settled": 145,
     "total_stake": 14500.0,
     "total_profit": -224.0,
@@ -4919,6 +4919,25 @@
         "msg_id": "<tencent_1BFD71E6C1767394C928D8DBBF4E9E97FA07@qq.com>",
         "recv_time": "2026-11-23 04:01:40",
         "raw_line": "西甲 | 赫塔费 vs 马德里竞技 | 赔率 1.74 | 上半场 · 客队 | 盘口 +0.25"
+      },
+      "result": null
+    },
+    "墨超|瓜达拉哈拉|蓝十字|away": {
+      "match_key": "墨超|瓜达拉哈拉|蓝十字|away",
+      "match_date": "2026-11-23",
+      "league": "墨超",
+      "home": "瓜达拉哈拉",
+      "away": "蓝十字",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.0,
+      "odds": 2.15,
+      "kickoff_time": "2026-11-23 07:00:00",
+      "kickoff_source": "signal_estimated",
+      "bet": {
+        "msg_id": "<tencent_1FDBCDC926A36117FE7A79B6EA5FC77B0609@qq.com>",
+        "recv_time": "2026-11-23 07:08:44",
+        "raw_line": "墨超 | 瓜达拉哈拉 vs 蓝十字 | 赔率 2.15 | 上半场 · 客队 | 盘口 0"
       },
       "result": null
     }

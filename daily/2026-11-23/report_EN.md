@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **8** | Settled: **0**
+- Bets: **9** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -23,6 +23,7 @@
 | 2026-11-23 03:45 | 法甲 | 马赛 vs 勒芒 | 上半场·客队 -0.50 | 1.87 | - | - | Not settled | - |
 | 2026-11-23 03:45 | 意甲 | 亚特兰大 vs 国际米兰 | 上半场·主队 +0.50 | 1.78 | - | - | Not settled | - |
 | 2026-11-23 04:00 | 西甲 | 赫塔费 vs 马德里竞技 | 上半场·客队 +0.25 | 1.74 | - | - | Not settled | - |
+| 2026-11-23 07:00 | 墨超 | 瓜达拉哈拉 vs 蓝十字 | 上半场·客队 0 | 2.15 | - | - | Not settled | - |
 
 ---
 
