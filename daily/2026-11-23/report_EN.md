@@ -4,7 +4,7 @@
 
 ## Summary
 
-- Bets: **3** | Settled: **0**
+- Bets: **5** | Settled: **0**
 - Win **0** matches / **0.0** units | Lose **0** matches / **0.0** units | Push 0 matches
 - Win rate **0.0%** (win units 0.0 / total units 0.0)
 - Total stake **0.00** | P/L **+0.00** | ROI **+0.00%**
@@ -18,6 +18,8 @@
 | 2026-11-23 00:15 | 法甲 | 洛里昂 vs 雷恩 | 上半场·客队 +0.25 | 2.16 | - | - | Not settled | - |
 | 2026-11-23 00:30 | 德甲 | 云达不来梅 vs 汉堡 | 上半场·客队 -0.50 | 1.73 | - | - | Not settled | - |
 | 2026-11-23 01:00 | 意甲 | AC米兰 vs 弗洛西诺内 | 上半场·客队 -0.25 | 2.04 | - | - | Not settled | - |
+| 2026-11-23 01:30 | 西班牙乙 | 塞尔塔B队 vs 瓦拉多利德 | 上半场·客队 +0.25 | 2.07 | - | - | Not settled | - |
+| 2026-11-23 01:30 | 西甲 | 奥萨苏纳 vs 马拉加 | 上半场·主队 -0.25 | 1.92 | - | - | Not settled | - |
 
 ---
 

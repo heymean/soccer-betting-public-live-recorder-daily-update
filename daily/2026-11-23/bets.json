@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "count": 3,
+  "count": 5,
   "signals": [
     {
       "match_key": "法甲|洛里昂|雷恩|away",
@@ -46,6 +46,36 @@
       "bet_msg_id": "<tencent_8A48F5E5E33D8330E62A933CB02C7F3A3C08@qq.com>",
       "bet_recv_time": "2026-11-23 01:01:41",
       "raw_line": "意甲 | AC米兰 vs 弗洛西诺内 | 赔率 2.04 | 上半场 · 客队 | 盘口 -0.25"
+    },
+    {
+      "match_key": "西班牙乙|塞尔塔B队|瓦拉多利德|away",
+      "league": "西班牙乙",
+      "home": "塞尔塔B队",
+      "away": "瓦拉多利德",
+      "direction": "away",
+      "direction_cn": "上半场·客队",
+      "handicap_main": 0.25,
+      "odds": 2.07,
+      "kickoff_estimated": "2026-11-23 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_8F8366E64F9382B0B77F6A3C88F501E3B908@qq.com>",
+      "bet_recv_time": "2026-11-23 01:31:48",
+      "raw_line": "西班牙乙 | 塞尔塔B队 vs 瓦拉多利德 | 赔率 2.07 | 上半场 · 客队 | 盘口 +0.25"
+    },
+    {
+      "match_key": "西甲|奥萨苏纳|马拉加|home",
+      "league": "西甲",
+      "home": "奥萨苏纳",
+      "away": "马拉加",
+      "direction": "home",
+      "direction_cn": "上半场·主队",
+      "handicap_main": -0.25,
+      "odds": 1.92,
+      "kickoff_estimated": "2026-11-23 01:30:00",
+      "kickoff_source": "signal_estimated",
+      "bet_msg_id": "<tencent_8F8366E64F9382B0B77F6A3C88F501E3B908@qq.com>",
+      "bet_recv_time": "2026-11-23 01:31:48",
+      "raw_line": "西甲 | 奥萨苏纳 vs 马拉加 | 赔率 1.92 | 上半场 · 主队 | 盘口 -0.25"
     }
   ]
 }
